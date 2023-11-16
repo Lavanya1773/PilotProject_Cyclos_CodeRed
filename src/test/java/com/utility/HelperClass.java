@@ -3,18 +3,19 @@ import java.time.Duration;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class HelperClass {
 	public static HelperClass helperClass;
-	private static WebDriver driver;
+	public static WebDriver driver;
 	
-	private static WebDriverWait wait;
+	public static WebDriverWait wait;
 	public final static int TIMEOUT = 10;
 		
 	//constructor
 	HelperClass(){  //constructor
-		driver = new ChromeDriver();
+		driver = new EdgeDriver();
 		wait = new WebDriverWait(driver, Duration.ofSeconds(TIMEOUT));
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(TIMEOUT));
 		driver.manage().window().maximize();
@@ -36,8 +37,8 @@ public class HelperClass {
 	
 	public static void tearDown() {   //closing driver
 		if(driver!=null) {
-			driver.close();
-			driver.quit();
+			//driver.close();
+			//driver.quit();
 		}
 		helperClass=null;
 		

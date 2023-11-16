@@ -5,7 +5,7 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "src/test/resources/Features/AccountInformation.feature", glue = "")
+@CucumberOptions(features = "C:\\Users\\alakshmanan\\eclipse-workspace\\CodeRed\\PilotProject_Cyclos_CodeRed\\src\\test\\resources\\Features\\LoginPage.feature", glue = "com.stepdefinitions")
 
 public class runnerClass {
 
