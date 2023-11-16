@@ -1,7 +1,10 @@
-package com.utility;
+package com.stepdefinitions;
 
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
+
+import com.utility.HelperClass;
+
 import io.cucumber.java.After;
 
 public class HookClass {
@@ -12,7 +15,7 @@ public class HookClass {
 	}
 	@After
 	public static void tearDown(Scenario scenario) {
-		HelperClass.tearDown();
+//		HelperClass.tearDown();
 	}
 
 }
