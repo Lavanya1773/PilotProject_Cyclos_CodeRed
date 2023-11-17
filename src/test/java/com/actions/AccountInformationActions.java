@@ -7,11 +7,18 @@ import com.utility.HelperClass;
 
 public class AccountInformationActions {
 	AccountInformationLocators accountInformationLocators = new AccountInformationLocators();
-	String currentBalance, evenHistory, oddHistory;
+	String userName, password, currentBalance, evenHistory, oddHistory;
 	
 	public AccountInformationActions() {
 		this.accountInformationLocators = new AccountInformationLocators();
 		PageFactory.initElements(HelperClass.getDriver(), accountInformationLocators);		
+	}
+	
+	public void setSignIn(String userName, String password) {
+		accountInformationLocators.signIn.click();
+		accountInformationLocators.userName.sendKeys(userName);
+		accountInformationLocators.password.sendKeys(password);
+		accountInformationLocators.signInButton.click();
 	}
 	
 	public void clickBanking() {
@@ -32,40 +39,55 @@ public class AccountInformationActions {
 	
 	public void clickDownloadFile() {
 		accountInformationLocators.downloadFile.click();
+		System.out.println("download is clicked");
 	}
 	
-	public void clickPdf() {
-		accountInformationLocators.pdf.click();
+	public void clickPaymentFilters() {
+		System.out.println("Working on first filter");
+		accountInformationLocators.paymentFilterButton.click();
+		accountInformationLocators.systemPaymentsBox.click();
+		accountInformationLocators.searchButton.click();
+		String systemPayments = accountInformationLocators.systemResultCount.getText();
+		System.out.println("First filter result is:" + systemPayments);
+		
+		System.out.println("Working on second filter");
+		accountInformationLocators.paymentFilterButton.click();
+		accountInformationLocators.MemberPaymentsBox.click();
+		accountInformationLocators.searchButton.click();
+		String memberPayments = accountInformationLocators.memberResultCount.getText();
+		System.out.println("First filter result is:" + memberPayments);
 	}
 	
 	public void clickAdvanceButton() {
 		accountInformationLocators.advancedButton.click();
-	}
-	
-	public void clickIncoming() {
 		accountInformationLocators.incomingPayment.click();
+		accountInformationLocators.initialPayment.getText();
 	}
 	
-	public String getEvenHistory() {
-		return accountInformationLocators.evenHistory.getText();
-	}
+//	public void clickPdf() {
+//		accountInformationLocators.pdf.click();
+//	}
 	
-	public String getOddHistory() {
-		return accountInformationLocators.oddHistory.getText();
-	}
+//	public String getEvenHistory() {
+//		return accountInformationLocators.evenHistory.getText();
+//	}
+//	
+//	public String getOddHistory() {
+//		return accountInformationLocators.oddHistory.getText();
+//	}
 	
-	public void AccountInfo() {
+	public void AccountInfo(String userName, String password) {
 		
+		this.setSignIn(userName, password);
 		this.clickBanking();
 		this.getCurrentBalanceText();
 		this.getNegativeBalanceText();
 		this.getTotalReceivedBalanceText();
 		this.clickDownloadFile();
-		this.clickPdf();
+//		this.clickPdf();
 		this.clickAdvanceButton();
-		this.clickIncoming();
-		this.getEvenHistory();
-		this.getOddHistory();
+//		this.getEvenHistory();
+//		this.getOddHistory();
 	}
 
 }
