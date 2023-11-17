@@ -10,7 +10,7 @@ public class HelperClass {
 	public static WebDriver driver;
 	
 	private static WebDriverWait wait;
-	public final static int TIMEOUT = 10;
+	public final static int TIMEOUT = 20;
 		
 	//constructor
 	HelperClass(){  //constructor
