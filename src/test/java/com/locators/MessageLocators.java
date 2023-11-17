@@ -1,9 +1,21 @@
 package com.locators;
 
+<<<<<<< HEAD
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 public class MessageLocators {
+=======
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.FindBy;
+
+public class MessageLocators {
+	
+	public static WebDriver driver;
+>>>>>>> main
         
 	    //MESSAGES PAGE
 	    //Message icon in home page
@@ -14,14 +26,36 @@ public class MessageLocators {
 		@FindBy(xpath ="//span[contains(text(),'Inbox (0)')]")
 		public WebElement InBoxRadioButton;
 		
+<<<<<<< HEAD
+=======
+		//Number of result in After Inbox button
+		@FindBy(xpath ="//div[@class='paginationLeft']")
+		public WebElement ResultInbox;
+		
+		
+>>>>>>> main
 		//Radio Button SendMessage
 		@FindBy(xpath ="//span[contains(text(),'Sent messages')]")
 		public WebElement  SendMessageRadioButton;
 		
+<<<<<<< HEAD
+=======
+		//Number of result in After SendMessage button
+		@FindBy(xpath ="//div[@class='paginationLeft']")
+		public WebElement ResultSendMessage;	
+		
+>>>>>>> main
 		//Radio Button Trash
 		@FindBy (xpath ="//span[contains(text(),'Trash')]")
 		public WebElement  TrashRadiOButton;
 		
+<<<<<<< HEAD
+=======
+		//Number of result in After Trash button
+		@FindBy(xpath ="//div[@class='paginationLeft']")
+		public WebElement ResultTrash;			
+		
+>>>>>>> main
 		//Button New
 		@FindBy(xpath ="//button[contains(text(),'New ')]")
 		public WebElement NewButton;
@@ -36,15 +70,28 @@ public class MessageLocators {
 		public WebElement SubjectInputField;
 		
 		
+<<<<<<< HEAD
 		//Description Input Field--need to include
         @FindBy(xpath ="")
         public WebElement DescriptionInputField;	
+=======
+		//Description Input Field IFRAME !!!
+		public WebElement frametext = driver.findElement(By.xpath("//iframe[@class= 'richTextField']"));
+				
+//		
+//        @FindBy(xpath ="")
+//        public WebElement DescriptionInputField;	
+>>>>>>> main
         
         
 		//Send Button 
 		@FindBy(xpath ="//button[contains(text(),'Send')]")
 		public WebElement ButtonSend;
 
+<<<<<<< HEAD
+=======
+		//Success message included
+>>>>>>> main
 		@FindBy(xpath ="//div[@class='notificationText notificationText-singleLine']")
 		public WebElement Successmessage;
 		

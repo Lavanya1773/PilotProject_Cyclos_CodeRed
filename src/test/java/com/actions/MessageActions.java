@@ -15,22 +15,70 @@ public class MessageActions {
 		this.messagelocators = new MessageLocators();
 		PageFactory.initElements(HelperClass.getDriver(),messagelocators);
 	}
+<<<<<<< HEAD
 	
+=======
+		
+	
+	//Login Actions
+	public void setSignIn(String userName, String password) {
+		messagelocators.signIn.click();
+		messagelocators.userName.sendKeys(userName);
+		messagelocators.password.sendKeys(password);
+		messagelocators.signInButton.click();
+	}	
+	
+	//Clicking the message Button
+	public void clickMessageIcon() {
+		messagelocators.messageIcon.click();
+		
+	}
+		
+>>>>>>> main
 	//Clicking Inbox Radio Button
 	public void clickInboxRadioButton() {
 		messagelocators.InBoxRadioButton.click();
 	}
 	
+<<<<<<< HEAD
+=======
+	
+	//Get number of result  after clicking Inbox radio button
+	public String getNumberResultInbox() {
+		return messagelocators.ResultInbox.getText();
+	}
+		
+>>>>>>> main
 	//Clicking SendMessage Radio Button
 	public void clickSendMessageRadioButton() {
 		messagelocators.SendMessageRadioButton.click();
 	}
 	
+<<<<<<< HEAD
+=======
+	
+	//Get number of result  after clicking SendMessage radio button
+		public String getNumberResultSendMess() {
+			return messagelocators.ResultSendMessage.getText();
+		}
+	
+	
+>>>>>>> main
 	//Clicking Trash Radio Button
 	public void clickTrashRadioButton() {
 		messagelocators.TrashRadiOButton.click();
 	}
 	
+<<<<<<< HEAD
+=======
+	
+	//Get number of result  after clicking SendMessage radio button
+	public String getNumberResultTrash() {
+		return messagelocators.ResultTrash.getText();
+	}
+	
+	
+>>>>>>> main
 	//Clicking NEW Button
 	public void clickNewButton() {
 		messagelocators.NewButton.click();
@@ -49,7 +97,11 @@ public class MessageActions {
 	
 	//Enter text data in description field
 	public void setDescription(String strDescription) {
+<<<<<<< HEAD
 		messagelocators.DescriptionInputField.sendKeys(strDescription);
+=======
+		messagelocators.frametext.sendKeys(strDescription);
+>>>>>>> main
 	}
 	
 	//Clicking SEND Button
@@ -57,6 +109,7 @@ public class MessageActions {
 			messagelocators.ButtonSend.click();
 	}
 	
+<<<<<<< HEAD
 	//Login Actions
 	public void setSignIn(String userName, String password) {
 		messagelocators.signIn.click();
@@ -66,6 +119,27 @@ public class MessageActions {
 	}
 	
 	public void message(String strUserName, String strSubject, String strDescription) {
+=======
+	//Get the verification message
+	public String getSuccessMess() {
+		return messagelocators.Successmessage.getText();
+	}
+	
+	
+	public void message(String userName,String password, String strUserName, String strSubject, String strDescription) {
+		this.setSignIn(userName,password);
+		this.clickInboxRadioButton();
+		this.getNumberResultInbox();
+		
+		this.clickNewButton();
+		this.clickSendMessageRadioButton();
+		this.clickSendMessageRadioButton();
+		
+		this.clickTrashRadioButton();
+		this.getNumberResultTrash();
+		
+		this.clickNewButton();
+>>>>>>> main
 		this.setUserName(strUserName);
 		this.setSubject(strSubject);
 		this.setDescription(strDescription);
