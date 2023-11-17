@@ -3,7 +3,6 @@ import java.time.Duration;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class HelperClass {
@@ -15,7 +14,7 @@ public class HelperClass {
 		
 	//constructor
 	HelperClass(){  //constructor
-		driver = new EdgeDriver();
+		driver = new ChromeDriver();
 		wait = new WebDriverWait(driver, Duration.ofSeconds(TIMEOUT));
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(TIMEOUT));
 		driver.manage().window().maximize();
