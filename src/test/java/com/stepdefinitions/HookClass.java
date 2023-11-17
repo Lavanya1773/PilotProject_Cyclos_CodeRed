@@ -15,7 +15,7 @@ public class HookClass {
 	}
 	@After
 	public static void tearDown(Scenario scenario) {
-//		HelperClass.tearDown();
+		HelperClass.tearDown();
 	}
 
 }

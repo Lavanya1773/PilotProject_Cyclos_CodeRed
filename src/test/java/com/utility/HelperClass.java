@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class HelperClass {
 	public static HelperClass helperClass;
-	private static WebDriver driver;
+	public static WebDriver driver;
 	
 	private static WebDriverWait wait;
 	public final static int TIMEOUT = 10;
@@ -37,8 +37,8 @@ public class HelperClass {
 	
 	public static void tearDown() {   //closing driver
 		if(driver!=null) {
-			driver.close();
-			driver.quit();
+//			driver.close();
+//			driver.quit();
 		}
 		helperClass=null;
 		
