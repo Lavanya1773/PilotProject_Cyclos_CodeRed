@@ -58,7 +58,6 @@ public class MessageActions {
 	}
 	
 	//Login Actions
-	
 	public void setSignIn(String userName, String password) {
 		messagelocators.signIn.click();
 		messagelocators.userName.sendKeys(userName);
@@ -66,12 +65,10 @@ public class MessageActions {
 		messagelocators.signInButton.click();
 	}
 	
-	
 	public void message(String strUserName, String strSubject, String strDescription) {
 		this.setUserName(strUserName);
 		this.setSubject(strSubject);
 		this.setDescription(strDescription);
-		
 	}
 		
 }
