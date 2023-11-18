@@ -5,17 +5,12 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
- 
 
-public class UtilityClassMessage {
-    
-<<<<<<< HEAD
-	public String url, User,Subject,Description;
-=======
-	public String url, User,Subject,Description,userName,password;
->>>>>>> main
+public class UtilityClassVoucher {
+
+public String url,userName,password;
 	
-	public UtilityClassMessage(){
+	public UtilityClassVoucher(){
 		data();
 	}
 	public void data() {
@@ -34,17 +29,8 @@ public class UtilityClassMessage {
 			e.printStackTrace();
 		}
 		url = prop.getProperty("url");
-		User = prop.getProperty("User");
-		Subject = prop.getProperty("Subject");
-		Description = prop.getProperty("Description");
-<<<<<<< HEAD
-		
-=======
 		userName = prop.getProperty("userName");
 		password =prop.getProperty("password");
->>>>>>> main
 	}
-	
-	
 	
 }
