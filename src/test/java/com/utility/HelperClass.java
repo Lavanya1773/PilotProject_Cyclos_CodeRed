@@ -10,10 +10,23 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class HelperClass {
 	public static HelperClass helperClass;
+<<<<<<< HEAD
 	public static WebDriver driver;	
 	private static WebDriverWait wait;
 	public final static int TIMEOUT = 20;
 	public static Logger log = null;
+=======
+	public static WebDriver driver;
+	
+<<<<<<< HEAD
+	public static WebDriverWait wait;
+	public final static int TIMEOUT = 10;
+=======
+	private static WebDriverWait wait;
+	public final static int TIMEOUT = 20;
+>>>>>>> c2a702c9ff4845730e8bf50e0ba0845d2cfd1ed5
+		
+>>>>>>> ea97bd734d661ee9cd9bb8faafa0b81b29028b20
 	//constructor
 	HelperClass(){  //constructor
 		driver = new ChromeDriver();
@@ -36,9 +49,19 @@ public class HelperClass {
 	}
 	public static void tearDown() {   //closing driver
 		if(driver!=null) {
+<<<<<<< HEAD
 			driver.close();
 			driver.quit();
 			log.info("Quitting the driver");
+=======
+<<<<<<< HEAD
+			//driver.close();
+			//driver.quit();
+=======
+//			driver.close();
+//			driver.quit();
+>>>>>>> c2a702c9ff4845730e8bf50e0ba0845d2cfd1ed5
+>>>>>>> ea97bd734d661ee9cd9bb8faafa0b81b29028b20
 		}
 		helperClass=null;
 	}
