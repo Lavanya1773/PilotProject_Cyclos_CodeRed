@@ -50,12 +50,12 @@ public class AccountInformationActions {
 		String systemPayments = accountInformationLocators.systemResultCount.getText();
 		System.out.println("First filter result is:" + systemPayments);
 		
-		System.out.println("Working on second filter");
-		accountInformationLocators.paymentFilterButton.click();
-		accountInformationLocators.MemberPaymentsBox.click();
-		accountInformationLocators.searchButton.click();
-		String memberPayments = accountInformationLocators.memberResultCount.getText();
-		System.out.println("First filter result is:" + memberPayments);
+//		System.out.println("Working on second filter");
+//		accountInformationLocators.paymentFilterButton.click();
+//		accountInformationLocators.MemberPaymentsBox.click();
+//		accountInformationLocators.searchButton.click();
+//		String memberPayments = accountInformationLocators.memberResultCount.getText();
+//		System.out.println("First filter result is:" + memberPayments);
 	}
 	
 	public void clickAdvanceButton() {
@@ -64,9 +64,13 @@ public class AccountInformationActions {
 		accountInformationLocators.initialPayment.getText();
 	}
 	
-//	public void clickPdf() {
-//		accountInformationLocators.pdf.click();
-//	}
+	public void clickPdf() {
+		accountInformationLocators.pdf.click();
+	}
+	
+	public String getVerificationInitialText() {
+		return accountInformationLocators.initialPaymentTextConfirmation.getText();
+	}
 	
 //	public String getEvenHistory() {
 //		return accountInformationLocators.evenHistory.getText();
@@ -84,7 +88,7 @@ public class AccountInformationActions {
 		this.getNegativeBalanceText();
 		this.getTotalReceivedBalanceText();
 		this.clickDownloadFile();
-//		this.clickPdf();
+		this.clickPdf();
 		this.clickAdvanceButton();
 //		this.getEvenHistory();
 //		this.getOddHistory();

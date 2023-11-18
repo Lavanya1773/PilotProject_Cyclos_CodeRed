@@ -4,7 +4,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 public class GiftVoucherLocators {
-<<<<<<< HEAD
 
 	//Voucher icon
 	@FindBy(xpath ="//span[contains(text(),'Vouchers')]")
@@ -33,9 +32,7 @@ public class GiftVoucherLocators {
 	//Print Button
 	@FindBy(xpath ="//span[contains(text(),'Print')]")
 	WebElement PrintButton;
-	
-=======
-     
+ 
 	//MarketPlace
 	@FindBy(xpath ="//span[contains(text(),'Marketplace')]")
 	public WebElement MarketPlace;
@@ -81,7 +78,6 @@ public class GiftVoucherLocators {
 	
 	@FindBy(xpath = "//button[text()='Sign in']")
 	public WebElement signInButton;
->>>>>>> main
 	
 	
 	
