@@ -94,7 +94,7 @@ public class MarketPlaceDefinitions {
 		marketaction.clickAddToFavorites4();
 		Assert.assertTrue(marketaction.getPopupText().contains("Added to favorites"));
 		marketaction.clickSearchAdvertisements();//back button
-	}
+	}   
 
 	@When("User enables the checkbox \\(Show only favorites)")
 	public void user_enables_the_checkbox_show_only_favorites() {

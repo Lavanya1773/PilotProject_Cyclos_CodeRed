@@ -19,7 +19,7 @@ public class HelperClass {
 		wait = new WebDriverWait(driver, Duration.ofSeconds(TIMEOUT));
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(TIMEOUT));
 		driver.manage().window().maximize();
-	}
+	}  
 	
 	public static void openPage(String url) {  //to read the url
 		driver.get(url);
