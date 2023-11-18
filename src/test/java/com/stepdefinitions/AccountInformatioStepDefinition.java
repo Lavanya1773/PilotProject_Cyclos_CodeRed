@@ -1,9 +1,16 @@
 package com.stepdefinitions;
 
+<<<<<<< HEAD
 import org.junit.Assert;
 import com.actions.AccountInformationActions;
 import com.utility.HelperClass;
 import com.utility.UtilityClassAccountInformation;
+=======
+import com.actions.AccountInformationActions;
+import com.utility.HelperClass;
+import com.utility.UtilityClassAccountInformation;
+
+>>>>>>> 79295322b35231b02dba261e87cddb486b85e350
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -21,7 +28,13 @@ public class AccountInformatioStepDefinition {
 	@When("User provide valid username and password")
 	public void user_provide_valid_username_and_password() {
 		System.out.println("User provides username and password to signIn");
+<<<<<<< HEAD
 		objAccountActions.setSignIn(data.userName, data.password);		
+=======
+		objAccountActions.setSignIn(data.userName, data.password);
+//		objAccountActions.AccountInfo(data.userName, data.password);	
+		
+>>>>>>> 79295322b35231b02dba261e87cddb486b85e350
 	}
 
 	@When("User choose the Banking Tab")
@@ -56,6 +69,7 @@ public class AccountInformatioStepDefinition {
 		objAccountActions.clickAdvanceButton();
 		System.out.println("The total number of incoming payments have been printed");	
 		objAccountActions.clickPaymentFilters();
+<<<<<<< HEAD
 		Assert.assertTrue(objAccountActions.getVerificationInitialText().contains("Initial credit"));
 	}
 
@@ -63,6 +77,14 @@ public class AccountInformatioStepDefinition {
 	public void user_download_the_payment_history() throws InterruptedException {
 		objAccountActions.clickDownloadFile();
 		objAccountActions.clickPdf();	
+=======
+	}
+
+	@Then("User download the payment history")
+	public void user_download_the_payment_history() {
+		objAccountActions.clickDownloadFile();
+//		objAccountActions.clickPdf();
+>>>>>>> 79295322b35231b02dba261e87cddb486b85e350
 		System.out.println("Payment file is downloaded. Please Check your system");
 	   
 	}
