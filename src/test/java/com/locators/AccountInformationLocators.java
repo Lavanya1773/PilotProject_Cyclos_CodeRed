@@ -53,7 +53,8 @@ public class AccountInformationLocators {
 	@FindBy(xpath = "//button[text()='Search']")
 	public WebElement searchButton;
 	
-	@FindBy(xpath = "//div[contains(text(),'result')]")
+	@FindBy(xpath = "//div[text()='1 result']")
+	//div[contains(text(),'result')]
 	public WebElement systemResultCount;
 	
 	@FindBy(xpath = "//span[contains(text(),'Member payments')]")
@@ -64,6 +65,8 @@ public class AccountInformationLocators {
 	public WebElement memberResultCount;
 	
 	
+	@FindBy(xpath = "//td[text()='Initial credit']")
+	public WebElement initialPaymentTextConfirmation;
 	
 	@FindBy(xpath = "//span[text()='Download file']")
 	public WebElement downloadFile;

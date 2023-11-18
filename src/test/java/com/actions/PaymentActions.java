@@ -1,12 +1,20 @@
 package com.actions;
 
+import java.awt.AWTException;
+import java.time.Duration;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import com.locators.PaymentsLocators;
 import com.utility.HelperClass;
 
 public class PaymentActions {
 	PaymentsLocators  objPaymentLocators= new PaymentsLocators();
 	String userName, password, user, amount, descripiton;
+	Actions action = new Actions(HelperClass.getDriver());
+	WebDriverWait wait;
 	
 	public PaymentActions() {
 		this.objPaymentLocators = new PaymentsLocators();
@@ -19,14 +27,25 @@ public class PaymentActions {
 		objPaymentLocators.password.sendKeys(password);
 		objPaymentLocators.signInButton.click();
 	}
+	
 	//For Payment to user scenario
+	
+	public void clickBankingTab() {
+		objPaymentLocators.bankingTabOption.click();
+	}
+	
 	public void clickPaymentToUser() {
 		objPaymentLocators.paymentToUserOption.click();	
 	}
 	
-	public void setUserAndAmount(String user, String amount) {
-		objPaymentLocators.user.sendKeys(user);
-		objPaymentLocators.amount.sendKeys(amount);	
+	public void setUserAndAmount(String user, String amount) throws InterruptedException{
+		
+		HelperClass.wait.until(ExpectedConditions.visibilityOf(objPaymentLocators.user));		
+		action.moveToElement(objPaymentLocators.user).sendKeys(user).build().perform();
+//		HelperClass.getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
+		Thread.sleep(2000);
+		action.moveToElement(objPaymentLocators.user).sendKeys(Keys.DOWN,Keys.ENTER).build().perform();
+		objPaymentLocators.amount.sendKeys(amount);
 	}
 	
 	public void clickSchedule(String description) {
@@ -34,6 +53,10 @@ public class PaymentActions {
 		objPaymentLocators.description.sendKeys(description);
 		objPaymentLocators.submitButton.click();
 	}
+
+
+	
+	
 	
 	public void Confirmation() {
 		objPaymentLocators.previewText.getText();
@@ -42,8 +65,11 @@ public class PaymentActions {
 		objPaymentLocators.PayprintButton.click();
 	}
 
-	//singlePayment Scenario	
-	public void clickSinglePaymentSchedule() {
+	//single Payment Scenario	
+	public void clickSinglePaymentSchedule() throws InterruptedException {
+		HelperClass.getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
+		Thread.sleep(2000);
+		action.moveToElement(objPaymentLocators.paynowSchedule).sendKeys(Keys.DOWN,Keys.DOWN,Keys.DOWN,Keys.ENTER).build().perform();
 		objPaymentLocators.paynowSchedule.click();
 		objPaymentLocators.singlePaymentInFutureSchedule.click();
 		
@@ -88,9 +114,18 @@ public class PaymentActions {
 	
 	
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 	
-	public void PaymentLogin(String userName, String password, String user, String amount, String description) {
+	public void PaymentLogin(String userName, String password, String user, String amount, String description) throws AWTException, InterruptedException {
 		
 		this.setSignIn(userName, password);
 		this.setUserAndAmount(user, amount);

@@ -16,6 +16,9 @@ public class PaymentsLocators {
 	@FindBy(xpath = "//button[text()='Sign in']")
 	public WebElement signInButton;
 	
+	@FindBy(xpath = "//span[text()='Banking']")
+	public WebElement bankingTabOption;
+	
 	@FindBy(xpath = "//span[text()='Payment to user']")
 	public WebElement paymentToUserOption;
 	
@@ -26,7 +29,24 @@ public class PaymentsLocators {
 	public WebElement amount;
 	
 	@FindBy(xpath = "//div[@title='Pay now (not scheduled)']")
-	public WebElement paynowSchedule;
+	public WebElement paynowSchedule;	
+	
+	@FindBy(xpath = "//textarea[@name='description']")
+	public WebElement description;
+	
+	@FindBy(xpath = "//button[text()='Submit']")
+	public WebElement submitButton;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	@FindBy(xpath = "//div[@title='Recurring payments']")
 	public WebElement recurringPaymentsSchedule;
@@ -42,12 +62,6 @@ public class PaymentsLocators {
 	
 	@FindBy(xpath = "//button[text()='Ok']")
 	public WebElement futuredateOk;
-	
-	@FindBy(xpath = "//textarea[@name='description']")
-	public WebElement description;
-	
-	@FindBy(xpath = "//button[text()='Submit']")
-	public WebElement submitButton;
 	
 	@FindBy(xpath = "//div[text()='Please, review the payment below and click the confirm button']")
 	public WebElement previewText;
