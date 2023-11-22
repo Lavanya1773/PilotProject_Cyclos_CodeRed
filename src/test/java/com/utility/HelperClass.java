@@ -7,6 +7,10 @@ import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+<<<<<<< HEAD
+import org.openqa.selenium.edge.EdgeDriver;
+=======
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
 import org.openqa.selenium.support.ui.WebDriverWait;
 public class HelperClass {
 	public static HelperClass helperClass;
@@ -17,9 +21,16 @@ public class HelperClass {
 	public static JavascriptExecutor javascriptExe;
 	//constructor
 	public HelperClass(){ 		
+<<<<<<< HEAD
+	//	ChromeOptions opt = new ChromeOptions();
+//		opt.setPageLoadStrategy(PageLoadStrategy.NORMAL);
+//		driver = new ChromeDriver(opt);
+		driver = new EdgeDriver();
+=======
 		ChromeOptions opt = new ChromeOptions();
 		opt.setPageLoadStrategy(PageLoadStrategy.NORMAL);
 		driver = new ChromeDriver(opt);
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
 		wait = new WebDriverWait(driver, Duration.ofSeconds(TIMEOUT));
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(TIMEOUT));
 		driver.manage().window().maximize();
