@@ -1,5 +1,4 @@
 package com.stepdefinitions;
-
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 
@@ -12,125 +11,132 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 public class MarketPlaceDefinitions {
-	WebDriver driver;
-	UtilityClassMarketPlace utility = new UtilityClassMarketPlace();
-	MarketPlaceActions marketaction = new MarketPlaceActions();
+	UtilityClassMarketPlace utility = new UtilityClassMarketPlace(); //utility object creation
+	MarketPlaceActions marketaction = new MarketPlaceActions(); //marketplace action object creation
 	
-	
-	@Given("User launches the url")
-	public void user_launches_the_url() {
-	    HelperClass.openPage(utility.url);
-//	    Assert.assertTrue(marketaction.getLoginPageText().contains("Welcome to the Cyclos4 Demo"));
-	    System.out.println("In login page...");
-	    //clicking marketplace tab
-//	    marketaction.clickMarketplaceTab();
+	@Given("User launches the url of the web page") //Given Gherkin command
+	public void user_launches_the_url_of_the_web_page() {
+		HelperClass.openPage(utility.url); //launching the url of the web application
+		System.out.println("In login page...");
 	}
-	
-	@When("User provide valid username and password")
-	public void user_provide_valid_username_and_password() {
+
+	@When("User provide correct username and password") //When Gherkin command
+	public void user_provide_correct_username_and_password() {
 		System.out.println("User provides username and password to signIn");
-		marketaction.setSignIn(utility.userName, utility.password);
-		Assert.assertTrue(marketaction.getLoginPageText().contains("Welcome to the Cyclos4 Demo")); //asert for getting a welcome text after successful login
-		marketaction.clickMarketplaceTab(); //MarketPlace tab clicking
-		HelperClass.log.info("User gets Welcome to the Cyclos4 demo...");//log for welcome message
+		marketaction.signIn(utility.userName, utility.password); //username and password is password for signing in
+		HelperClass.log.info("User gets Welcome to the Cyclos4 demo...");
+		marketaction.clickMarket(); //clicking marketplace 
+		HelperClass.log.info("User goes to marketplace tab..."); //log
 	}
-	@When("User choose List ads")
-	public void user_choose_list_ads() {
+
+	@When("User goes to List ads") //When Gherkin command
+	public void user_goes_to_list_ads() {
 		System.out.println("Clicks list ads");
-		marketaction.clickListAds(); //Listads clicking
-		HelperClass.log.info("User clicks List ads..."); //log for listads button
+		marketaction.clickList(); //clicking list ads
+		HelperClass.log.info("User goes to list ads button..."); //log	 
 	}
 
-	@When("User choose the filter tab")
-	public void user_choose_the_filter_tab() {
-		System.out.println("Clicks dropdown");
-		marketaction.clickDropDown(); //Dropdown clicking
-		HelperClass.log.info("User clicks dropdown..."); //log for dropdown
+	@When("User applies the filter tab") //When Gherkin command
+	public void user_applies_the_filter_tab() {
+		marketaction.clickDrops(); //clicking dropdown
 	}
 
-	@When("User choose the price highest filter")
-	public void user_choose_the_price_highest_filter() {
-		System.out.println("Chooses the filter Price Highest");
-		marketaction.clickPriceHighest(); //Choosing Price highest filter
-		HelperClass.log.info("User chooses the price highest filter..."); //log for highest filter
+	@When("User chooses price highest filter") //When Gherkin command
+	public void user_chooses_price_highest_filter() {
+		marketaction.clickHighest(); //choosing price highest filter
+		HelperClass.log.info("User chooses the price highest filter..."); //log
 	}
 
-	@When("User clicks for the productOne and added to favorites")
-	public void user_clicks_for_the_product_one_and_added_to_favorites() {
-		System.out.println("Choose product 1");
-		marketaction.clickProducts1(); //choosing product one
-		System.out.println("Added product 1 to Favorites");
-		marketaction.clickAddToFavorites1(); //added to favorites
-		Assert.assertTrue(marketaction.getPopupText().contains("Added to favorites")); //assert for getting the popup text after product added to favorites
-		marketaction.clickSearchAdvertisements();//back button
-		HelperClass.log.info("User added the product one to favorites..."); //log for product one added to favorites
+	@When("User clicks for the product and added to favorites") //When Gherkin command
+	public void user_clicks_for_the_product_and_added_to_favorites() {
+		marketaction.clickProduct1().clickFav1(); //adding the product to favorites
+		marketaction.clickBack(); //going back
+		HelperClass.log.info("User chooses a product and added to favorites..."); //log
 	}
 
-	@When("User again clicks for the productTwo and added to favorites")
-	public void user_again_clicks_for_the_product_two_and_added_to_favorites() {
-	    System.out.println("Choose product 2");
-	    marketaction.clickProducts2(); //choosing product two
-	    System.out.println("Added product 2 to Favorites");
-	    marketaction.clickAddToFavorites2(); //added to favorites
-	    Assert.assertTrue(marketaction.getPopupText().contains("Added to favorites")); //assert for getting the popup text after product added to favorites
-	    marketaction.clickSearchAdvertisements();//back button
-	    HelperClass.log.info("User added the product two to favorites..."); //log for product two added to favorites
-	}
-
-	@When("User choose the price lowest filter")
-	public void user_choose_the_price_lowest_filter() {
-		System.out.println("Chooses the filter Price Lowest");
-		marketaction.clickDropDown(); //Dropdown clicking
-		marketaction.clickPriceLowest(); //Choosing Price lowest filter
-		HelperClass.log.info("User chooses the Price lowest filter...");
-	}
-
-	@When("User clicks for the productThree and adds it  to favorites")
-	public void user_clicks_for_the_product_three_and_adds_it_to_favorites() {
-		 System.out.println("Choose product 3");
-		 marketaction.clickProducts3(); //choosing product three
-   	 System.out.println("Added product 3 to Favorites");
-		 marketaction.clickAddToFavorites3(); //added to favorites
-		 Assert.assertTrue(marketaction.getPopupText().contains("Added to favorites")); //assert for getting the popup text after product added to favorites
-		 marketaction.clickSearchAdvertisements();//back button
-		 HelperClass.log.info("User added the product three to favorites..."); //log for product two added to favorites
-	}
-
-	@When("User clicks for the productFour and adds it  to favorites")
-	public void user_clicks_for_the_product_four_and_adds_it_to_favorites() {
-		System.out.println("Choose product 4");
-		marketaction.clickProducts4(); //choosing product three
-		System.out.println("Added product 4 to Favorites");
-		marketaction.clickAddToFavorites4(); //added to favorites
-		Assert.assertTrue(marketaction.getPopupText().contains("Added to favorites")); //assert for getting the popup text after product added to favorites
-		marketaction.clickSearchAdvertisements();//back button
-		HelperClass.log.info("User added the product 4 to favorites..."); //log for product two added to favorites
-	}
-
-	@When("User enables the checkbox \\(Show only favorites)")
+	@When("User enables the checkbox \\(Show only favorites)") //When Gherkin command
 	public void user_enables_the_checkbox_show_only_favorites() {
-	    System.out.println("CheckBox is been clicked");
-	    marketaction.clickShowOnlyFavorites(); //enabling the checkbox
-	    
-	    HelperClass.log.info("User enabled the checkbox (Show only favorites)..."); //log for enabling checkbox
+		marketaction.clickFavOnly(); //enabling the checkbox
+		HelperClass.log.info("User enabled the checkbow..."); //log
 	}
 
-	@When("User remove the products from favorites")
-	public void user_remove_the_products_from_favorites() throws InterruptedException {
-		System.out.println("Remove a product"); 
-
-		marketaction.clickRemoveFromFavorites1(); //removing product 
-		System.out.println("Remove product 2");
-		marketaction.clickRemoveFromFavorites2(); //removing a product 
-		HelperClass.log.info("User removed products from favorites..."); //log for removed products
+	@Then("User prints the total number of results available in favorites after added from highest filter") //Then Gherkin command
+	public void user_prints_the_total_number_of_results_available_in_favorites_after_added_from_highest_filter() {
+		marketaction.verifyResultCount(); //getting the total results
+		HelperClass.log.info("Total number of count printed after adding product in highest filter..."); //log
 	}
 
-	@Then("User is going to print the total number of results available in favorites")
-	public void user_is_going_to_print_the_total_number_of_results_available_in_favorites() {
-	   marketaction.clickMarketplaceTab(); //clicking marketplace tab   
-	   marketaction.clickShowOnlyFavorites(); //enabling checkbox again
-	    marketaction.getTotalCountInFavorites(); //getting total count 
-	    HelperClass.log.info("User finally gets the total no. of. results:"); // log for getting count 
-	    
+	@When("User chooses price lowest filter") //When Gherkin command
+	public void user_chooses_price_lowest_filter() {
+		marketaction.clickLowest(); //choosing price lowest filter
+		HelperClass.log.info("User chooses the price lowest filter..."); //log
 	}
+
+	@When("User clicks for the product and adds it  to favorites") //When Gherkin command
+	public void user_clicks_for_the_product_and_adds_it_to_favorites() {
+		marketaction.clickProduct2().clickFav2(); //adding the product to favorites
+		marketaction.clickBack(); //going back
+		HelperClass.log.info("User chooses a product and added to favorites..."); //log
+	}
+
+	@Then("User prints the total number of results available in favorites after added from lowest filter") //Then Gherkin command
+	public void user_prints_the_total_number_of_results_available_in_favorites_after_added_from_lowest_filter() {
+		marketaction.clickFavOnly(); //enabling the checbox
+		marketaction.verifyResultCount(); //getting the total results
+		HelperClass.log.info("Total number of count printed after adding product in lowest filter..."); //log
+	}
+
+	@When("User chooses relevance filter") //When Gherkin command
+	public void user_chooses_relevance_filter() {
+		marketaction.clickRelevance(); //choosing relevance filter
+		HelperClass.log.info("User chooses the price relevance filter..."); //log
+	}
+
+	@When("User clicks for the product ann adds it to favorites") //When Gherkin command
+	public void user_clicks_for_the_product_ann_adds_it_to_favorites() {
+		marketaction.clickProduct3().clickFav3(); //adding the product to favorites
+		marketaction.clickBack(); //going back
+		HelperClass.log.info("User chooses a product and added to favorites..."); //log
+	}
+
+	@Then("User prints the total number of results available in favorites after added from relevance filter") //Then Gherkin command
+	public void user_prints_the_total_number_of_results_available_in_favorites_after_added_from_relevance_filter() {
+		marketaction.clickFavOnly(); //enabling the checkbox
+		marketaction.verifyResultCount(); //getting the total results
+		HelperClass.log.info("Total number of count printed after adding product in relevance filter..."); //log
+	}
+
+	@When("User correct valid username and password") //When Gherkin command
+	public void user_correct_valid_username_and_password() {
+		System.out.println("User provides username and password to signIn");
+		marketaction.signIn(utility.userName, utility.password); //username and password is passed for signing in 
+		HelperClass.log.info("User gets Welcome to the Cyclos4 demo...");
+		marketaction.clickMarket(); //clicking marketplace
+		HelperClass.log.info("User goes to marketplace tab..."); //log
+		
+	}
+
+	@When("User removes a product from list") //When Gherkin command
+	public void user_removes_a_product_from_list() {
+		marketaction.clickFavOnly(); //enabling the checkbox
+		HelperClass.log.info("Enabled checkbox for removing...");
+		marketaction.clickRem1(); //removing the product from favorites
+		HelperClass.log.info("Removed the product...");
+		marketaction.clickMarket(); 
+		marketaction.clickFavOnly();
+		HelperClass.log.info("Again checkbow is enabled..."); //log
+	}
+
+	@Then("user prints the total number of results available in favorites after removing product") //Then Gherkin command
+	public void user_prints_the_total_number_of_results_available_in_favorites_after_removing_product() {
+		marketaction.verifyResultCount(); //getting the total results
+		HelperClass.log.info("Total number of count printed after removing a product in highest filter..."); //log
+	}
+	
 }
+
+
+
+
+
+
