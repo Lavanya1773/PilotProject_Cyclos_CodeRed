@@ -1,0 +1,1741 @@
+[INFO ] 2023-11-21 13:18:39.355 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:18:41.300 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:18:41.365 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:18:41.601 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:18:41.658 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:18:43.049 [main] HelperClass - User get Successfully Message
+[INFO ] 2023-11-21 13:18:45.811 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:19:02.504 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:19:05.594 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:19:05.653 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-21 13:19:05.747 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-21 13:19:06.552 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-21 13:19:06.865 [main] HelperClass - User get login error message
+[INFO ] 2023-11-21 13:19:12.655 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:19:26.545 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:19:29.313 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:19:29.388 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-21 13:19:29.462 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-21 13:19:29.542 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-21 13:19:29.771 [main] HelperClass - User get login error message
+[INFO ] 2023-11-21 13:19:31.944 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:22:25.384 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:22:33.371 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:22:34.367 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:22:35.026 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:22:35.078 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:22:36.390 [main] HelperClass - User get Successfully Message
+[INFO ] 2023-11-21 13:22:43.624 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:23:06.363 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:23:08.188 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:23:08.246 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-21 13:23:08.363 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-21 13:23:08.646 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-21 13:23:09.009 [main] HelperClass - User get login error message
+[INFO ] 2023-11-21 13:23:09.793 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:23:20.517 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:23:22.591 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:23:22.652 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-21 13:23:22.726 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-21 13:23:22.809 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-21 13:23:23.184 [main] HelperClass - User get login error message
+[INFO ] 2023-11-21 13:23:24.355 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:27:15.808 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:27:18.418 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:29:33.581 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:29:35.846 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:29:35.904 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:29:35.980 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:29:36.029 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:29:37.234 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 13:29:37.391 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-21 13:30:00.175 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:30:16.553 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:30:19.029 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:30:19.094 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:30:19.175 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:30:19.238 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:30:20.268 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 13:30:20.328 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-21 13:30:21.848 [main] HelperClass - User click phone option in profile
+[INFO ] 2023-11-21 13:30:21.898 [main] HelperClass - User click new to add number
+[INFO ] 2023-11-21 13:30:21.961 [main] HelperClass - User select lanline add option
+[INFO ] 2023-11-21 13:30:22.411 [main] HelperClass - User enter name of the person for landline number
+[INFO ] 2023-11-21 13:30:22.477 [main] HelperClass - User enter landline number of the person
+[INFO ] 2023-11-21 13:30:22.528 [main] HelperClass - User click the save 
+[INFO ] 2023-11-21 13:30:23.258 [main] HelperClass - User get landline number added success message
+[INFO ] 2023-11-21 13:30:24.556 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:31:05.540 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:31:07.258 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:31:07.319 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:31:07.388 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:31:07.439 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:31:08.537 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 13:31:08.601 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-21 13:31:31.305 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:31:41.163 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:31:44.601 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:31:44.659 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:31:44.732 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:31:44.784 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:31:47.253 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 13:31:47.313 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-21 13:31:50.246 [main] HelperClass - User click phone option in profile
+[INFO ] 2023-11-21 13:31:50.301 [main] HelperClass - User click new to add number
+[INFO ] 2023-11-21 13:31:50.364 [main] HelperClass - User select lanline add option
+[INFO ] 2023-11-21 13:31:50.641 [main] HelperClass - User enter name of the person for landline number
+[INFO ] 2023-11-21 13:31:50.700 [main] HelperClass - User enter landline number of the person
+[INFO ] 2023-11-21 13:31:50.757 [main] HelperClass - User click the save 
+[INFO ] 2023-11-21 13:31:51.409 [main] HelperClass - User get landline number added success message
+[INFO ] 2023-11-21 13:31:52.289 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:33:27.999 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:33:29.518 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:33:29.581 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:33:29.663 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:33:29.717 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:33:30.998 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 13:33:32.290 [main] HelperClass - User click edit option
+[INFO ] 2023-11-21 13:33:32.746 [main] HelperClass - User enter website
+[INFO ] 2023-11-21 13:33:32.805 [main] HelperClass - User choose gender
+[INFO ] 2023-11-21 13:33:32.856 [main] HelperClass - User enter the business type
+[INFO ] 2023-11-21 13:33:32.902 [main] HelperClass - User choose the business type in drop down
+[INFO ] 2023-11-21 13:33:32.951 [main] HelperClass - User click save 
+[INFO ] 2023-11-21 13:33:33.229 [main] HelperClass - User get edit success message
+[INFO ] 2023-11-21 13:33:34.268 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:34:06.869 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:34:13.502 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:34:13.695 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:34:13.816 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:34:13.866 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:34:15.320 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 13:34:15.387 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-21 13:34:17.784 [main] HelperClass - User click change option
+[INFO ] 2023-11-21 13:34:17.851 [main] HelperClass - User enter the old password 
+[INFO ] 2023-11-21 13:34:17.912 [main] HelperClass - User enter the new password 
+[INFO ] 2023-11-21 13:34:17.971 [main] HelperClass - User enter the confrim new password 
+[INFO ] 2023-11-21 13:34:18.072 [main] HelperClass - User click the confrim button
+[INFO ] 2023-11-21 13:34:18.699 [main] HelperClass - User get password reset successful message
+[INFO ] 2023-11-21 13:34:19.506 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:34:29.992 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:34:31.562 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:34:31.622 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:34:31.686 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:34:31.732 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:34:32.965 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 13:34:33.030 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-21 13:34:34.709 [main] HelperClass - User click change option
+[INFO ] 2023-11-21 13:34:34.764 [main] HelperClass - User enter the old password 
+[INFO ] 2023-11-21 13:34:34.827 [main] HelperClass - User enter the new password 
+[INFO ] 2023-11-21 13:34:34.886 [main] HelperClass - User enter the confrim new password 
+[INFO ] 2023-11-21 13:34:34.933 [main] HelperClass - User click the confrim button
+[INFO ] 2023-11-21 13:34:35.179 [main] HelperClass - User get password error message
+[INFO ] 2023-11-21 13:34:35.943 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:35:13.557 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:35:16.187 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:35:16.250 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:35:16.323 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:35:16.373 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:35:17.634 [main] HelperClass - User click User option in mainpage
+[INFO ] 2023-11-21 13:35:17.703 [main] HelperClass - User click my contact
+[INFO ] 2023-11-21 13:35:21.979 [main] HelperClass - User click add option
+[INFO ] 2023-11-21 13:35:31.036 [main] HelperClass - User enter the name to add in my contact list
+[INFO ] 2023-11-21 13:35:31.145 [main] HelperClass - User click save for add list
+[INFO ] 2023-11-21 13:35:50.788 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:37:07.692 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:37:10.156 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:37:10.215 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:37:10.283 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:37:10.344 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:37:11.365 [main] HelperClass - User click User option in mainpage
+[INFO ] 2023-11-21 13:37:11.428 [main] HelperClass - User click my contact
+[INFO ] 2023-11-21 13:37:12.840 [main] HelperClass - User click add option
+[INFO ] 2023-11-21 13:37:19.432 [main] HelperClass - User enter the name to add in my contact list
+[INFO ] 2023-11-21 13:37:19.515 [main] HelperClass - User click save for add list
+[INFO ] 2023-11-21 13:37:40.215 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:38:28.954 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:38:34.752 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:39:01.675 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:39:03.402 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:39:03.457 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:39:03.522 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:39:03.568 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:39:04.591 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 13:39:04.661 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-21 13:39:06.373 [main] HelperClass - User click the new to add address
+[DEBUG] 2023-11-21 13:39:07.342 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 13:39:07.818 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 13:39:11.015 [main] HelperClass - User enter name of the person
+[INFO ] 2023-11-21 13:39:11.077 [main] HelperClass - User enter address
+[INFO ] 2023-11-21 13:39:11.137 [main] HelperClass - User enter zipecode
+[INFO ] 2023-11-21 13:39:11.195 [main] HelperClass - User enter city
+[INFO ] 2023-11-21 13:39:11.258 [main] HelperClass - User enter state
+[INFO ] 2023-11-21 13:39:11.349 [main] HelperClass - User click the country
+[INFO ] 2023-11-21 13:39:11.392 [main] HelperClass - User enter country name
+[INFO ] 2023-11-21 13:39:11.454 [main] HelperClass - User choose the country
+[INFO ] 2023-11-21 13:39:11.517 [main] HelperClass - User choose the visibility of address
+[INFO ] 2023-11-21 13:39:11.566 [main] HelperClass - User click the save
+[INFO ] 2023-11-21 13:39:16.743 [main] HelperClass - User get save successfull message
+[INFO ] 2023-11-21 13:39:17.670 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:40:19.711 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:40:21.495 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:40:21.558 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:40:21.628 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:40:21.677 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:40:22.806 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 13:40:22.871 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-21 13:40:48.993 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:41:12.242 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:41:17.503 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:41:17.565 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:41:17.636 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:41:17.694 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:41:19.733 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 13:41:19.795 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-21 13:41:22.364 [main] HelperClass - User click phone option in profile
+[INFO ] 2023-11-21 13:41:22.416 [main] HelperClass - User click new to add number
+[INFO ] 2023-11-21 13:41:22.483 [main] HelperClass - User select lanline add option
+[INFO ] 2023-11-21 13:41:22.966 [main] HelperClass - User enter name of the person for landline number
+[INFO ] 2023-11-21 13:41:23.033 [main] HelperClass - User enter landline number of the person
+[INFO ] 2023-11-21 13:41:23.082 [main] HelperClass - User click the save 
+[INFO ] 2023-11-21 13:41:23.650 [main] HelperClass - User get landline number added success message
+[INFO ] 2023-11-21 13:41:25.224 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:41:51.722 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:41:53.337 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:41:53.398 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:41:53.471 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:41:53.527 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:41:54.590 [main] HelperClass - User click User option in mainpage
+[INFO ] 2023-11-21 13:41:54.649 [main] HelperClass - User click my contact
+[INFO ] 2023-11-21 13:41:57.234 [main] HelperClass - User click add option
+[INFO ] 2023-11-21 13:41:58.620 [main] HelperClass - User enter the name to add in my contact list
+[INFO ] 2023-11-21 13:41:58.696 [main] HelperClass - User click save for add list
+[INFO ] 2023-11-21 13:42:20.673 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:42:54.387 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:42:56.229 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:42:56.291 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:42:56.360 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:42:56.409 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:42:57.396 [main] HelperClass - User click User option in mainpage
+[INFO ] 2023-11-21 13:42:57.455 [main] HelperClass - User click my contact
+[INFO ] 2023-11-21 13:43:39.347 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:43:57.700 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:43:59.919 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:43:59.980 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:44:00.052 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:44:00.105 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:44:01.389 [main] HelperClass - User click User option in mainpage
+[INFO ] 2023-11-21 13:44:01.457 [main] HelperClass - User click my contact
+[INFO ] 2023-11-21 13:44:02.869 [main] HelperClass - User click add option
+[INFO ] 2023-11-21 13:44:04.677 [main] HelperClass - User enter the name to add in my contact list
+[INFO ] 2023-11-21 13:44:04.754 [main] HelperClass - User click save for add list
+[INFO ] 2023-11-21 13:44:09.287 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:45:54.036 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:45:55.775 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:45:55.837 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:45:55.908 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:45:55.959 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:45:57.157 [main] HelperClass - User click User option in mainpage
+[INFO ] 2023-11-21 13:45:57.217 [main] HelperClass - User click my contact
+[INFO ] 2023-11-21 13:46:38.060 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:47:14.888 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:47:16.462 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:47:16.521 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:47:16.592 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:47:16.645 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:47:18.947 [main] HelperClass - User click User option in mainpage
+[INFO ] 2023-11-21 13:47:19.011 [main] HelperClass - User click my contact
+[INFO ] 2023-11-21 13:47:20.629 [main] HelperClass - User click add option
+[INFO ] 2023-11-21 13:47:23.479 [main] HelperClass - User enter the name to add in my contact list
+[INFO ] 2023-11-21 13:47:23.554 [main] HelperClass - User click save for add list
+[INFO ] 2023-11-21 13:47:23.775 [main] HelperClass - User get successful add list message
+[INFO ] 2023-11-21 13:47:24.600 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:48:04.795 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:48:06.898 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:48:07.032 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:48:07.108 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:48:07.157 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:48:08.187 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 13:48:08.246 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-21 13:48:09.570 [main] HelperClass - User click phone option in profile
+[INFO ] 2023-11-21 13:48:09.626 [main] HelperClass - User click new to add mobile number
+[INFO ] 2023-11-21 13:48:09.695 [main] HelperClass - User select mobile number add option
+[INFO ] 2023-11-21 13:48:09.984 [main] HelperClass - User enter name of the person for mobile number
+[INFO ] 2023-11-21 13:48:10.045 [main] HelperClass - User enter mobile number of the person
+[INFO ] 2023-11-21 13:48:10.095 [main] HelperClass - User click the save
+[INFO ] 2023-11-21 13:48:10.563 [main] HelperClass - User get mobile number added success message
+[INFO ] 2023-11-21 13:48:11.549 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 13:48:21.181 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 13:48:22.918 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 13:48:22.981 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 13:48:23.050 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 13:48:23.107 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 13:48:24.372 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 13:48:24.434 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-21 13:48:25.978 [main] HelperClass - User click phone option in profile
+[INFO ] 2023-11-21 13:48:26.031 [main] HelperClass - User click new to add number
+[INFO ] 2023-11-21 13:48:26.100 [main] HelperClass - User select lanline add option
+[INFO ] 2023-11-21 13:48:26.374 [main] HelperClass - User enter name of the person for landline number
+[INFO ] 2023-11-21 13:48:26.436 [main] HelperClass - User enter landline number of the person
+[INFO ] 2023-11-21 13:48:26.490 [main] HelperClass - User click the save 
+[INFO ] 2023-11-21 13:48:26.929 [main] HelperClass - User get landline number added success message
+[INFO ] 2023-11-21 13:48:27.802 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 14:24:04.375 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 14:24:07.298 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 14:24:08.677 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 14:24:08.805 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 14:24:08.856 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 14:24:10.815 [main] HelperClass - User click User option in mainpage
+[INFO ] 2023-11-21 14:24:10.873 [main] HelperClass - User click my contact
+[INFO ] 2023-11-21 14:24:18.089 [main] HelperClass - User click add option
+[INFO ] 2023-11-21 14:24:28.384 [main] HelperClass - User enter the name to add in my contact list
+[INFO ] 2023-11-21 14:24:28.579 [main] HelperClass - User click save for add list
+[INFO ] 2023-11-21 14:24:29.209 [main] HelperClass - User get successful add list message
+[INFO ] 2023-11-21 14:24:31.820 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 16:15:58.773 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 16:16:02.040 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 16:16:02.099 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 16:16:02.292 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 16:16:02.351 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 16:16:03.761 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 16:16:03.821 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-21 16:16:05.920 [main] HelperClass - User click the new to add address
+[DEBUG] 2023-11-21 16:16:08.313 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 16:16:08.648 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 16:16:42.474 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 16:17:20.595 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 16:17:22.735 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 16:17:22.801 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 16:17:22.877 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 16:17:22.928 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 16:17:24.075 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 16:17:24.144 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-21 16:17:46.321 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 16:18:19.077 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 16:18:20.844 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 16:18:20.969 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 16:18:21.078 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 16:18:21.134 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 16:18:22.115 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 16:18:22.184 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-21 16:18:44.036 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 16:19:23.155 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 16:19:25.657 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 16:19:25.718 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 16:19:25.794 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 16:19:25.846 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 16:19:27.065 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 16:19:27.129 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-21 16:19:28.428 [main] HelperClass - User click the new to add address
+[DEBUG] 2023-11-21 16:19:28.568 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 16:19:28.589 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 16:19:50.343 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 16:22:08.565 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 16:22:10.293 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 16:22:10.354 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 16:22:10.427 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 16:22:10.480 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 16:22:11.624 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 16:22:11.692 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-21 16:22:14.468 [main] HelperClass - User click the new to add address
+[DEBUG] 2023-11-21 16:22:14.597 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 16:22:14.616 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-21 16:22:15.392 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 16:22:15.393 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 16:22:15.509 [main] HelperClass - User choose the country
+[INFO ] 2023-11-21 16:22:15.558 [main] HelperClass - User choose the visibility of address
+[INFO ] 2023-11-21 16:22:15.617 [main] HelperClass - User click the save
+[INFO ] 2023-11-21 16:22:18.559 [main] HelperClass - User get save successfull message
+[INFO ] 2023-11-21 16:22:20.482 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 16:26:59.178 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 16:27:01.831 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 16:27:01.892 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 16:27:01.969 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 16:27:02.035 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 16:27:03.124 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 16:27:03.191 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-21 16:27:24.909 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 16:27:54.766 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 16:27:56.793 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 16:27:56.868 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 16:27:56.941 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 16:27:57.000 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 16:27:57.993 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 16:27:58.057 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-21 16:27:59.859 [main] HelperClass - User click the new to add address
+[DEBUG] 2023-11-21 16:27:59.985 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 16:28:00.006 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 16:28:00.683 [main] HelperClass - User enter name,address,zipecode,city,state which get from AddressData.xlsx
+[INFO ] 2023-11-21 16:28:00.770 [main] HelperClass - User click country
+[DEBUG] 2023-11-21 16:28:00.776 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 16:28:00.777 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 16:28:00.836 [main] HelperClass - User enter country name which get from AddressData.xlsx
+[INFO ] 2023-11-21 16:28:00.894 [main] HelperClass - User choose the country
+[INFO ] 2023-11-21 16:28:00.945 [main] HelperClass - User choose the visibility of address
+[INFO ] 2023-11-21 16:28:00.995 [main] HelperClass - User click the save
+[INFO ] 2023-11-21 16:28:02.282 [main] HelperClass - User get save successfull message
+[INFO ] 2023-11-21 16:28:03.471 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 16:40:17.142 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 16:40:21.543 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 16:40:21.604 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 16:40:21.688 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 16:40:21.738 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 16:40:43.538 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 16:41:42.423 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 16:41:44.455 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 16:41:44.514 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 16:41:44.594 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 16:41:44.646 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 16:42:05.991 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 16:43:07.466 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 16:43:10.400 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 16:43:10.459 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 16:43:10.529 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 16:43:10.578 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 16:43:32.086 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 16:44:12.957 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 16:44:14.878 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 16:44:14.936 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 16:44:15.003 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 16:44:15.049 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 16:44:36.019 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 16:44:46.398 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 16:44:48.562 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 16:44:48.623 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 16:44:48.695 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 16:44:48.752 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 16:45:10.053 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 16:46:58.565 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 16:47:00.433 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 16:47:00.494 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 16:47:00.563 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 16:47:00.614 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 16:47:01.891 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 16:47:02.022 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-21 16:47:04.126 [main] HelperClass - User click change option
+[INFO ] 2023-11-21 16:47:04.178 [main] HelperClass - User enter the old password 
+[INFO ] 2023-11-21 16:47:04.233 [main] HelperClass - User enter the new password 
+[INFO ] 2023-11-21 16:47:04.290 [main] HelperClass - User enter the confrim new password 
+[INFO ] 2023-11-21 16:47:04.336 [main] HelperClass - User click the confrim button
+[INFO ] 2023-11-21 16:47:04.877 [main] HelperClass - User get password reset successful message
+[INFO ] 2023-11-21 16:47:05.585 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 16:47:17.003 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 16:47:18.847 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 16:47:18.900 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 16:47:18.966 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 16:47:19.012 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 16:47:20.327 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 16:47:20.397 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-21 16:47:22.195 [main] HelperClass - User click change option
+[INFO ] 2023-11-21 16:47:22.255 [main] HelperClass - User enter the old password 
+[INFO ] 2023-11-21 16:47:22.315 [main] HelperClass - User enter the new password 
+[INFO ] 2023-11-21 16:47:22.375 [main] HelperClass - User enter the confrim new password 
+[INFO ] 2023-11-21 16:47:22.427 [main] HelperClass - User click the confrim button
+[INFO ] 2023-11-21 16:47:22.660 [main] HelperClass - User get password error message
+[INFO ] 2023-11-21 16:47:23.333 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 16:49:51.407 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 16:49:53.178 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 16:49:53.239 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 16:49:53.307 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 16:49:53.358 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 16:49:54.674 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 16:49:54.741 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-21 16:50:36.433 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 16:51:27.341 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 16:51:28.963 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 16:51:29.022 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 16:51:29.092 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 16:51:29.145 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 16:51:30.317 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 16:51:30.384 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-21 16:51:31.640 [main] HelperClass - User click the new to add address
+[DEBUG] 2023-11-21 16:51:32.868 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 16:51:33.273 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 16:51:35.807 [main] HelperClass - User enter name,address,zipecode,city,state which get from AddressData.xlsx
+[INFO ] 2023-11-21 16:51:35.898 [main] HelperClass - User click country
+[DEBUG] 2023-11-21 16:51:35.904 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 16:51:35.906 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 16:51:35.965 [main] HelperClass - User enter country name which get from AddressData.xlsx
+[INFO ] 2023-11-21 16:51:36.029 [main] HelperClass - User choose the country
+[INFO ] 2023-11-21 16:51:36.075 [main] HelperClass - User choose the visibility of address
+[INFO ] 2023-11-21 16:51:36.123 [main] HelperClass - User click the save
+[INFO ] 2023-11-21 16:51:39.688 [main] HelperClass - User get save successfull message
+[INFO ] 2023-11-21 16:51:40.839 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:28:24.286 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:28:26.263 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:28:26.326 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:28:26.624 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:28:26.686 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:28:27.816 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:28:27.876 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-21 17:28:29.460 [main] HelperClass - User click the new to add address
+[DEBUG] 2023-11-21 17:28:30.486 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 17:28:30.715 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 17:28:41.520 [main] HelperClass - User enter name,address,zipecode,city,state which get from AddressData.xlsx
+[INFO ] 2023-11-21 17:28:41.607 [main] HelperClass - User click country
+[DEBUG] 2023-11-21 17:28:41.613 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 17:28:41.614 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 17:28:41.675 [main] HelperClass - User enter country name which get from AddressData.xlsx
+[INFO ] 2023-11-21 17:28:41.730 [main] HelperClass - User choose the country
+[INFO ] 2023-11-21 17:28:41.778 [main] HelperClass - User choose the visibility of address
+[INFO ] 2023-11-21 17:28:41.828 [main] HelperClass - User click the save
+[INFO ] 2023-11-21 17:31:14.253 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:31:17.323 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:31:17.385 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:31:17.457 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:31:17.510 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:31:18.550 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:31:18.612 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-21 17:31:19.804 [main] HelperClass - User click the new to add address
+[DEBUG] 2023-11-21 17:31:20.238 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 17:31:20.261 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 17:31:22.015 [main] HelperClass - User enter name,address,zipecode,city,state which get from AddressData.xlsx
+[INFO ] 2023-11-21 17:31:22.104 [main] HelperClass - User click country
+[DEBUG] 2023-11-21 17:31:22.110 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 17:31:22.112 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 17:31:22.172 [main] HelperClass - User enter country name which get from AddressData.xlsx
+[INFO ] 2023-11-21 17:31:22.225 [main] HelperClass - User choose the country
+[INFO ] 2023-11-21 17:31:22.273 [main] HelperClass - User choose the visibility of address
+[INFO ] 2023-11-21 17:31:22.335 [main] HelperClass - User click the save
+[INFO ] 2023-11-21 17:31:29.562 [main] HelperClass - User get save successfull message
+[INFO ] 2023-11-21 17:31:31.783 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:31:49.260 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:31:51.422 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:31:51.482 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:31:51.554 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:31:51.604 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:31:53.030 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:31:53.091 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-21 17:31:56.660 [main] HelperClass - User click phone option in profile
+[INFO ] 2023-11-21 17:31:56.722 [main] HelperClass - User click new to add mobile number
+[INFO ] 2023-11-21 17:31:56.788 [main] HelperClass - User select mobile number add option
+[INFO ] 2023-11-21 17:31:57.103 [main] HelperClass - User enter name of the person for mobile number
+[INFO ] 2023-11-21 17:31:57.173 [main] HelperClass - User enter mobile number of the person
+[INFO ] 2023-11-21 17:31:57.300 [main] HelperClass - User click the save
+[INFO ] 2023-11-21 17:31:57.831 [main] HelperClass - User get mobile number added success message
+[INFO ] 2023-11-21 17:32:01.991 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:32:15.756 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:32:18.387 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:32:18.444 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:32:18.513 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:32:18.562 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:32:19.693 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:32:19.751 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-21 17:32:28.614 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:32:42.838 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:32:48.286 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:32:48.342 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:32:48.413 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:32:48.466 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:32:49.652 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:32:51.204 [main] HelperClass - User click edit option
+[INFO ] 2023-11-21 17:32:51.654 [main] HelperClass - User enter website
+[INFO ] 2023-11-21 17:32:51.706 [main] HelperClass - User choose gender
+[INFO ] 2023-11-21 17:32:51.762 [main] HelperClass - User enter the business type
+[INFO ] 2023-11-21 17:32:51.813 [main] HelperClass - User choose the business type in drop down
+[INFO ] 2023-11-21 17:32:51.863 [main] HelperClass - User click save 
+[INFO ] 2023-11-21 17:32:52.151 [main] HelperClass - User get edit success message
+[INFO ] 2023-11-21 17:32:54.829 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:33:13.768 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:33:15.829 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:33:15.890 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:33:15.961 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:33:16.009 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:33:17.251 [main] HelperClass - User get Successfully Message
+[INFO ] 2023-11-21 17:33:18.413 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:33:34.033 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:33:39.281 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:33:39.339 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-21 17:33:39.408 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-21 17:33:39.728 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-21 17:33:40.041 [main] HelperClass - User get login error message
+[INFO ] 2023-11-21 17:33:43.016 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:33:53.311 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:33:55.771 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:33:55.828 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-21 17:33:55.903 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-21 17:33:55.976 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-21 17:33:56.187 [main] HelperClass - User get login error message
+[INFO ] 2023-11-21 17:33:57.629 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:34:15.091 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:34:18.669 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:34:18.725 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:34:18.798 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:34:18.846 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:34:20.567 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:34:20.625 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-21 17:34:26.524 [main] HelperClass - User click change option
+[INFO ] 2023-11-21 17:34:26.574 [main] HelperClass - User enter the old password 
+[INFO ] 2023-11-21 17:34:26.635 [main] HelperClass - User enter the new password 
+[INFO ] 2023-11-21 17:34:26.695 [main] HelperClass - User enter the confrim new password 
+[INFO ] 2023-11-21 17:34:26.745 [main] HelperClass - User click the confrim button
+[INFO ] 2023-11-21 17:34:27.159 [main] HelperClass - User get password reset successful message
+[INFO ] 2023-11-21 17:34:32.530 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:34:50.739 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:34:52.635 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:34:52.692 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:34:52.755 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:34:52.807 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:34:53.999 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:34:54.057 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-21 17:34:56.971 [main] HelperClass - User click change option
+[INFO ] 2023-11-21 17:35:20.026 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:35:36.913 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:35:39.277 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:35:39.340 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:35:39.413 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:35:39.530 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:35:41.063 [main] HelperClass - User click User option in mainpage
+[INFO ] 2023-11-21 17:35:41.124 [main] HelperClass - User click my contact
+[INFO ] 2023-11-21 17:35:46.076 [main] HelperClass - User click add option
+[INFO ] 2023-11-21 17:35:51.750 [main] HelperClass - User enter the name to add in my contact list
+[INFO ] 2023-11-21 17:35:51.816 [main] HelperClass - User click save for add list
+[INFO ] 2023-11-21 17:35:52.037 [main] HelperClass - User get successful add list message
+[INFO ] 2023-11-21 17:35:53.696 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:36:12.421 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:36:20.770 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:36:40.672 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:39:48.252 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:39:50.619 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:39:50.682 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:39:50.814 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:39:50.869 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:39:51.906 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:39:51.968 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-21 17:40:15.284 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:40:32.337 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:40:34.687 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:40:34.864 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:40:34.937 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:40:34.984 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:40:36.477 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:40:36.539 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-21 17:40:37.893 [main] HelperClass - User click phone option in profile
+[INFO ] 2023-11-21 17:40:37.946 [main] HelperClass - User click new to add mobile number
+[INFO ] 2023-11-21 17:40:38.008 [main] HelperClass - User select mobile number add option
+[INFO ] 2023-11-21 17:40:38.302 [main] HelperClass - User enter name of the person for mobile number
+[INFO ] 2023-11-21 17:40:38.363 [main] HelperClass - User enter mobile number of the person
+[INFO ] 2023-11-21 17:40:38.414 [main] HelperClass - User click the save
+[INFO ] 2023-11-21 17:40:38.902 [main] HelperClass - User get mobile number added success message
+[INFO ] 2023-11-21 17:40:40.116 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:40:54.344 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:40:58.708 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:40:58.767 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:40:58.836 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:40:58.894 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:40:59.897 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:40:59.957 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-21 17:41:32.665 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:41:49.922 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:41:52.188 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:41:52.246 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:41:52.319 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:41:52.375 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:41:54.893 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:41:56.379 [main] HelperClass - User click edit option
+[INFO ] 2023-11-21 17:41:56.990 [main] HelperClass - User enter website
+[INFO ] 2023-11-21 17:41:57.041 [main] HelperClass - User choose gender
+[INFO ] 2023-11-21 17:41:57.114 [main] HelperClass - User enter the business type
+[INFO ] 2023-11-21 17:41:57.163 [main] HelperClass - User choose the business type in drop down
+[INFO ] 2023-11-21 17:41:57.210 [main] HelperClass - User click save 
+[INFO ] 2023-11-21 17:41:57.483 [main] HelperClass - User get edit success message
+[INFO ] 2023-11-21 17:41:59.655 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:42:11.414 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:42:14.060 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:42:14.117 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:42:14.186 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:42:14.235 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:42:16.792 [main] HelperClass - User get Successfully Message
+[INFO ] 2023-11-21 17:42:17.977 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:42:30.253 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:42:32.191 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:42:32.251 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-21 17:42:32.321 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-21 17:42:32.412 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-21 17:42:32.740 [main] HelperClass - User get login error message
+[INFO ] 2023-11-21 17:42:36.251 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:42:49.126 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:42:53.307 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:42:53.364 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-21 17:42:53.443 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-21 17:42:53.520 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-21 17:42:53.764 [main] HelperClass - User get login error message
+[INFO ] 2023-11-21 17:42:55.182 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:43:11.303 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:43:14.367 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:43:14.422 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:43:14.495 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:43:14.552 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:43:15.734 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:43:15.795 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-21 17:43:18.515 [main] HelperClass - User click change option
+[INFO ] 2023-11-21 17:43:18.585 [main] HelperClass - User enter the old password 
+[INFO ] 2023-11-21 17:43:18.645 [main] HelperClass - User enter the new password 
+[INFO ] 2023-11-21 17:43:18.703 [main] HelperClass - User enter the confrim new password 
+[INFO ] 2023-11-21 17:43:18.753 [main] HelperClass - User click the confrim button
+[INFO ] 2023-11-21 17:43:19.177 [main] HelperClass - User get password reset successful message
+[INFO ] 2023-11-21 17:43:20.804 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:43:36.311 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:43:39.784 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:43:39.841 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:43:39.909 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:43:39.969 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:43:41.157 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:43:41.218 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-21 17:43:42.484 [main] HelperClass - User click change option
+[INFO ] 2023-11-21 17:44:05.806 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:44:21.106 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:44:24.869 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:44:24.928 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:44:24.997 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:44:25.054 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:44:26.277 [main] HelperClass - User click User option in mainpage
+[INFO ] 2023-11-21 17:44:26.336 [main] HelperClass - User click my contact
+[INFO ] 2023-11-21 17:44:29.710 [main] HelperClass - User click add option
+[INFO ] 2023-11-21 17:44:39.997 [main] HelperClass - User enter the name to add in my contact list
+[INFO ] 2023-11-21 17:44:40.064 [main] HelperClass - User click save for add list
+[INFO ] 2023-11-21 17:44:40.663 [main] HelperClass - User get successful add list message
+[INFO ] 2023-11-21 17:44:43.874 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:44:58.892 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:45:07.712 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:47:44.762 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:47:47.347 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:47:47.409 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:47:47.487 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:47:47.541 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:47:48.827 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:47:48.949 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-21 17:47:51.617 [main] HelperClass - User click the new to add address
+[DEBUG] 2023-11-21 17:47:51.737 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 17:47:51.756 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 17:47:52.460 [main] HelperClass - User enter name,address,zipecode,city,state which get from AddressData.xlsx
+[INFO ] 2023-11-21 17:47:52.557 [main] HelperClass - User click country
+[DEBUG] 2023-11-21 17:47:52.563 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 17:47:52.564 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 17:47:52.623 [main] HelperClass - User enter country name which get from AddressData.xlsx
+[INFO ] 2023-11-21 17:47:52.675 [main] HelperClass - User choose the country
+[INFO ] 2023-11-21 17:47:52.727 [main] HelperClass - User choose the visibility of address
+[INFO ] 2023-11-21 17:47:52.780 [main] HelperClass - User click the save
+[INFO ] 2023-11-21 17:51:06.894 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:51:09.935 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:51:09.993 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:51:10.072 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:51:10.121 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:51:11.210 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:51:11.279 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-21 17:51:13.726 [main] HelperClass - User click the new to add address
+[DEBUG] 2023-11-21 17:51:13.845 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 17:51:13.864 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 17:51:14.530 [main] HelperClass - User enter name,address,zipecode,city,state which get from AddressData.xlsx
+[INFO ] 2023-11-21 17:51:14.624 [main] HelperClass - User click country
+[DEBUG] 2023-11-21 17:51:14.631 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 17:51:14.632 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 17:51:14.694 [main] HelperClass - User enter country name which get from AddressData.xlsx
+[INFO ] 2023-11-21 17:51:14.749 [main] HelperClass - User choose the country
+[INFO ] 2023-11-21 17:51:14.806 [main] HelperClass - User choose the visibility of address
+[INFO ] 2023-11-21 17:51:14.861 [main] HelperClass - User click the save
+[INFO ] 2023-11-21 17:51:16.218 [main] HelperClass - User get save successfull message
+[INFO ] 2023-11-21 17:51:16.980 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:51:25.858 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:51:28.187 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:51:28.247 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:51:28.318 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:51:28.369 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:51:29.726 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:51:29.792 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-21 17:52:58.654 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:53:00.356 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:53:00.414 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:53:00.482 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:53:00.542 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:53:01.642 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:53:01.706 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-21 17:53:02.906 [main] HelperClass - User click the new to add address
+[DEBUG] 2023-11-21 17:53:03.025 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 17:53:03.044 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 17:53:03.716 [main] HelperClass - User enter name,address,zipecode,city,state which get from AddressData.xlsx
+[INFO ] 2023-11-21 17:53:03.803 [main] HelperClass - User click country
+[DEBUG] 2023-11-21 17:53:03.809 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 17:53:03.810 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 17:53:03.873 [main] HelperClass - User enter country name which get from AddressData.xlsx
+[INFO ] 2023-11-21 17:53:03.928 [main] HelperClass - User choose the country
+[INFO ] 2023-11-21 17:53:03.976 [main] HelperClass - User choose the visibility of address
+[INFO ] 2023-11-21 17:53:04.035 [main] HelperClass - User click the save
+[INFO ] 2023-11-21 17:53:05.724 [main] HelperClass - User get save successfull message
+[INFO ] 2023-11-21 17:53:06.937 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:53:16.307 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:53:18.298 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:53:18.366 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:53:18.437 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:53:18.555 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:53:19.671 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:53:19.739 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-21 17:53:21.013 [main] HelperClass - User click phone option in profile
+[INFO ] 2023-11-21 17:53:21.065 [main] HelperClass - User click new to add mobile number
+[INFO ] 2023-11-21 17:53:21.125 [main] HelperClass - User select mobile number add option
+[INFO ] 2023-11-21 17:53:21.402 [main] HelperClass - User enter name of the person for mobile number
+[INFO ] 2023-11-21 17:53:21.464 [main] HelperClass - User enter mobile number of the person
+[INFO ] 2023-11-21 17:53:21.515 [main] HelperClass - User click the save
+[INFO ] 2023-11-21 17:53:22.018 [main] HelperClass - User get mobile number added success message
+[INFO ] 2023-11-21 17:53:22.690 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:53:31.826 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:53:33.564 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:53:33.623 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:53:33.696 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:53:33.747 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:53:34.917 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:53:34.984 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-21 17:53:36.421 [main] HelperClass - User click phone option in profile
+[INFO ] 2023-11-21 17:53:36.470 [main] HelperClass - User click new to add number
+[INFO ] 2023-11-21 17:53:36.532 [main] HelperClass - User select lanline add option
+[INFO ] 2023-11-21 17:53:36.847 [main] HelperClass - User enter name of the person for landline number
+[INFO ] 2023-11-21 17:53:36.909 [main] HelperClass - User enter landline number of the person
+[INFO ] 2023-11-21 17:53:36.959 [main] HelperClass - User click the save 
+[INFO ] 2023-11-21 17:53:37.409 [main] HelperClass - User get landline number added success message
+[INFO ] 2023-11-21 17:53:38.033 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:53:47.539 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:53:49.584 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:53:49.735 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:53:49.805 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:53:49.855 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:53:50.912 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:53:52.451 [main] HelperClass - User click edit option
+[INFO ] 2023-11-21 17:53:52.905 [main] HelperClass - User enter website
+[INFO ] 2023-11-21 17:53:52.954 [main] HelperClass - User choose gender
+[INFO ] 2023-11-21 17:53:53.017 [main] HelperClass - User enter the business type
+[INFO ] 2023-11-21 17:53:53.070 [main] HelperClass - User choose the business type in drop down
+[INFO ] 2023-11-21 17:53:53.118 [main] HelperClass - User click save 
+[INFO ] 2023-11-21 17:53:53.428 [main] HelperClass - User get edit success message
+[INFO ] 2023-11-21 17:53:53.987 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:54:03.909 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:54:06.270 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:54:06.327 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:54:06.395 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:54:06.449 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:54:07.776 [main] HelperClass - User get Successfully Message
+[INFO ] 2023-11-21 17:54:08.545 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:54:17.993 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:54:20.020 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:54:20.088 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-21 17:54:20.156 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-21 17:54:20.238 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-21 17:54:20.603 [main] HelperClass - User get login error message
+[INFO ] 2023-11-21 17:54:21.560 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:54:31.429 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:54:33.205 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:54:33.260 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-21 17:54:33.327 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-21 17:54:33.402 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-21 17:54:33.708 [main] HelperClass - User get login error message
+[INFO ] 2023-11-21 17:54:34.381 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:54:43.546 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:54:45.363 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:54:45.421 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:54:45.487 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:54:45.538 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:54:46.657 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:54:46.724 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-21 17:54:48.761 [main] HelperClass - User click change option
+[INFO ] 2023-11-21 17:54:48.819 [main] HelperClass - User enter the old password 
+[INFO ] 2023-11-21 17:54:48.878 [main] HelperClass - User enter the new password 
+[INFO ] 2023-11-21 17:54:48.932 [main] HelperClass - User enter the confrim new password 
+[INFO ] 2023-11-21 17:54:48.980 [main] HelperClass - User click the confrim button
+[INFO ] 2023-11-21 17:54:49.425 [main] HelperClass - User get password reset successful message
+[INFO ] 2023-11-21 17:54:50.159 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:55:00.199 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:55:04.277 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:55:04.340 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:55:04.407 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:55:04.455 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:55:06.173 [main] HelperClass - User click personal field
+[INFO ] 2023-11-21 17:55:06.228 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-21 17:55:08.378 [main] HelperClass - User click change option
+[INFO ] 2023-11-21 17:55:08.431 [main] HelperClass - User enter the old password 
+[INFO ] 2023-11-21 17:55:08.491 [main] HelperClass - User enter the new password 
+[INFO ] 2023-11-21 17:55:08.549 [main] HelperClass - User enter the confrim new password 
+[INFO ] 2023-11-21 17:55:08.596 [main] HelperClass - User click the confrim button
+[INFO ] 2023-11-21 17:55:08.830 [main] HelperClass - User get password error message
+[INFO ] 2023-11-21 17:55:09.711 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:55:17.941 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:55:19.610 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-21 17:55:19.665 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-21 17:55:19.733 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-21 17:55:19.783 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-21 17:55:20.925 [main] HelperClass - User click User option in mainpage
+[INFO ] 2023-11-21 17:55:21.036 [main] HelperClass - User click my contact
+[INFO ] 2023-11-21 17:55:22.325 [main] HelperClass - User click add option
+[INFO ] 2023-11-21 17:55:23.900 [main] HelperClass - User enter the name to add in my contact list
+[INFO ] 2023-11-21 17:55:23.968 [main] HelperClass - User click save for add list
+[INFO ] 2023-11-21 17:55:24.187 [main] HelperClass - User get successful add list message
+[INFO ] 2023-11-21 17:55:24.908 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-21 17:55:33.620 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-21 17:55:38.537 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:43:29.927 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 09:43:30.163 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 09:43:45.863 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 09:43:48.953 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 09:43:52.837 [main] HelperClass - User gets the current balance
+[INFO ] 2023-11-22 09:43:52.880 [main] HelperClass - User gets the negative balance
+[INFO ] 2023-11-22 09:43:52.908 [main] HelperClass - User gets the Total received payments
+[INFO ] 2023-11-22 09:43:53.571 [main] HelperClass - User prints the pdf
+[INFO ] 2023-11-22 09:44:08.727 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:44:57.127 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 09:44:57.127 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 09:45:00.291 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 09:45:01.384 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 09:45:03.246 [main] HelperClass - User choose system Payment filter
+[INFO ] 2023-11-22 09:45:03.372 [main] HelperClass - User get the data's from system filter
+[INFO ] 2023-11-22 09:45:10.757 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:45:28.153 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 09:45:28.153 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 09:45:44.587 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 09:45:46.507 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 09:45:48.390 [main] HelperClass - User choose Member Payment filter
+[INFO ] 2023-11-22 09:45:50.291 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:46:06.118 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 09:46:10.119 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 09:46:10.187 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 09:46:10.253 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 09:46:10.300 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 09:46:12.625 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 09:46:12.682 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-22 09:46:14.421 [main] HelperClass - User click the new to add address
+[DEBUG] 2023-11-22 09:46:18.526 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-22 09:46:21.169 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-22 09:46:34.570 [main] HelperClass - User enter name,address,zipecode,city,state which get from AddressData.xlsx
+[INFO ] 2023-11-22 09:46:35.220 [main] HelperClass - User click country
+[DEBUG] 2023-11-22 09:46:35.226 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-22 09:46:35.227 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-22 09:46:35.292 [main] HelperClass - User enter country name which get from AddressData.xlsx
+[INFO ] 2023-11-22 09:46:35.349 [main] HelperClass - User choose the country
+[INFO ] 2023-11-22 09:46:35.780 [main] HelperClass - User choose the visibility of address
+[INFO ] 2023-11-22 09:46:36.223 [main] HelperClass - User click the save
+[INFO ] 2023-11-22 09:46:42.542 [main] HelperClass - User get save successfull message
+[INFO ] 2023-11-22 09:46:52.392 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:47:16.194 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 09:47:18.181 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 09:47:18.247 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 09:47:18.334 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 09:47:18.392 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 09:47:19.570 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 09:47:19.633 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-22 09:47:22.560 [main] HelperClass - User click phone option in profile
+[INFO ] 2023-11-22 09:47:22.607 [main] HelperClass - User click new to add mobile number
+[INFO ] 2023-11-22 09:47:22.671 [main] HelperClass - User select mobile number add option
+[INFO ] 2023-11-22 09:47:22.960 [main] HelperClass - User enter name of the person for mobile number
+[INFO ] 2023-11-22 09:47:23.023 [main] HelperClass - User enter mobile number of the person
+[INFO ] 2023-11-22 09:47:23.083 [main] HelperClass - User click the save
+[INFO ] 2023-11-22 09:47:23.551 [main] HelperClass - User get mobile number added success message
+[INFO ] 2023-11-22 09:47:26.507 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:47:38.846 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 09:47:42.613 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 09:47:42.714 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 09:47:42.784 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 09:47:42.835 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 09:47:43.895 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 09:47:43.959 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-22 09:47:45.850 [main] HelperClass - User click phone option in profile
+[INFO ] 2023-11-22 09:47:45.896 [main] HelperClass - User click new to add number
+[INFO ] 2023-11-22 09:47:45.955 [main] HelperClass - User select lanline add option
+[INFO ] 2023-11-22 09:47:46.260 [main] HelperClass - User enter name of the person for landline number
+[INFO ] 2023-11-22 09:47:46.320 [main] HelperClass - User enter landline number of the person
+[INFO ] 2023-11-22 09:47:46.368 [main] HelperClass - User click the save 
+[INFO ] 2023-11-22 09:47:46.806 [main] HelperClass - User get landline number added success message
+[INFO ] 2023-11-22 09:47:49.468 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:48:03.066 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 09:48:05.743 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 09:48:05.808 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 09:48:05.873 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 09:48:05.921 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 09:48:07.436 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 09:48:09.428 [main] HelperClass - User click edit option
+[INFO ] 2023-11-22 09:48:10.042 [main] HelperClass - User enter website
+[INFO ] 2023-11-22 09:48:10.095 [main] HelperClass - User choose gender
+[INFO ] 2023-11-22 09:48:10.147 [main] HelperClass - User enter the business type
+[INFO ] 2023-11-22 09:48:10.196 [main] HelperClass - User choose the business type in drop down
+[INFO ] 2023-11-22 09:48:10.244 [main] HelperClass - User click save 
+[INFO ] 2023-11-22 09:48:10.541 [main] HelperClass - User get edit success message
+[INFO ] 2023-11-22 09:48:12.371 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:48:19.815 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:48:26.303 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:48:50.664 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 09:48:52.384 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 09:48:52.440 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 09:48:52.511 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 09:48:52.567 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 09:48:53.960 [main] HelperClass - User get Successfully Message
+[INFO ] 2023-11-22 09:48:55.697 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:49:10.687 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 09:49:13.650 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 09:49:13.709 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-22 09:49:13.769 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-22 09:49:14.503 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-22 09:49:14.808 [main] HelperClass - User get login error message
+[INFO ] 2023-11-22 09:49:16.578 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:49:28.501 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 09:49:31.461 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 09:49:31.519 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-22 09:49:31.589 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-22 09:49:31.665 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-22 09:49:31.912 [main] HelperClass - User get login error message
+[INFO ] 2023-11-22 09:49:33.492 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:49:44.840 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 09:49:46.822 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 09:49:46.879 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 09:49:46.950 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 09:49:47.001 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 09:49:48.083 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 09:49:48.152 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-22 09:49:51.401 [main] HelperClass - User click change option
+[INFO ] 2023-11-22 09:49:51.453 [main] HelperClass - User enter the old password 
+[INFO ] 2023-11-22 09:49:51.512 [main] HelperClass - User enter the new password 
+[INFO ] 2023-11-22 09:49:51.570 [main] HelperClass - User enter the confrim new password 
+[INFO ] 2023-11-22 09:49:51.618 [main] HelperClass - User click the confrim button
+[INFO ] 2023-11-22 09:49:52.389 [main] HelperClass - User get password reset successful message
+[INFO ] 2023-11-22 09:49:53.260 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:50:07.320 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 09:50:09.989 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 09:50:10.051 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 09:50:10.122 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 09:50:10.168 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 09:50:11.703 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 09:50:11.759 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-22 09:50:13.829 [main] HelperClass - User click change option
+[INFO ] 2023-11-22 09:50:13.877 [main] HelperClass - User enter the old password 
+[INFO ] 2023-11-22 09:50:13.936 [main] HelperClass - User enter the new password 
+[INFO ] 2023-11-22 09:50:13.995 [main] HelperClass - User enter the confrim new password 
+[INFO ] 2023-11-22 09:50:14.044 [main] HelperClass - User click the confrim button
+[INFO ] 2023-11-22 09:50:14.311 [main] HelperClass - User get password error message
+[INFO ] 2023-11-22 09:50:21.192 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:50:26.941 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:50:35.579 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:50:44.290 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:50:54.125 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:51:05.258 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 09:51:07.691 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 09:51:07.749 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 09:51:07.825 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 09:51:07.873 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 09:51:08.914 [main] HelperClass - User click User option in mainpage
+[INFO ] 2023-11-22 09:51:08.970 [main] HelperClass - User click my contact
+[INFO ] 2023-11-22 09:51:10.659 [main] HelperClass - User click add option
+[INFO ] 2023-11-22 09:51:17.417 [main] HelperClass - User enter the name to add in my contact list
+[INFO ] 2023-11-22 09:51:17.484 [main] HelperClass - User click save for add list
+[INFO ] 2023-11-22 09:51:17.735 [main] HelperClass - User get successful add list message
+[INFO ] 2023-11-22 09:51:21.065 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:51:40.170 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 09:51:40.171 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 09:51:43.812 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 09:51:44.969 [main] HelperClass - User is in Payment to user Option
+[INFO ] 2023-11-22 09:51:54.293 [main] HelperClass - Use provided the Receiver Name and amount
+[INFO ] 2023-11-22 09:51:54.877 [main] HelperClass - User choosed the schedule as PayNow
+[INFO ] 2023-11-22 09:51:57.196 [main] HelperClass - User confirms the payment and result is verified
+[INFO ] 2023-11-22 09:52:01.442 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:52:13.255 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 09:52:13.255 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 09:52:16.011 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 09:52:17.619 [main] HelperClass - User is in QR Payments Option
+[INFO ] 2023-11-22 09:52:21.458 [main] HelperClass - User entered the amount for Conversion purpose
+[INFO ] 2023-11-22 09:52:21.797 [main] HelperClass - QR Code is generated
+[INFO ] 2023-11-22 09:52:23.403 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:52:37.401 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 09:52:39.758 [main] HelperClass - User successfully logins the cyclos web application
+[INFO ] 2023-11-22 09:52:41.031 [main] HelperClass - User is currently in Profile Images Tab
+[INFO ] 2023-11-22 09:53:43.163 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 09:55:25.536 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:55:50.524 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:56:00.533 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:56:09.782 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:56:17.779 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:56:28.960 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 09:56:37.536 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 10:00:32.138 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 10:00:32.141 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 10:00:35.322 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 10:00:36.848 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 10:00:41.907 [main] HelperClass - User gets the current balance
+[INFO ] 2023-11-22 10:00:41.933 [main] HelperClass - User gets the negative balance
+[INFO ] 2023-11-22 10:00:41.955 [main] HelperClass - User gets the Total received payments
+[INFO ] 2023-11-22 10:00:42.076 [main] HelperClass - User prints the pdf
+[INFO ] 2023-11-22 10:00:44.422 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 10:00:56.085 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 10:00:56.086 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 10:00:58.549 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 10:00:59.648 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 10:01:03.631 [main] HelperClass - User choose system Payment filter
+[INFO ] 2023-11-22 10:01:04.193 [main] HelperClass - User get the data's from system filter
+[INFO ] 2023-11-22 10:01:07.122 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 10:01:28.035 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 10:01:28.036 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 10:01:30.475 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 10:01:31.463 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 10:01:32.893 [main] HelperClass - User choose Member Payment filter
+[INFO ] 2023-11-22 10:01:37.548 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 10:01:57.223 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 10:01:59.106 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 10:01:59.165 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 10:01:59.232 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 10:01:59.289 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 10:02:00.675 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 10:02:00.736 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-22 10:02:02.133 [main] HelperClass - User click the new to add address
+[DEBUG] 2023-11-22 10:02:03.018 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-22 10:02:03.283 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-22 10:02:05.052 [main] HelperClass - User enter name,address,zipecode,city,state which get from AddressData.xlsx
+[INFO ] 2023-11-22 10:02:05.149 [main] HelperClass - User click country
+[DEBUG] 2023-11-22 10:02:05.155 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-22 10:02:05.156 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-22 10:02:05.216 [main] HelperClass - User enter country name which get from AddressData.xlsx
+[INFO ] 2023-11-22 10:02:05.270 [main] HelperClass - User choose the country
+[INFO ] 2023-11-22 10:02:05.322 [main] HelperClass - User choose the visibility of address
+[INFO ] 2023-11-22 10:02:05.373 [main] HelperClass - User click the save
+[INFO ] 2023-11-22 10:02:08.841 [main] HelperClass - User get save successfull message
+[INFO ] 2023-11-22 10:02:11.020 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 10:02:27.015 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 10:02:28.829 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 10:02:28.911 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 10:02:28.985 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 10:02:29.033 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 10:02:30.127 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 10:02:30.186 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-22 10:02:31.605 [main] HelperClass - User click phone option in profile
+[INFO ] 2023-11-22 10:02:31.656 [main] HelperClass - User click new to add mobile number
+[INFO ] 2023-11-22 10:02:31.719 [main] HelperClass - User select mobile number add option
+[INFO ] 2023-11-22 10:02:32.042 [main] HelperClass - User enter name of the person for mobile number
+[INFO ] 2023-11-22 10:02:32.115 [main] HelperClass - User enter mobile number of the person
+[INFO ] 2023-11-22 10:02:32.167 [main] HelperClass - User click the save
+[INFO ] 2023-11-22 10:02:32.609 [main] HelperClass - User get mobile number added success message
+[INFO ] 2023-11-22 10:02:34.052 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 10:02:48.304 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 10:02:51.396 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 10:02:51.452 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 10:02:51.542 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 10:02:51.590 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 10:02:52.867 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 10:02:52.925 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-22 10:03:23.769 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 10:03:42.307 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 10:03:44.034 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 10:03:44.093 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 10:03:44.161 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 10:03:44.210 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 10:03:45.366 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 10:03:47.088 [main] HelperClass - User click edit option
+[INFO ] 2023-11-22 10:03:47.536 [main] HelperClass - User enter website
+[INFO ] 2023-11-22 10:03:47.584 [main] HelperClass - User choose gender
+[INFO ] 2023-11-22 10:03:47.635 [main] HelperClass - User enter the business type
+[INFO ] 2023-11-22 10:03:47.684 [main] HelperClass - User choose the business type in drop down
+[INFO ] 2023-11-22 10:03:47.731 [main] HelperClass - User click save 
+[INFO ] 2023-11-22 10:03:48.011 [main] HelperClass - User get edit success message
+[INFO ] 2023-11-22 10:03:57.556 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 10:04:06.626 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 10:04:13.003 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 10:04:28.730 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 10:04:32.313 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 10:04:32.524 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 10:04:32.593 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 10:04:32.643 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 10:04:34.584 [main] HelperClass - User get Successfully Message
+[INFO ] 2023-11-22 10:04:41.095 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 10:04:52.061 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 10:04:54.637 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 10:04:54.695 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-22 10:04:54.763 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-22 10:04:55.409 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-22 10:04:55.745 [main] HelperClass - User get login error message
+[INFO ] 2023-11-22 10:04:56.893 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 10:05:05.918 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 10:05:07.820 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 10:05:07.874 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-22 10:05:07.942 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-22 10:05:08.020 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-22 10:05:08.269 [main] HelperClass - User get login error message
+[INFO ] 2023-11-22 10:05:09.047 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 10:05:19.994 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 10:05:22.173 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 10:05:22.237 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 10:05:22.328 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 10:05:22.379 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 10:05:23.874 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 10:05:23.928 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-22 10:05:26.279 [main] HelperClass - User click change option
+[INFO ] 2023-11-22 10:05:26.334 [main] HelperClass - User enter the old password 
+[INFO ] 2023-11-22 10:05:26.397 [main] HelperClass - User enter the new password 
+[INFO ] 2023-11-22 10:05:26.465 [main] HelperClass - User enter the confrim new password 
+[INFO ] 2023-11-22 10:05:26.518 [main] HelperClass - User click the confrim button
+[INFO ] 2023-11-22 10:05:26.982 [main] HelperClass - User get password reset successful message
+[INFO ] 2023-11-22 10:05:27.501 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 10:05:43.110 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 10:05:44.872 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 10:05:44.926 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 10:05:44.993 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 10:05:45.044 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 10:05:46.226 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 10:05:46.294 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-22 10:05:49.680 [main] HelperClass - User click change option
+[INFO ] 2023-11-22 10:05:49.739 [main] HelperClass - User enter the old password 
+[INFO ] 2023-11-22 10:05:49.809 [main] HelperClass - User enter the new password 
+[INFO ] 2023-11-22 10:05:49.867 [main] HelperClass - User enter the confrim new password 
+[INFO ] 2023-11-22 10:05:49.909 [main] HelperClass - User click the confrim button
+[INFO ] 2023-11-22 10:05:50.139 [main] HelperClass - User get password error message
+[INFO ] 2023-11-22 10:05:51.963 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 10:06:02.745 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 10:21:30.859 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 10:21:42.708 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 10:21:43.815 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 10:21:44.152 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 10:21:44.203 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 10:21:47.074 [main] HelperClass - User get Successfully Message
+[INFO ] 2023-11-22 10:21:51.414 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 10:22:14.993 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 10:22:22.403 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 10:22:22.465 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-22 10:22:22.534 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-22 10:22:22.691 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-22 10:22:23.050 [main] HelperClass - User get login error message
+[INFO ] 2023-11-22 10:22:24.070 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 10:22:37.584 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 10:22:39.105 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 10:22:39.164 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-22 10:22:39.309 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-22 10:22:39.399 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-22 10:22:39.643 [main] HelperClass - User get login error message
+[INFO ] 2023-11-22 10:22:40.489 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 11:55:43.785 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 11:55:43.878 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 11:55:49.145 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 11:55:55.139 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 11:56:00.221 [main] HelperClass - User gets the current balance
+[INFO ] 2023-11-22 11:56:00.246 [main] HelperClass - User gets the negative balance
+[INFO ] 2023-11-22 11:56:00.268 [main] HelperClass - User gets the Total received payments
+[INFO ] 2023-11-22 11:56:00.387 [main] HelperClass - User prints the pdf
+[INFO ] 2023-11-22 11:56:02.408 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 11:56:15.965 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 11:56:15.965 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 11:56:18.243 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 11:56:19.746 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 11:56:21.847 [main] HelperClass - User choose system Payment filter
+[INFO ] 2023-11-22 11:56:21.913 [main] HelperClass - User get the data's from system filter
+[INFO ] 2023-11-22 11:56:22.670 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 11:56:33.453 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 11:56:33.453 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 11:56:36.812 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 11:56:37.811 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 11:57:59.795 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 11:57:59.797 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 11:58:01.878 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 11:58:03.245 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 11:58:05.000 [main] HelperClass - User gets the current balance
+[INFO ] 2023-11-22 11:58:05.028 [main] HelperClass - User gets the negative balance
+[INFO ] 2023-11-22 11:58:05.053 [main] HelperClass - User gets the Total received payments
+[INFO ] 2023-11-22 11:58:05.224 [main] HelperClass - User prints the pdf
+[INFO ] 2023-11-22 11:58:06.132 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 11:58:18.655 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 11:58:18.655 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 11:58:20.767 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 11:58:22.025 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 11:58:24.033 [main] HelperClass - User choose system Payment filter
+[INFO ] 2023-11-22 11:58:24.091 [main] HelperClass - User get the data's from system filter
+[INFO ] 2023-11-22 11:58:25.131 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 11:58:38.359 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 11:58:38.359 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 11:58:40.404 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 11:58:42.129 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 11:58:44.142 [main] HelperClass - User choose Member Payment filter
+[INFO ] 2023-11-22 11:58:45.438 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 11:58:56.375 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 11:58:58.646 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 11:58:58.704 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 11:58:58.807 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 11:58:58.875 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 11:58:59.922 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 11:58:59.982 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-22 11:59:21.969 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 11:59:33.401 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 11:59:36.774 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 11:59:36.831 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 11:59:37.060 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 11:59:37.111 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 11:59:38.302 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 11:59:38.366 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-22 12:00:02.611 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:00:12.457 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:00:14.833 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:00:14.890 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:00:14.973 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:00:15.038 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:00:16.071 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 12:00:16.192 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-22 12:00:39.138 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:00:49.345 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:00:51.757 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:00:51.815 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:00:51.883 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:00:51.933 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:00:54.794 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 12:00:56.944 [main] HelperClass - User click edit option
+[INFO ] 2023-11-22 12:00:57.454 [main] HelperClass - User enter website
+[INFO ] 2023-11-22 12:00:57.500 [main] HelperClass - User choose gender
+[INFO ] 2023-11-22 12:00:57.550 [main] HelperClass - User enter the business type
+[INFO ] 2023-11-22 12:00:57.597 [main] HelperClass - User choose the business type in drop down
+[INFO ] 2023-11-22 12:00:57.760 [main] HelperClass - User click save 
+[INFO ] 2023-11-22 12:00:58.078 [main] HelperClass - User get edit success message
+[INFO ] 2023-11-22 12:01:01.951 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:01:15.830 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:01:19.841 [main] HelperClass - User gets Welcome to the Cyclos4 demo...
+[INFO ] 2023-11-22 12:01:19.899 [main] HelperClass - User clicks the Advertisements interests...
+[INFO ] 2023-11-22 12:01:24.408 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:01:35.507 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:01:38.608 [main] HelperClass - User gets Welcome to the Cyclos4 demo...
+[INFO ] 2023-11-22 12:01:38.666 [main] HelperClass - User clicks the Advertisements interests...
+[INFO ] 2023-11-22 12:02:00.314 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:02:11.416 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:02:13.719 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:02:13.773 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:02:14.107 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:02:14.163 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:02:15.877 [main] HelperClass - User get Successfully Message
+[INFO ] 2023-11-22 12:02:18.193 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:02:31.601 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:02:35.051 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:02:35.109 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-22 12:02:35.176 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-22 12:02:35.326 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-22 12:02:35.627 [main] HelperClass - User get login error message
+[INFO ] 2023-11-22 12:02:36.623 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:02:51.651 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:02:55.028 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:02:55.091 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-22 12:02:55.164 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-22 12:02:55.231 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-22 12:02:55.471 [main] HelperClass - User get login error message
+[INFO ] 2023-11-22 12:02:56.970 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:03:09.586 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:03:11.478 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:03:11.535 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:03:11.603 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:03:11.652 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:03:13.314 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 12:03:13.373 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-22 12:03:16.388 [main] HelperClass - User click change option
+[INFO ] 2023-11-22 12:03:16.434 [main] HelperClass - User enter the old password 
+[INFO ] 2023-11-22 12:03:16.493 [main] HelperClass - User enter the new password 
+[INFO ] 2023-11-22 12:03:16.568 [main] HelperClass - User enter the confrim new password 
+[INFO ] 2023-11-22 12:03:16.619 [main] HelperClass - User click the confrim button
+[INFO ] 2023-11-22 12:03:17.125 [main] HelperClass - User get password reset successful message
+[INFO ] 2023-11-22 12:03:19.407 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:03:35.312 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:03:38.478 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:03:38.536 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:03:38.600 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:03:38.644 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:03:40.113 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 12:03:40.171 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-22 12:03:45.518 [main] HelperClass - User click change option
+[INFO ] 2023-11-22 12:03:45.562 [main] HelperClass - User enter the old password 
+[INFO ] 2023-11-22 12:03:45.618 [main] HelperClass - User enter the new password 
+[INFO ] 2023-11-22 12:03:45.675 [main] HelperClass - User enter the confrim new password 
+[INFO ] 2023-11-22 12:03:45.721 [main] HelperClass - User click the confrim button
+[INFO ] 2023-11-22 12:03:45.948 [main] HelperClass - User get password error message
+[INFO ] 2023-11-22 12:03:51.995 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:04:08.776 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:04:10.988 [main] HelperClass - User gets Welcome to the Cyclos4 demo...
+[INFO ] 2023-11-22 12:04:12.072 [main] HelperClass - User goes to marketplace tab...
+[INFO ] 2023-11-22 12:04:15.863 [main] HelperClass - User goes to list ads button...
+[INFO ] 2023-11-22 12:04:16.216 [main] HelperClass - User chooses the price highest filter...
+[INFO ] 2023-11-22 12:04:18.382 [main] HelperClass - User chooses a product and added to favorites...
+[INFO ] 2023-11-22 12:04:18.431 [main] HelperClass - User enabled the checkbow...
+[INFO ] 2023-11-22 12:04:18.671 [main] HelperClass - Total number of count printed after adding product in highest filter...
+[INFO ] 2023-11-22 12:04:22.391 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:04:35.316 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:04:37.574 [main] HelperClass - User gets Welcome to the Cyclos4 demo...
+[INFO ] 2023-11-22 12:04:38.808 [main] HelperClass - User goes to marketplace tab...
+[INFO ] 2023-11-22 12:04:40.944 [main] HelperClass - User goes to list ads button...
+[INFO ] 2023-11-22 12:04:41.567 [main] HelperClass - User chooses the price lowest filter...
+[INFO ] 2023-11-22 12:04:42.875 [main] HelperClass - User chooses a product and added to favorites...
+[INFO ] 2023-11-22 12:04:42.923 [main] HelperClass - User enabled the checkbow...
+[INFO ] 2023-11-22 12:04:43.250 [main] HelperClass - Total number of count printed after adding product in lowest filter...
+[INFO ] 2023-11-22 12:04:44.329 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:04:54.841 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:04:57.084 [main] HelperClass - User gets Welcome to the Cyclos4 demo...
+[INFO ] 2023-11-22 12:04:58.312 [main] HelperClass - User goes to marketplace tab...
+[INFO ] 2023-11-22 12:04:59.896 [main] HelperClass - User goes to list ads button...
+[INFO ] 2023-11-22 12:05:00.526 [main] HelperClass - User chooses the price relevance filter...
+[INFO ] 2023-11-22 12:05:01.403 [main] HelperClass - User chooses a product and added to favorites...
+[INFO ] 2023-11-22 12:05:01.451 [main] HelperClass - User enabled the checkbow...
+[INFO ] 2023-11-22 12:05:01.751 [main] HelperClass - Total number of count printed after adding product in relevance filter...
+[INFO ] 2023-11-22 12:05:02.707 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:05:12.767 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:05:14.998 [main] HelperClass - User gets Welcome to the Cyclos4 demo...
+[INFO ] 2023-11-22 12:05:16.414 [main] HelperClass - User goes to marketplace tab...
+[INFO ] 2023-11-22 12:05:18.100 [main] HelperClass - User enabled the checkbow...
+[INFO ] 2023-11-22 12:05:18.157 [main] HelperClass - Enabled checkbox for removing...
+[INFO ] 2023-11-22 12:05:18.646 [main] HelperClass - Removed the product...
+[INFO ] 2023-11-22 12:05:19.110 [main] HelperClass - Again checkbow is enabled...
+[INFO ] 2023-11-22 12:05:19.346 [main] HelperClass - Total number of count printed after removing a product in highest filter...
+[INFO ] 2023-11-22 12:05:20.194 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:05:30.488 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:05:32.027 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:05:32.084 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:05:32.151 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:05:32.198 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:05:33.506 [main] HelperClass - User click User option in mainpage
+[INFO ] 2023-11-22 12:05:33.567 [main] HelperClass - User click my contact
+[INFO ] 2023-11-22 12:06:15.579 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:06:26.618 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:06:26.618 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 12:06:28.749 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 12:06:29.939 [main] HelperClass - User is in Payment to user Option
+[INFO ] 2023-11-22 12:06:34.220 [main] HelperClass - Use provided the Receiver Name and amount
+[INFO ] 2023-11-22 12:06:56.216 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:07:06.366 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:07:06.366 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 12:07:08.725 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 12:07:09.788 [main] HelperClass - User is in QR Payments Option
+[INFO ] 2023-11-22 12:07:11.715 [main] HelperClass - User entered the amount for Conversion purpose
+[INFO ] 2023-11-22 12:07:12.030 [main] HelperClass - QR Code is generated
+[INFO ] 2023-11-22 12:07:12.786 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:07:28.716 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:07:30.981 [main] HelperClass - User successfully logins the cyclos web application
+[INFO ] 2023-11-22 12:07:32.816 [main] HelperClass - User is currently in Profile Images Tab
+[INFO ] 2023-11-22 12:08:01.087 [main] HelperClass - User uploading the profile picture using Robot class
+[INFO ] 2023-11-22 12:08:02.353 [main] HelperClass - User uploaded the profile picture
+[INFO ] 2023-11-22 12:08:10.838 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:08:23.638 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:08:29.039 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:08:37.425 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:08:43.781 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:08:50.301 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:08:55.136 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:09:02.646 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:09:09.901 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:09:16.607 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:12:56.409 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:12:56.412 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 12:12:59.776 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 12:13:01.140 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 12:13:03.092 [main] HelperClass - User gets the current balance
+[INFO ] 2023-11-22 12:13:03.116 [main] HelperClass - User gets the negative balance
+[INFO ] 2023-11-22 12:13:03.138 [main] HelperClass - User gets the Total received payments
+[INFO ] 2023-11-22 12:13:03.243 [main] HelperClass - User prints the pdf
+[INFO ] 2023-11-22 12:13:04.331 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:13:16.061 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:13:16.061 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 12:13:18.155 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 12:13:19.275 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 12:13:21.447 [main] HelperClass - User choose system Payment filter
+[INFO ] 2023-11-22 12:13:21.500 [main] HelperClass - User get the data's from system filter
+[INFO ] 2023-11-22 12:13:22.729 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:13:36.198 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:13:36.198 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 12:13:38.972 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 12:13:40.702 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 12:13:45.119 [main] HelperClass - User choose Member Payment filter
+[INFO ] 2023-11-22 12:13:50.702 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:14:01.242 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:14:03.083 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:14:03.144 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:14:03.211 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:14:03.258 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:14:04.360 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 12:14:04.426 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-22 12:14:06.393 [main] HelperClass - User click the new to add address
+[DEBUG] 2023-11-22 12:14:09.347 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-22 12:14:09.952 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-22 12:14:13.283 [main] HelperClass - User enter name,address,zipecode,city,state which get from AddressData.xlsx
+[INFO ] 2023-11-22 12:14:13.372 [main] HelperClass - User click country
+[DEBUG] 2023-11-22 12:14:13.380 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-22 12:14:13.381 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-22 12:14:13.443 [main] HelperClass - User enter country name which get from AddressData.xlsx
+[INFO ] 2023-11-22 12:14:13.496 [main] HelperClass - User choose the country
+[INFO ] 2023-11-22 12:14:13.544 [main] HelperClass - User choose the visibility of address
+[INFO ] 2023-11-22 12:14:13.593 [main] HelperClass - User click the save
+[INFO ] 2023-11-22 12:14:15.276 [main] HelperClass - User get save successfull message
+[INFO ] 2023-11-22 12:14:15.929 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:14:25.942 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:14:27.897 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:14:27.991 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:14:28.061 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:14:28.130 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:14:29.239 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 12:14:29.310 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-22 12:14:53.421 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:15:03.158 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:15:05.628 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:15:05.682 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:15:05.854 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:15:05.902 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:15:07.751 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 12:15:07.810 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-22 12:15:09.592 [main] HelperClass - User click phone option in profile
+[INFO ] 2023-11-22 12:15:09.713 [main] HelperClass - User click new to add number
+[INFO ] 2023-11-22 12:15:09.771 [main] HelperClass - User select lanline add option
+[INFO ] 2023-11-22 12:15:10.068 [main] HelperClass - User enter name of the person for landline number
+[INFO ] 2023-11-22 12:15:10.181 [main] HelperClass - User enter landline number of the person
+[INFO ] 2023-11-22 12:15:10.224 [main] HelperClass - User click the save 
+[INFO ] 2023-11-22 12:15:10.675 [main] HelperClass - User get landline number added success message
+[INFO ] 2023-11-22 12:15:11.722 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:15:22.364 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:15:24.180 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:15:24.236 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:15:24.367 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:15:24.417 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:15:25.537 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 12:15:27.200 [main] HelperClass - User click edit option
+[INFO ] 2023-11-22 12:15:27.630 [main] HelperClass - User enter website
+[INFO ] 2023-11-22 12:15:27.679 [main] HelperClass - User choose gender
+[INFO ] 2023-11-22 12:15:27.730 [main] HelperClass - User enter the business type
+[INFO ] 2023-11-22 12:15:27.777 [main] HelperClass - User choose the business type in drop down
+[INFO ] 2023-11-22 12:15:27.825 [main] HelperClass - User click save 
+[INFO ] 2023-11-22 12:15:28.064 [main] HelperClass - User get edit success message
+[INFO ] 2023-11-22 12:15:29.039 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:15:39.702 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:15:43.412 [main] HelperClass - User gets Welcome to the Cyclos4 demo...
+[INFO ] 2023-11-22 12:15:43.468 [main] HelperClass - User clicks the Advertisements interests...
+[INFO ] 2023-11-22 12:15:44.722 [main] HelperClass - next new page is opened...
+[INFO ] 2023-11-22 12:15:44.988 [main] HelperClass - Enters a valid name...
+[INFO ] 2023-11-22 12:15:45.070 [main] HelperClass - User clicks category...
+[INFO ] 2023-11-22 12:15:45.120 [main] HelperClass - Chooses the musician category...
+[INFO ] 2023-11-22 12:15:45.166 [main] HelperClass - User checkbox is enabled...
+[INFO ] 2023-11-22 12:15:45.214 [main] HelperClass - Saved the interests...
+[INFO ] 2023-11-22 12:15:45.511 [main] HelperClass - User in Advertisement interests page...
+[INFO ] 2023-11-22 12:15:46.914 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:15:55.932 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:15:58.806 [main] HelperClass - User gets Welcome to the Cyclos4 demo...
+[INFO ] 2023-11-22 12:15:58.862 [main] HelperClass - User clicks the Advertisements interests...
+[INFO ] 2023-11-22 12:16:00.343 [main] HelperClass - next new page is opened...
+[INFO ] 2023-11-22 12:16:00.580 [main] HelperClass - Enters a  invalid valid name...
+[INFO ] 2023-11-22 12:16:00.628 [main] HelperClass - Saved...
+[INFO ] 2023-11-22 12:16:01.941 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:16:12.052 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:16:13.714 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:16:13.773 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:16:13.835 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:16:13.878 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:16:16.330 [main] HelperClass - User get Successfully Message
+[INFO ] 2023-11-22 12:16:17.575 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:16:27.585 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:16:29.155 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:16:29.211 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-22 12:16:29.273 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-22 12:16:29.477 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-22 12:16:29.805 [main] HelperClass - User get login error message
+[INFO ] 2023-11-22 12:16:30.707 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:16:44.828 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:16:47.582 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:16:47.638 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-22 12:16:47.701 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-22 12:16:47.769 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-22 12:16:48.066 [main] HelperClass - User get login error message
+[INFO ] 2023-11-22 12:16:49.601 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:17:05.523 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:17:08.410 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:17:08.467 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:17:08.526 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:17:08.568 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:17:09.815 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 12:17:09.868 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-22 12:17:12.514 [main] HelperClass - User click change option
+[INFO ] 2023-11-22 12:17:12.559 [main] HelperClass - User enter the old password 
+[INFO ] 2023-11-22 12:17:12.613 [main] HelperClass - User enter the new password 
+[INFO ] 2023-11-22 12:17:12.667 [main] HelperClass - User enter the confrim new password 
+[INFO ] 2023-11-22 12:17:12.709 [main] HelperClass - User click the confrim button
+[INFO ] 2023-11-22 12:17:13.122 [main] HelperClass - User get password reset successful message
+[INFO ] 2023-11-22 12:17:15.960 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:17:27.526 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:17:29.889 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:17:29.942 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:17:30.023 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:17:30.069 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:17:31.439 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 12:17:31.511 [main] HelperClass - User click change password in profile
+[INFO ] 2023-11-22 12:17:33.309 [main] HelperClass - User click change option
+[INFO ] 2023-11-22 12:17:33.356 [main] HelperClass - User enter the old password 
+[INFO ] 2023-11-22 12:17:33.424 [main] HelperClass - User enter the new password 
+[INFO ] 2023-11-22 12:17:33.481 [main] HelperClass - User enter the confrim new password 
+[INFO ] 2023-11-22 12:17:33.520 [main] HelperClass - User click the confrim button
+[INFO ] 2023-11-22 12:17:33.747 [main] HelperClass - User get password error message
+[INFO ] 2023-11-22 12:17:35.186 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:17:45.885 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:17:47.843 [main] HelperClass - User gets Welcome to the Cyclos4 demo...
+[INFO ] 2023-11-22 12:17:49.157 [main] HelperClass - User goes to marketplace tab...
+[INFO ] 2023-11-22 12:17:50.767 [main] HelperClass - User goes to list ads button...
+[INFO ] 2023-11-22 12:17:51.690 [main] HelperClass - User chooses the price highest filter...
+[INFO ] 2023-11-22 12:17:52.809 [main] HelperClass - User chooses a product and added to favorites...
+[INFO ] 2023-11-22 12:17:52.855 [main] HelperClass - User enabled the checkbow...
+[INFO ] 2023-11-22 12:17:53.287 [main] HelperClass - Total number of count printed after adding product in highest filter...
+[INFO ] 2023-11-22 12:17:55.084 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:18:05.136 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:18:06.856 [main] HelperClass - User gets Welcome to the Cyclos4 demo...
+[INFO ] 2023-11-22 12:18:08.429 [main] HelperClass - User goes to marketplace tab...
+[INFO ] 2023-11-22 12:18:10.130 [main] HelperClass - User goes to list ads button...
+[INFO ] 2023-11-22 12:18:10.941 [main] HelperClass - User chooses the price lowest filter...
+[INFO ] 2023-11-22 12:18:37.134 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:18:51.078 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:18:54.309 [main] HelperClass - User gets Welcome to the Cyclos4 demo...
+[INFO ] 2023-11-22 12:18:55.445 [main] HelperClass - User goes to marketplace tab...
+[INFO ] 2023-11-22 12:18:56.996 [main] HelperClass - User goes to list ads button...
+[INFO ] 2023-11-22 12:18:57.341 [main] HelperClass - User chooses the price relevance filter...
+[INFO ] 2023-11-22 12:19:19.895 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:19:31.112 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:19:35.236 [main] HelperClass - User gets Welcome to the Cyclos4 demo...
+[INFO ] 2023-11-22 12:19:36.567 [main] HelperClass - User goes to marketplace tab...
+[INFO ] 2023-11-22 12:19:38.074 [main] HelperClass - User enabled the checkbow...
+[INFO ] 2023-11-22 12:19:38.132 [main] HelperClass - Enabled checkbox for removing...
+[INFO ] 2023-11-22 12:19:38.583 [main] HelperClass - Removed the product...
+[INFO ] 2023-11-22 12:19:39.048 [main] HelperClass - Again checkbow is enabled...
+[INFO ] 2023-11-22 12:19:39.330 [main] HelperClass - Total number of count printed after removing a product in highest filter...
+[INFO ] 2023-11-22 12:19:40.006 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:19:49.296 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:19:51.576 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:19:51.634 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:19:51.708 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:19:51.756 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:19:53.546 [main] HelperClass - User click User option in mainpage
+[INFO ] 2023-11-22 12:19:53.693 [main] HelperClass - User click my contact
+[INFO ] 2023-11-22 12:20:36.978 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:20:52.323 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:20:52.323 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 12:20:54.921 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 12:20:56.051 [main] HelperClass - User is in Payment to user Option
+[INFO ] 2023-11-22 12:23:59.994 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:24:00.070 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 12:24:03.873 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 12:24:05.058 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 12:24:06.902 [main] HelperClass - User gets the current balance
+[INFO ] 2023-11-22 12:24:06.932 [main] HelperClass - User gets the negative balance
+[INFO ] 2023-11-22 12:24:06.957 [main] HelperClass - User gets the Total received payments
+[INFO ] 2023-11-22 12:24:07.115 [main] HelperClass - User prints the pdf
+[INFO ] 2023-11-22 12:24:10.698 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:24:24.133 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:24:24.133 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 12:24:26.899 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 12:24:28.202 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 12:24:34.847 [main] HelperClass - User choose system Payment filter
+[INFO ] 2023-11-22 12:24:35.178 [main] HelperClass - User get the data's from system filter
+[INFO ] 2023-11-22 12:24:38.613 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:25:03.256 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:25:03.256 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 12:25:05.977 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-22 12:25:07.100 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-22 12:25:09.434 [main] HelperClass - User choose Member Payment filter
+[INFO ] 2023-11-22 12:25:10.785 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:25:21.406 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:25:24.741 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:25:24.799 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:25:24.866 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:25:24.915 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:25:26.114 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 12:25:26.171 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-22 12:25:27.521 [main] HelperClass - User click the new to add address
+[DEBUG] 2023-11-22 12:25:33.300 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-22 12:25:35.367 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-22 12:25:45.403 [main] HelperClass - User enter name,address,zipecode,city,state which get from AddressData.xlsx
+[INFO ] 2023-11-22 12:25:45.510 [main] HelperClass - User click country
+[DEBUG] 2023-11-22 12:25:45.517 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-22 12:25:45.518 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-22 12:25:45.582 [main] HelperClass - User enter country name which get from AddressData.xlsx
+[INFO ] 2023-11-22 12:25:45.644 [main] HelperClass - User choose the country
+[INFO ] 2023-11-22 12:25:45.697 [main] HelperClass - User choose the visibility of address
+[INFO ] 2023-11-22 12:25:45.753 [main] HelperClass - User click the save
+[INFO ] 2023-11-22 12:26:13.432 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:26:32.704 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:26:34.982 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:26:35.039 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:26:35.105 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:26:35.170 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:26:37.510 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 12:26:37.564 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-22 12:26:40.220 [main] HelperClass - User click phone option in profile
+[INFO ] 2023-11-22 12:26:40.284 [main] HelperClass - User click new to add mobile number
+[INFO ] 2023-11-22 12:27:03.752 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:27:17.792 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:27:20.585 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:27:20.646 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:27:20.714 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:27:20.761 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:27:21.959 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 12:27:22.020 [main] HelperClass - User click the phone in leftside column
+[INFO ] 2023-11-22 12:27:45.903 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:27:55.920 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:27:57.916 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:27:57.971 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:27:58.042 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:27:58.100 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:27:59.261 [main] HelperClass - User click personal field
+[INFO ] 2023-11-22 12:28:00.615 [main] HelperClass - User click edit option
+[INFO ] 2023-11-22 12:28:01.087 [main] HelperClass - User enter website
+[INFO ] 2023-11-22 12:28:01.134 [main] HelperClass - User choose gender
+[INFO ] 2023-11-22 12:28:01.180 [main] HelperClass - User enter the business type
+[INFO ] 2023-11-22 12:28:01.228 [main] HelperClass - User choose the business type in drop down
+[INFO ] 2023-11-22 12:28:01.274 [main] HelperClass - User click save 
+[INFO ] 2023-11-22 12:28:01.646 [main] HelperClass - User get edit success message
+[INFO ] 2023-11-22 12:28:02.554 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:28:18.516 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:28:23.976 [main] HelperClass - User gets Welcome to the Cyclos4 demo...
+[INFO ] 2023-11-22 12:28:24.027 [main] HelperClass - User clicks the Advertisements interests...
+[INFO ] 2023-11-22 12:28:26.067 [main] HelperClass - next new page is opened...
+[INFO ] 2023-11-22 12:28:26.360 [main] HelperClass - Enters a valid name...
+[INFO ] 2023-11-22 12:28:26.443 [main] HelperClass - User clicks category...
+[INFO ] 2023-11-22 12:28:26.492 [main] HelperClass - Chooses the musician category...
+[INFO ] 2023-11-22 12:28:26.538 [main] HelperClass - User checkbox is enabled...
+[INFO ] 2023-11-22 12:28:26.585 [main] HelperClass - Saved the interests...
+[INFO ] 2023-11-22 12:28:26.856 [main] HelperClass - User in Advertisement interests page...
+[INFO ] 2023-11-22 12:28:28.299 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:28:43.117 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:28:46.672 [main] HelperClass - User gets Welcome to the Cyclos4 demo...
+[INFO ] 2023-11-22 12:28:46.725 [main] HelperClass - User clicks the Advertisements interests...
+[INFO ] 2023-11-22 12:28:47.987 [main] HelperClass - next new page is opened...
+[INFO ] 2023-11-22 12:28:48.479 [main] HelperClass - Enters a  invalid valid name...
+[INFO ] 2023-11-22 12:28:48.531 [main] HelperClass - Saved...
+[INFO ] 2023-11-22 12:28:49.716 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:28:59.296 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:29:01.774 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:29:01.833 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-22 12:29:01.899 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-22 12:29:01.945 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-22 12:29:03.258 [main] HelperClass - User get Successfully Message
+[INFO ] 2023-11-22 12:29:04.101 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:29:13.357 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:29:15.690 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:29:15.746 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-22 12:29:15.820 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-22 12:29:16.194 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-22 12:29:16.522 [main] HelperClass - User get login error message
+[INFO ] 2023-11-22 12:29:17.744 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:29:27.859 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:29:30.190 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-22 12:29:30.261 [main] HelperClass - User provides invalid sign in name
+[INFO ] 2023-11-22 12:29:30.324 [main] HelperClass - User provides invalid sign in password 
+[INFO ] 2023-11-22 12:29:30.397 [main] HelperClass - User click singin for invalid
+[INFO ] 2023-11-22 12:29:33.559 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:29:43.025 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:30:09.256 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:30:19.730 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:30:40.652 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:31:01.495 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:31:23.076 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:31:32.178 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:31:53.788 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:32:03.377 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:32:25.064 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:32:32.912 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:32:54.738 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:33:05.258 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:33:28.735 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:33:38.024 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:33:38.025 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 12:33:59.285 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:34:25.166 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:34:25.166 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-22 12:34:47.308 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:34:55.769 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:35:17.492 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:35:29.018 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-22 12:35:51.081 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:36:02.554 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:36:12.509 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:36:22.409 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:36:31.921 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:36:37.510 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:36:43.555 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-22 12:36:53.444 [main] HelperClass - Quitting the driver
