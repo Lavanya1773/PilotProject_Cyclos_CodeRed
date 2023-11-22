@@ -3,7 +3,11 @@
   <groupId>com.pilotproject</groupId>
   <artifactId>Cyclos</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+<<<<<<< HEAD
    <properties>
+=======
+  <properties>
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
  
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<selenium.version>4.13.0</selenium.version>
