@@ -1,5 +1,9 @@
 Feature: To Edit Address in Demo Cyclos classic payment software Application and do functions
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> 3001778f8f7b7cb2f4d30d5867dec82be0987e19
   @MobileNumber
   Scenario: Edit Address in profile
     Given User is on Demo Cyclos classic Homepage

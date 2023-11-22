@@ -33,7 +33,15 @@ public class messageStepDefanition {
 		System.out.println("User provides username and password to signIn");
 		objMess.setSignIn(data1.userName, data1.password);
 		HelperClass.log.info("User enter valid user name and password");
+<<<<<<< HEAD
 		}
+=======
+<<<<<<< HEAD
+		}
+=======
+	}
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
+>>>>>>> 3001778f8f7b7cb2f4d30d5867dec82be0987e19
 
 	@When("User choose the Message Tab")
 	public void user_choose_the_message_tab() {

@@ -1,6 +1,13 @@
 package com.actions;
 
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
+>>>>>>> 3001778f8f7b7cb2f4d30d5867dec82be0987e19
 import java.io.IOException;
 import java.util.List;
 import java.util.Map;
@@ -313,7 +320,15 @@ public class Login_Function_Actions {
 	}
 	
 	public void details(String sheetname, Integer rownumber) throws InvalidFormatException, IOException {
+<<<<<<< HEAD
 		List<Map<String,String>> testdata=ex.getData("src/test/resources/AddressData.xlsx", sheetname);
+=======
+<<<<<<< HEAD
+		List<Map<String,String>> testdata=ex.getData("C:\\Users\\alakshmanan\\eclipse-workspace\\CodeRed\\PilotProject_Cyclos_CodeRed\\src\\test\\resources\\AddressData.xlsx", sheetname);
+=======
+		List<Map<String,String>> testdata=ex.getData("src/test/resources/AddressData.xlsx", sheetname);
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
+>>>>>>> 3001778f8f7b7cb2f4d30d5867dec82be0987e19
 		String AddressName = testdata.get(rownumber).get("AddressName");
 		String Address = testdata.get(rownumber).get("Address");
 		String Zipecode = testdata.get(rownumber).get("Zipecode");
@@ -327,7 +342,15 @@ public class Login_Function_Actions {
 		
 	}
 	public void detailsAddress(String sheetname, Integer rownumber) throws InvalidFormatException, IOException {
+<<<<<<< HEAD
 		List<Map<String,String>> testdata=ex.getData("src/test/resources/AddressData.xlsx", sheetname);
+=======
+<<<<<<< HEAD
+		List<Map<String,String>> testdata=ex.getData("C:\\Users\\alakshmanan\\eclipse-workspace\\CodeRed\\PilotProject_Cyclos_CodeRed\\src\\test\\resources\\AddressData.xlsx", sheetname);
+=======
+		List<Map<String,String>> testdata=ex.getData("src/test/resources/AddressData.xlsx", sheetname);
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
+>>>>>>> 3001778f8f7b7cb2f4d30d5867dec82be0987e19
 	String CountryName = testdata.get(rownumber).get("CountryName");
 	setCountryName(CountryName);
 	}

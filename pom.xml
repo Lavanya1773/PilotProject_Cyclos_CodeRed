@@ -3,7 +3,15 @@
   <groupId>com.pilotproject</groupId>
   <artifactId>Cyclos</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+<<<<<<< HEAD
   <properties>
+=======
+<<<<<<< HEAD
+   <properties>
+=======
+  <properties>
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
+>>>>>>> 3001778f8f7b7cb2f4d30d5867dec82be0987e19
  
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<selenium.version>4.13.0</selenium.version>
