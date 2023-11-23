@@ -6,8 +6,13 @@
       <class name="com.runner.TestCodeRed_RunnerClass">
         <methods>
           <include name="setUpClass"/>
+<<<<<<< HEAD
+          <include name="tearDownClass"/>
+          <include name="runScenario" invocation-numbers="2 3 4 5 7 8 18 19 23 24 25 26 27 28 29"/>
+=======
           <include name="runScenario" invocation-numbers="2 3 4 5 7 8 14 18 23 24 25 26 27 28 29"/>
           <include name="tearDownClass"/>
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
         </methods>
       </class> <!-- com.runner.TestCodeRed_RunnerClass -->
     </classes>

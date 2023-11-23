@@ -2,6 +2,21 @@
 <testng-results ignored="0" total="30" passed="15" failed="15" skipped="0">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
+  <suite started-at="2023-11-22T11:57:47 IST" name="Default suite" finished-at="2023-11-22T12:09:18 IST" duration-ms="690423">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2023-11-22T11:57:47 IST" name="Default test" finished-at="2023-11-22T12:09:18 IST" duration-ms="690423">
+      <class name="com.runner.TestCodeRed_RunnerClass">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T11:57:47 IST" name="setUpClass" finished-at="2023-11-22T11:57:48 IST" duration-ms="317" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@3792fed8]]>
+=======
   <suite started-at="2023-11-22T10:26:30 IST" name="Default suite" finished-at="2023-11-22T10:38:09 IST" duration-ms="698741">
     <groups>
       <group name="cucumber">
@@ -15,13 +30,18 @@
             <param index="0">
               <value>
                 <![CDATA[org.testng.TestRunner@2a3c3a04]]>
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
+<<<<<<< HEAD
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T11:57:48 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T11:58:06 IST" duration-ms="17969" status="PASS">
+=======
         <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:26:31 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:26:44 IST" duration-ms="13455" status="PASS">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
           <params>
             <param index="0">
               <value>
@@ -37,7 +57,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
+<<<<<<< HEAD
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T11:58:06 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T11:58:25 IST" duration-ms="18991" status="PASS">
+=======
         <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:26:44 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:27:01 IST" duration-ms="16896" status="PASS">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
           <params>
             <param index="0">
               <value>
@@ -53,7 +77,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
+<<<<<<< HEAD
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T11:58:25 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T11:58:45 IST" duration-ms="20306" status="FAIL">
+=======
         <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:27:01 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:27:13 IST" duration-ms="12211" status="FAIL">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
           <params>
             <param index="0">
               <value>
@@ -73,14 +101,22 @@
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "com.utility.HelperClass.javascriptExe" is null
 at com.stepdefinitions.AccountInformatioStepDefinition.user_get_the_payment_details_based_on_member_filter(AccountInformatioStepDefinition.java:110)
+<<<<<<< HEAD
+at ✽.User get the payment details based on Member filter(file:///C:/Users/alakshmanan/eclipse-workspace/CodeRed/PilotProject_Cyclos_CodeRed/src/test/resources/Features/AccountInformation.feature:28)
+=======
 at ✽.User get the payment details based on Member filter(file:///C:/Users/lsethuraj/eclipse-workspace/CodeRed/PilotProject_Cyclos_CodeRed/src/test/resources/Features/AccountInformation.feature:30)
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
 ]]>
             </full-stacktrace>
           </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
+<<<<<<< HEAD
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T11:58:45 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T11:59:21 IST" duration-ms="36530" status="FAIL">
+=======
         <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:27:13 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:27:54 IST" duration-ms="41141" status="FAIL">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
           <params>
             <param index="0">
               <value>
@@ -95,6 +131,28 @@ at ✽.User get the payment details based on Member filter(file:///C:/Users/lset
           </params>
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
+<<<<<<< HEAD
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='actionButton' and contains(text(),'New')]"}
+  (Session info: MicrosoftEdge=119.0.2151.58)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [f42bcf3df35d2e20b73bc94bb6317139, findElement {using=xpath, value=//button[@class='actionButton' and contains(text(),'New')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.58, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53659}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\ALAKSH~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53659/devtoo..., se:cdpVersion: 119.0.2151.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f42bcf3df35d2e20b73bc94bb6317139]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='actionButton' and contains(text(),'New')]"}
+  (Session info: MicrosoftEdge=119.0.2151.58)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [f42bcf3df35d2e20b73bc94bb6317139, findElement {using=xpath, value=//button[@class='actionButton' and contains(text(),'New')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.58, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53659}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\ALAKSH~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53659/devtoo..., se:cdpVersion: 119.0.2151.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f42bcf3df35d2e20b73bc94bb6317139
+=======
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='notificationText notificationText-singleLine' and contains(text(),'Saved successfully')]"}
   (Session info: chrome=114.0.5735.199)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
@@ -178,6 +236,7 @@ Driver info: org.openqa.selenium.chrome.ChromeDriver
 Command: [d961dba158e39d45f64e9607ef4a83ec, findElement {using=xpath, value=//span[text()='Mobile phone']}]
 Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\LSETHU~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60226}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60226/devtoo..., se:cdpVersion: 114.0.5735.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
 Session ID: d961dba158e39d45f64e9607ef4a83ec
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -197,16 +256,89 @@ at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:3
 at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
 at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
 at jdk.proxy2/jdk.proxy2.$Proxy38.click(Unknown Source)
+<<<<<<< HEAD
+at com.actions.Login_Function_Actions.NewAddress(Login_Function_Actions.java:284)
+at com.stepdefinitions.Login_Function_Stepdefinitions.user_click_the_new_in_address(Login_Function_Stepdefinitions.java:283)
+at ✽.User click the new in Address(file:///C:/Users/alakshmanan/eclipse-workspace/CodeRed/PilotProject_Cyclos_CodeRed/src/test/resources/Features/EditAddress.feature:10)
+=======
 at com.actions.Login_Function_Actions.SelectMobileNumber(Login_Function_Actions.java:110)
 at com.stepdefinitions.Login_Function_Stepdefinitions.user_select_the_mobile_number(Login_Function_Stepdefinitions.java:120)
 at ✽.User select the Mobile number(file:///C:/Users/lsethuraj/eclipse-workspace/CodeRed/PilotProject_Cyclos_CodeRed/src/test/resources/Features/EditPhoneNumber.feature:12)
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
 ]]>
             </full-stacktrace>
           </exception> <!-- org.openqa.selenium.NoSuchElementException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
+<<<<<<< HEAD
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T11:59:21 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:00:02 IST" duration-ms="40637" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Add Mobile Number in Phone"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["To Edit Phone Number in Demo Cyclos classic payment software Application and do functions"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: MicrosoftEdge=119.0.2151.58)
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [6e8d8e5c1b904a635bb5850546b53cac, clickElement {id=0F5BFC474F07E6FFA24B703B68FEB0A8_element_28}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.58, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53739}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\ALAKSH~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53739/devtoo..., se:cdpVersion: 119.0.2151.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on windows (6e8d8e5c1b904a635bb5850546b53cac)] -> xpath: //div[text()='Phones']]
+Session ID: 6e8d8e5c1b904a635bb5850546b53cac]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=119.0.2151.58)
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [6e8d8e5c1b904a635bb5850546b53cac, clickElement {id=0F5BFC474F07E6FFA24B703B68FEB0A8_element_28}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.58, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53739}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\ALAKSH~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53739/devtoo..., se:cdpVersion: 119.0.2151.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on windows (6e8d8e5c1b904a635bb5850546b53cac)] -> xpath: //div[text()='Phones']]
+Session ID: 6e8d8e5c1b904a635bb5850546b53cac
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at jdk.internal.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy38.click(Unknown Source)
+at com.actions.Login_Function_Actions.Phone2(Login_Function_Actions.java:103)
+at com.stepdefinitions.Login_Function_Stepdefinitions.user_click_the_phone_in_profile(Login_Function_Stepdefinitions.java:106)
+at ✽.User click the Phone in profile(file:///C:/Users/alakshmanan/eclipse-workspace/CodeRed/PilotProject_Cyclos_CodeRed/src/test/resources/Features/EditPhoneNumber.feature:10)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:00:02 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:00:39 IST" duration-ms="36527" status="FAIL">
+=======
         <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:28:33 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:29:08 IST" duration-ms="34812" status="FAIL">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
           <params>
             <param index="0">
               <value>
@@ -219,6 +351,30 @@ at ✽.User select the Mobile number(file:///C:/Users/lsethuraj/eclipse-workspac
               </value>
             </param>
           </params>
+<<<<<<< HEAD
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: MicrosoftEdge=119.0.2151.58)
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [c8dd2908b31a274ac7c53308da815d64, clickElement {id=6E1F35C849C2E8EA42E60D1461E8CFA9_element_36}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.58, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53810}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\ALAKSH~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53810/devtoo..., se:cdpVersion: 119.0.2151.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on windows (c8dd2908b31a274ac7c53308da815d64)] -> xpath: //div[text()='Phones']]
+Session ID: c8dd2908b31a274ac7c53308da815d64]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=119.0.2151.58)
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [c8dd2908b31a274ac7c53308da815d64, clickElement {id=6E1F35C849C2E8EA42E60D1461E8CFA9_element_36}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.58, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53810}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\ALAKSH~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53810/devtoo..., se:cdpVersion: 119.0.2151.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on windows (c8dd2908b31a274ac7c53308da815d64)] -> xpath: //div[text()='Phones']]
+Session ID: c8dd2908b31a274ac7c53308da815d64
+=======
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Land line']"}
@@ -241,6 +397,176 @@ Driver info: org.openqa.selenium.chrome.ChromeDriver
 Command: [029a0289cdc7da605384ec61d5b63132, findElement {using=xpath, value=//span[text()='Land line']}]
 Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\LSETHU~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60273}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60273/devtoo..., se:cdpVersion: 114.0.5735.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
 Session ID: 029a0289cdc7da605384ec61d5b63132
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+<<<<<<< HEAD
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at jdk.internal.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy38.click(Unknown Source)
+at com.actions.Login_Function_Actions.Phone2(Login_Function_Actions.java:103)
+at com.stepdefinitions.Login_Function_Stepdefinitions.user_click_the_phone_in_profile(Login_Function_Stepdefinitions.java:106)
+at ✽.User click the Phone in profile(file:///C:/Users/alakshmanan/eclipse-workspace/CodeRed/PilotProject_Cyclos_CodeRed/src/test/resources/Features/EditPhoneNumber.feature:25)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:00:39 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:01:01 IST" duration-ms="22811" status="PASS">
+=======
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy38.click(Unknown Source)
+at com.actions.Login_Function_Actions.SelectLandline(Login_Function_Actions.java:144)
+at com.stepdefinitions.Login_Function_Stepdefinitions.user_select_the_landline_number(Login_Function_Stepdefinitions.java:149)
+at ✽.User select the Landline number(file:///C:/Users/lsethuraj/eclipse-workspace/CodeRed/PilotProject_Cyclos_CodeRed/src/test/resources/Features/EditPhoneNumber.feature:27)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:29:08 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:29:24 IST" duration-ms="15936" status="PASS">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Edit User Profile"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["To Edit User profile in Demo Cyclos classic payment software Application and do functions"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+<<<<<<< HEAD
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:01:01 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:01:24 IST" duration-ms="22456" status="FAIL">
+=======
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:29:24 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:29:34 IST" duration-ms="10375" status="FAIL">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User uses the Advertisement Interests"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["User Processing the Advertisement Interests in Marketplace feature available in Cyclos Payment Software Web Application"]]>
+              </value>
+            </param>
+          </params>
+<<<<<<< HEAD
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[stale element reference: stale element not found
+  (Session info: MicrosoftEdge=119.0.2151.58)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d3bc828fe810e9019dceb74d1baa2b7e, clickElement {id=A16BF45F8E649BA261EA79A09F4D8C37_element_21}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.58, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53924}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\ALAKSH~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53924/devtoo..., se:cdpVersion: 119.0.2151.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on windows (d3bc828fe810e9019dceb74d1baa2b7e)] -> xpath: //button[text()='New ']]
+Session ID: d3bc828fe810e9019dceb74d1baa2b7e]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=119.0.2151.58)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d3bc828fe810e9019dceb74d1baa2b7e, clickElement {id=A16BF45F8E649BA261EA79A09F4D8C37_element_21}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.58, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53924}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\ALAKSH~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53924/devtoo..., se:cdpVersion: 119.0.2151.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on windows (d3bc828fe810e9019dceb74d1baa2b7e)] -> xpath: //button[text()='New ']]
+Session ID: d3bc828fe810e9019dceb74d1baa2b7e
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at jdk.internal.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy38.click(Unknown Source)
+at com.actions.InterestsAction.clickNew(InterestsAction.java:33)
+at com.stepdefinitions.InterestsDefinitions.user_clicks_new_interests(InterestsDefinitions.java:35)
+at ✽.User clicks New interests(file:///C:/Users/alakshmanan/eclipse-workspace/CodeRed/PilotProject_Cyclos_CodeRed/src/test/resources/Features/Interests.feature:6)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:01:24 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:02:00 IST" duration-ms="35904" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User uses the Advertisement Interests"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["User Processing the Advertisement Interests in Marketplace feature available in Cyclos Payment Software Web Application"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()='New ']"}
+  (Session info: MicrosoftEdge=119.0.2151.58)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [8fe25a9d62caa20f46dfcb81523306af, findElement {using=xpath, value=//button[text()='New ']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.58, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53974}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\ALAKSH~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53974/devtoo..., se:cdpVersion: 119.0.2151.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8fe25a9d62caa20f46dfcb81523306af]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()='New ']"}
+  (Session info: MicrosoftEdge=119.0.2151.58)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [8fe25a9d62caa20f46dfcb81523306af, findElement {using=xpath, value=//button[text()='New ']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.58, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53974}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\ALAKSH~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53974/devtoo..., se:cdpVersion: 119.0.2151.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8fe25a9d62caa20f46dfcb81523306af
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -260,44 +586,224 @@ at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:3
 at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
 at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
 at jdk.proxy2/jdk.proxy2.$Proxy38.click(Unknown Source)
-at com.actions.Login_Function_Actions.SelectLandline(Login_Function_Actions.java:144)
-at com.stepdefinitions.Login_Function_Stepdefinitions.user_select_the_landline_number(Login_Function_Stepdefinitions.java:149)
-at ✽.User select the Landline number(file:///C:/Users/lsethuraj/eclipse-workspace/CodeRed/PilotProject_Cyclos_CodeRed/src/test/resources/Features/EditPhoneNumber.feature:27)
+at com.actions.InterestsAction.clickNew(InterestsAction.java:33)
+at com.stepdefinitions.InterestsDefinitions.user_clicks_new_interests(InterestsDefinitions.java:35)
+at ✽.User clicks New interests(file:///C:/Users/alakshmanan/eclipse-workspace/CodeRed/PilotProject_Cyclos_CodeRed/src/test/resources/Features/Interests.feature:17)
 ]]>
             </full-stacktrace>
           </exception> <!-- org.openqa.selenium.NoSuchElementException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:29:08 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:29:24 IST" duration-ms="15936" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:02:00 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:02:18 IST" duration-ms="17878" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA["Edit User Profile"]]>
+                <![CDATA["Login with valid credentials"]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA["To Edit User profile in Demo Cyclos classic payment software Application and do functions"]]>
+                <![CDATA["To Login in Demo Cyclos classic payment software Application and do functions"]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:29:24 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:29:34 IST" duration-ms="10375" status="FAIL">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:02:18 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:02:36 IST" duration-ms="18428" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA["User uses the Advertisement Interests"]]>
+                <![CDATA["Login with Invalid credentials"]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA["User Processing the Advertisement Interests in Marketplace feature available in Cyclos Payment Software Web Application"]]>
+                <![CDATA["To Login in Demo Cyclos classic payment software Application and do functions"]]>
               </value>
             </param>
           </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:02:36 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:02:56 IST" duration-ms="20347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login with Invalid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["To Login in Demo Cyclos classic payment software Application and do functions"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:02:56 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:03:19 IST" duration-ms="22434" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Change password with valid input"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["To Manage password  in Demo Cyclos classic payment software Application and do functions"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:03:19 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:03:51 IST" duration-ms="32588" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Change password with Invalid input"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["To Manage password  in Demo Cyclos classic payment software Application and do functions"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:03:51 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:04:22 IST" duration-ms="30395" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User uses Price Highest filter"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["User using Search Advertisements in Marketplace tab available in Cyclos Payment Software Application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:04:22 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:04:44 IST" duration-ms="21937" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User access Price Lowest filter"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["User using Search Advertisements in Marketplace tab available in Cyclos Payment Software Application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:04:44 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:05:02 IST" duration-ms="18376" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User access Price Relevance filter"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["User using Search Advertisements in Marketplace tab available in Cyclos Payment Software Application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:05:02 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:05:20 IST" duration-ms="17486" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User removes a product from Price Highest filter"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["User using Search Advertisements in Marketplace tab available in Cyclos Payment Software Application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:05:20 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:06:15 IST" duration-ms="55384" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To Manage My Contact"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["To add existing in Mycontact"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='actionButton' and contains(text(),'Add')]' (tried for 20 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='actionButton' and contains(text(),'Add')]' (tried for 20 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
+at com.actions.Login_Function_Actions.AddOption(Login_Function_Actions.java:230)
+at com.stepdefinitions.Login_Function_Stepdefinitions.user_click_add_option(Login_Function_Stepdefinitions.java:230)
+at ✽.User Click Add option(file:///C:/Users/alakshmanan/eclipse-workspace/CodeRed/PilotProject_Cyclos_CodeRed/src/test/resources/Features/Mycontact.feature:10)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='actionButton' and contains(text(),'Add')]"}
+  (Session info: MicrosoftEdge=119.0.2151.58)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [67086cd80f6b689a528b300a9176e1dd, findElement {using=xpath, value=//button[@class='actionButton' and contains(text(),'Add')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.58, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:54496}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\ALAKSH~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54496/devtoo..., se:cdpVersion: 119.0.2151.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 67086cd80f6b689a528b300a9176e1dd
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy38.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:205)
+at com.actions.Login_Function_Actions.AddOption(Login_Function_Actions.java:230)
+at com.stepdefinitions.Login_Function_Stepdefinitions.user_click_add_option(Login_Function_Stepdefinitions.java:230)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+=======
           <exception class="io.cucumber.core.exception.CucumberException">
             <message>
               <![CDATA[Failed to instantiate class com.stepdefinitions.InterestsDefinitions]]>
@@ -306,6 +812,7 @@ at ✽.User select the Landline number(file:///C:/Users/lsethuraj/eclipse-worksp
               <![CDATA[io.cucumber.core.exception.CucumberException: Failed to instantiate class com.stepdefinitions.InterestsDefinitions
 at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:67)
 at io.cucumber.core.backend.DefaultObjectFactory.getInstance(DefaultObjectFactory.java:45)
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
 at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
 at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
 at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
@@ -322,8 +829,12 @@ at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(Rethrow
 at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137)
 at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
 at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+<<<<<<< HEAD
+at jdk.internal.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+=======
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
 at java.base/java.lang.reflect.Method.invoke(Method.java:568)
 at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
@@ -350,6 +861,19 @@ at org.testng.TestNG.run(TestNG.java:1082)
 at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
 at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+<<<<<<< HEAD
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:06:15 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:06:56 IST" duration-ms="40635" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User to User payment"]]>
+=======
 Caused by: java.lang.reflect.InvocationTargetException
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
@@ -376,10 +900,14 @@ at com.stepdefinitions.InterestsDefinitions.<init>(InterestsDefinitions.java:13)
             <param index="0">
               <value>
                 <![CDATA["User uses the Advertisement Interests"]]>
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
               </value>
             </param>
             <param index="1">
               <value>
+<<<<<<< HEAD
+                <![CDATA["User access the Payment option to perform payment related actions in Cyclos"]]>
+=======
                 <![CDATA["User Processing the Advertisement Interests in Marketplace feature available in Cyclos Payment Software Web Application"]]>
               </value>
             </param>
@@ -661,11 +1189,34 @@ at ✽.User prints the total number of results available in favorites after adde
             <param index="1">
               <value>
                 <![CDATA["To add existing in Mycontact"]]>
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
               </value>
             </param>
           </params>
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
+<<<<<<< HEAD
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[@title='Pay now (not scheduled)']"}
+  (Session info: MicrosoftEdge=119.0.2151.58)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [562a3f8e66d390aceea77e4b1fc4abbd, findElement {using=xpath, value=//div[@title='Pay now (not scheduled)']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.58, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:54585}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\ALAKSH~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54585/devtoo..., se:cdpVersion: 119.0.2151.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 562a3f8e66d390aceea77e4b1fc4abbd]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@title='Pay now (not scheduled)']"}
+  (Session info: MicrosoftEdge=119.0.2151.58)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [562a3f8e66d390aceea77e4b1fc4abbd, findElement {using=xpath, value=//div[@title='Pay now (not scheduled)']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.58, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:54585}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\ALAKSH~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54585/devtoo..., se:cdpVersion: 119.0.2151.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 562a3f8e66d390aceea77e4b1fc4abbd
+=======
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='notificationText notificationText-singleLine']"}
   (Session info: chrome=114.0.5735.199)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
@@ -686,6 +1237,7 @@ Driver info: org.openqa.selenium.chrome.ChromeDriver
 Command: [fa2f88317c7329aebd50781221addf3e, findElement {using=xpath, value=//div[@class='notificationText notificationText-singleLine']}]
 Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\LSETHU~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60766}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60766/devtoo..., se:cdpVersion: 114.0.5735.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
 Session ID: fa2f88317c7329aebd50781221addf3e
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -704,16 +1256,26 @@ at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:3
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
 at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
 at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+<<<<<<< HEAD
+at jdk.proxy2/jdk.proxy2.$Proxy38.click(Unknown Source)
+at com.actions.PaymentActions.clickSchedule(PaymentActions.java:54)
+at com.stepdefinitions.PaymentsStepDefinition.user_choose_the_schedule_as_pay_now(PaymentsStepDefinition.java:51)
+at ✽.User choose the schedule as Pay now(file:///C:/Users/alakshmanan/eclipse-workspace/CodeRed/PilotProject_Cyclos_CodeRed/src/test/resources/Features/Payments.feature:9)
+=======
 at jdk.proxy2/jdk.proxy2.$Proxy38.getText(Unknown Source)
 at com.actions.Login_Function_Actions.MyContactAddedList(Login_Function_Actions.java:255)
 at com.stepdefinitions.Login_Function_Stepdefinitions.user_click_save_and_able_to_see_my_contact_added_list(Login_Function_Stepdefinitions.java:246)
 at ✽.User Click save and  able to see My Contact Added list(file:///C:/Users/lsethuraj/eclipse-workspace/CodeRed/PilotProject_Cyclos_CodeRed/src/test/resources/Features/Mycontact.feature:14)
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
 ]]>
             </full-stacktrace>
           </exception> <!-- org.openqa.selenium.NoSuchElementException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
+<<<<<<< HEAD
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:06:56 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:07:12 IST" duration-ms="16569" status="PASS">
+=======
         <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:34:40 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:35:11 IST" duration-ms="31175" status="PASS">
           <params>
             <param index="0">
@@ -731,6 +1293,7 @@ at ✽.User Click save and  able to see My Contact Added list(file:///C:/Users/l
           </reporter-output>
         </test-method> <!-- runScenario -->
         <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:35:11 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:35:39 IST" duration-ms="28085" status="PASS">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
           <params>
             <param index="0">
               <value>
@@ -746,7 +1309,11 @@ at ✽.User Click save and  able to see My Contact Added list(file:///C:/Users/l
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
+<<<<<<< HEAD
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:07:12 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:08:10 IST" duration-ms="58051" status="PASS">
+=======
         <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:35:39 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:36:22 IST" duration-ms="42782" status="PASS">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
           <params>
             <param index="0">
               <value>
@@ -762,7 +1329,11 @@ at ✽.User Click save and  able to see My Contact Added list(file:///C:/Users/l
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
+<<<<<<< HEAD
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:08:10 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:08:29 IST" duration-ms="18200" status="PASS">
+=======
         <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:36:22 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:36:37 IST" duration-ms="14833" status="PASS">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
           <params>
             <param index="0">
               <value>
@@ -778,7 +1349,11 @@ at ✽.User Click save and  able to see My Contact Added list(file:///C:/Users/l
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
+<<<<<<< HEAD
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:08:29 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:08:37 IST" duration-ms="8384" status="FAIL">
+=======
         <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:36:37 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:36:51 IST" duration-ms="14303" status="FAIL">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
           <params>
             <param index="0">
               <value>
@@ -851,7 +1426,11 @@ at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
 at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:53)
 ... 44 more
 Caused by: java.lang.NullPointerException: inStream parameter is null
+<<<<<<< HEAD
+at java.base/java.util.Objects.requireNonNull(Objects.java:235)
+=======
 at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
 at java.base/java.util.Properties.load(Properties.java:407)
 at com.utility.UtilityClassMessage.data(UtilityClassMessage.java:27)
 at com.utility.UtilityClassMessage.<init>(UtilityClassMessage.java:14)
@@ -863,7 +1442,11 @@ at com.stepdefinitions.messageStepDefanition.<init>(messageStepDefanition.java:2
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
+<<<<<<< HEAD
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:08:37 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:08:43 IST" duration-ms="6355" status="FAIL">
+=======
         <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:36:51 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:37:05 IST" duration-ms="14591" status="FAIL">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
           <params>
             <param index="0">
               <value>
@@ -936,7 +1519,11 @@ at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
 at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:53)
 ... 44 more
 Caused by: java.lang.NullPointerException: inStream parameter is null
+<<<<<<< HEAD
+at java.base/java.util.Objects.requireNonNull(Objects.java:235)
+=======
 at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
 at java.base/java.util.Properties.load(Properties.java:407)
 at com.utility.UtilityClassMessage.data(UtilityClassMessage.java:27)
 at com.utility.UtilityClassMessage.<init>(UtilityClassMessage.java:14)
@@ -948,7 +1535,11 @@ at com.stepdefinitions.messageStepDefanition.<init>(messageStepDefanition.java:2
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
+<<<<<<< HEAD
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:08:43 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:08:50 IST" duration-ms="6518" status="FAIL">
+=======
         <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:37:05 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:37:11 IST" duration-ms="5925" status="FAIL">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
           <params>
             <param index="0">
               <value>
@@ -1021,7 +1612,11 @@ at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
 at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:53)
 ... 44 more
 Caused by: java.lang.NullPointerException: inStream parameter is null
+<<<<<<< HEAD
+at java.base/java.util.Objects.requireNonNull(Objects.java:235)
+=======
 at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
 at java.base/java.util.Properties.load(Properties.java:407)
 at com.utility.UtilityClassMessage.data(UtilityClassMessage.java:27)
 at com.utility.UtilityClassMessage.<init>(UtilityClassMessage.java:14)
@@ -1033,7 +1628,11 @@ at com.stepdefinitions.messageStepDefanition.<init>(messageStepDefanition.java:2
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
+<<<<<<< HEAD
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:08:50 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:08:55 IST" duration-ms="4835" status="FAIL">
+=======
         <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:37:11 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:37:21 IST" duration-ms="9709" status="FAIL">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
           <params>
             <param index="0">
               <value>
@@ -1106,7 +1705,11 @@ at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
 at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:53)
 ... 44 more
 Caused by: java.lang.NullPointerException: inStream parameter is null
+<<<<<<< HEAD
+at java.base/java.util.Objects.requireNonNull(Objects.java:235)
+=======
 at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
 at java.base/java.util.Properties.load(Properties.java:407)
 at com.utility.UtilityClassMessage.data(UtilityClassMessage.java:27)
 at com.utility.UtilityClassMessage.<init>(UtilityClassMessage.java:14)
@@ -1118,7 +1721,11 @@ at com.stepdefinitions.messageStepDefanition.<init>(messageStepDefanition.java:2
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
+<<<<<<< HEAD
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:08:55 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:09:02 IST" duration-ms="7508" status="FAIL">
+=======
         <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:37:21 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:37:37 IST" duration-ms="16221" status="FAIL">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
           <params>
             <param index="0">
               <value>
@@ -1191,7 +1798,11 @@ at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
 at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:53)
 ... 44 more
 Caused by: java.lang.NullPointerException: inStream parameter is null
+<<<<<<< HEAD
+at java.base/java.util.Objects.requireNonNull(Objects.java:235)
+=======
 at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
 at java.base/java.util.Properties.load(Properties.java:407)
 at com.utility.UtilityClassMessage.data(UtilityClassMessage.java:27)
 at com.utility.UtilityClassMessage.<init>(UtilityClassMessage.java:14)
@@ -1203,7 +1814,11 @@ at com.stepdefinitions.messageStepDefanition.<init>(messageStepDefanition.java:2
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
+<<<<<<< HEAD
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:09:02 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:09:09 IST" duration-ms="7254" status="FAIL">
+=======
         <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:37:37 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:37:45 IST" duration-ms="7976" status="FAIL">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
           <params>
             <param index="0">
               <value>
@@ -1276,7 +1891,11 @@ at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
 at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:53)
 ... 44 more
 Caused by: java.lang.NullPointerException: inStream parameter is null
+<<<<<<< HEAD
+at java.base/java.util.Objects.requireNonNull(Objects.java:235)
+=======
 at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
 at java.base/java.util.Properties.load(Properties.java:407)
 at com.utility.UtilityClassVoucher.data(UtilityClassVoucher.java:27)
 at com.utility.UtilityClassVoucher.<init>(UtilityClassVoucher.java:14)
@@ -1288,7 +1907,11 @@ at com.stepdefinitions.VoucherStepdefinition.<init>(VoucherStepdefinition.java:1
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
+<<<<<<< HEAD
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:09:09 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T12:09:16 IST" duration-ms="6705" status="FAIL">
+=======
         <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:37:45 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-22T10:37:57 IST" duration-ms="11902" status="FAIL">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
           <params>
             <param index="0">
               <value>
@@ -1361,7 +1984,11 @@ at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
 at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:53)
 ... 44 more
 Caused by: java.lang.NullPointerException: inStream parameter is null
+<<<<<<< HEAD
+at java.base/java.util.Objects.requireNonNull(Objects.java:235)
+=======
 at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
 at java.base/java.util.Properties.load(Properties.java:407)
 at com.utility.UtilityClassVoucher.data(UtilityClassVoucher.java:27)
 at com.utility.UtilityClassVoucher.<init>(UtilityClassVoucher.java:14)
@@ -1373,7 +2000,11 @@ at com.stepdefinitions.VoucherStepdefinition.<init>(VoucherStepdefinition.java:1
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
+<<<<<<< HEAD
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.runner.TestCodeRed_RunnerClass@2b40ff9c]" started-at="2023-11-22T12:09:16 IST" name="tearDownClass" finished-at="2023-11-22T12:09:18 IST" duration-ms="1625" status="PASS">
+=======
         <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.runner.TestCodeRed_RunnerClass@367ffa75]" started-at="2023-11-22T10:37:57 IST" name="tearDownClass" finished-at="2023-11-22T10:38:09 IST" duration-ms="11746" status="PASS">
+>>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
