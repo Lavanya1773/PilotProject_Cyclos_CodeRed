@@ -15,6 +15,11 @@ public class MarketPlaceActions {
 		this.marketLocator = new MarketPlaceLocators();		
 		PageFactory.initElements(HelperClass.getDriver(), marketLocator);
 	}
+	
+	public void clickLogout() {
+		marketLocator.logout.click();
+	}
+	
 	//method for signing in
 	public void signIn(String userName, String password) {
 		marketLocator.signIn.click();

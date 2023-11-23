@@ -19,6 +19,7 @@ public class HelperClass {
 	public HelperClass(){ 		
 		ChromeOptions opt = new ChromeOptions();
 		opt.setPageLoadStrategy(PageLoadStrategy.NORMAL);
+		javascriptExe = (JavascriptExecutor)driver;
 		driver = new ChromeDriver(opt);
 		wait = new WebDriverWait(driver, Duration.ofSeconds(TIMEOUT));
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(TIMEOUT));

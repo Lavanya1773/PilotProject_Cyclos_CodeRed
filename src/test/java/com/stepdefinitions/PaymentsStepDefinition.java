@@ -54,8 +54,8 @@ public class PaymentsStepDefinition {
 
 	@Then("User gets a verification message")
 	public void user_gets_a_verification_message() {
-//		objPaymentActions.Confirmation(); 
-		objPaymentActions.clickCloseWarning();
+		objPaymentActions.Confirmation(); 
+//		objPaymentActions.clickCloseWarning();
 	    HelperClass.log.info("User confirms the payment and result is verified");
 	}
 

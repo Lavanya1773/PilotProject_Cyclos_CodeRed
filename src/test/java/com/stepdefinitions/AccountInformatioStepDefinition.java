@@ -62,8 +62,8 @@ public class AccountInformatioStepDefinition {
 	}
 
 	@Then("User download the payment history")
-	public void user_download_the_payment_history() {
-		objAccountActions.scrollAction();//
+	public void user_download_the_payment_history() throws InterruptedException {
+//		objAccountActions.scrollAction();
 		objAccountActions.clickDownloadFile();
 		objAccountActions.clickPdf();			
 		System.out.println("Payment file is downloaded. Please Check your system");
@@ -102,12 +102,12 @@ public class AccountInformatioStepDefinition {
 	}
 
 	@Then("User get the payment details based on Member filter")
-	public void user_get_the_payment_details_based_on_member_filter() {
+	public void user_get_the_payment_details_based_on_member_filter() throws InterruptedException {
 		
-		objAccountActions.scrollAction();
+//		objAccountActions.scrollAction();
 		Assert.assertTrue(objAccountActions.getMemberPaymentVerification().contains("Amount for buying gifts"));
 		
-		HelperClass.javascriptExe.executeScript("window.scrollBy(0,doc.body.scrollHeight)");		
+//		HelperClass.javascriptExe.executeScript("window.scrollBy(0,doc.body.scrollHeight)");		
 		
 		List<WebElement> table = HelperClass.getDriver().findElements(By.xpath("//div[@class='dataTableContainer']//table"));	
 		System.out.println(table.size());

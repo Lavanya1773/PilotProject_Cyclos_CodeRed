@@ -5,7 +5,7 @@ import org.openqa.selenium.support.PageFactory;
 import com.locators.AccountInformationLocators;
 import com.utility.HelperClass;
 
-public class AccountInformationActions {
+public class AccountInformationActions{
 	AccountInformationLocators accountInformationLocators = new AccountInformationLocators();
 	String userName, password, currentBalance;
 	Actions act = new Actions(HelperClass.getDriver());
@@ -78,11 +78,14 @@ public class AccountInformationActions {
 		return accountInformationLocators.memberPaymentTextConfirmation.getText();
 	}
 	
-	public void scrollAction() {
+	public void scrollAction() throws InterruptedException {
 		
 //		((JavascriptExecutor)HelperClass.getDriver()).executeScript("arguments[0].scrollIntoView(true);", accountInformationLocators.scrollElement);
-		act.scrollToElement(accountInformationLocators.scrollElement);
+//		act.scrollToElement(accountInformationLocators.scrollElement);
+//		HelperClass.javascriptExe.executeScript("arguments[0].scrollIntoView(true);",accountInformationLocators.scrollElement);
+		HelperClass.javascriptExe.executeScript("window.scrollBy(0,300)");
 	}
+	
 	
 	public void AccountInfo(String userName, String password) {
 		

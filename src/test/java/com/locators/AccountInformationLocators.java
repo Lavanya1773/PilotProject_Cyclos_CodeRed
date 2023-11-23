@@ -87,7 +87,7 @@ public class AccountInformationLocators {
 //	@FindBy(xpath = "//tr[@class='dataTableRow dataTableRow-even']//td")
 //	public List<WebElement> tableData;  //for table data purpose
 	
-	@FindBy(xpath = "//td[text()='Anandha selvam K']")
+	@FindBy(xpath = "//div[@class='footerContents']")
 	public WebElement scrollElement;
 	
 }
