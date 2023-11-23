@@ -76,11 +76,17 @@ public class MarketPlaceLocators {
 	public WebElement resultCount; //xpath for getting the total counts
 	
 <<<<<<< HEAD
+	@FindBy(xpath="//span[text()='Logout']")
+	public WebElement logout; //xpath for logout
+	
+=======
+<<<<<<< HEAD
 
 }
 	
 
 =======
 >>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
+>>>>>>> 3001778f8f7b7cb2f4d30d5867dec82be0987e19
 
 }

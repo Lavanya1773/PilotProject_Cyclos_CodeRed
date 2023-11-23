@@ -14,7 +14,7 @@ public String url,userName,password;
 		data();
 	}
 	public void data() {
-		File file = new File("C:\\Users\\avelayudhan\\eclipse-workspace\\CodeRed\\PilotProject_Cyclos_CodeRed\\src\\test\\resources\\Cyclos.properties");
+		File file = new File("src/test/resources/Cyclos.properties");
 		FileInputStream fio =null;
 		try {
 			fio = new FileInputStream(file);
