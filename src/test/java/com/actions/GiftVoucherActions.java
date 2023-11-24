@@ -1,12 +1,5 @@
 package com.actions;
 
-<<<<<<< HEAD
-public class GiftVoucherActions {
-
-	
-	
-	
-=======
 import org.openqa.selenium.support.PageFactory;
 import com.locators.GiftVoucherLocators;
 import com.utility.HelperClass;
@@ -18,8 +11,8 @@ public class GiftVoucherActions {
 	public GiftVoucherActions(){
 		this.giftVoucherLocators = new GiftVoucherLocators();
 		PageFactory.initElements(HelperClass.getDriver(), giftVoucherLocators);		
-		
 	}
+	
 	
 	//login
 	public void setSignIn(String userName, String password) {
@@ -67,6 +60,24 @@ public class GiftVoucherActions {
 		giftVoucherLocators.PrintButton.click();
 	}
 	
-
->>>>>>> main
+	//Assertion
+	public String successMessBuyVoucher() {
+		return giftVoucherLocators.SuccessMessBuyVoucher.getText();
+	}
+	
+	
+	public void clickMyVoucher() throws InterruptedException {
+		Thread.sleep(3000);
+		giftVoucherLocators.MyVoucher.click();
+	}
+	
+	public String getResultNo() {
+		return giftVoucherLocators.ResultMessVouchers.getText();
+	}
+	
+	public void printPDFclick() {
+		giftVoucherLocators.PrintPDF.click();
+	}
+	
 }
+

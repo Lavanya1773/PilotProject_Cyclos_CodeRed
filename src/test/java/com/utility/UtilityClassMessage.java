@@ -8,12 +8,7 @@ import java.util.Properties;
  
 
 public class UtilityClassMessage {
-    
-<<<<<<< HEAD
-	public String url, User,Subject,Description;
-=======
 	public String url, User,Subject,Description,userName,password;
->>>>>>> main
 	
 	public UtilityClassMessage(){
 		data();
@@ -37,14 +32,7 @@ public class UtilityClassMessage {
 		User = prop.getProperty("User");
 		Subject = prop.getProperty("Subject");
 		Description = prop.getProperty("Description");
-<<<<<<< HEAD
-		
-=======
 		userName = prop.getProperty("userName");
 		password =prop.getProperty("password");
->>>>>>> main
-	}
-	
-	
-	
+	}	
 }

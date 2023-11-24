@@ -1,14 +1,14 @@
 package com.actions;
 
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.PageFactory;
-
 import com.locators.AccountInformationLocators;
 import com.utility.HelperClass;
 
 public class AccountInformationActions {
 	AccountInformationLocators accountInformationLocators = new AccountInformationLocators();
-	String userName, password, currentBalance, evenHistory, oddHistory;
-	
+	String userName, password, currentBalance;
+	Actions act = new Actions(HelperClass.getDriver());
 	public AccountInformationActions() {
 		this.accountInformationLocators = new AccountInformationLocators();
 		PageFactory.initElements(HelperClass.getDriver(), accountInformationLocators);		
@@ -42,20 +42,22 @@ public class AccountInformationActions {
 		System.out.println("download is clicked");
 	}
 	
-	public void clickPaymentFilters() {
-		System.out.println("Working on first filter");
-		accountInformationLocators.paymentFilterButton.click();
-		accountInformationLocators.systemPaymentsBox.click();
-		accountInformationLocators.searchButton.click();
-		String systemPayments = accountInformationLocators.systemResultCount.getText();
-		System.out.println("First filter result is:" + systemPayments);
-		
-		System.out.println("Working on second filter");
+	public void clickMemberPaymentFilters() {
+		System.out.println("Working on System Payment filter");
 		accountInformationLocators.paymentFilterButton.click();
 		accountInformationLocators.MemberPaymentsBox.click();
 		accountInformationLocators.searchButton.click();
 		String memberPayments = accountInformationLocators.memberResultCount.getText();
-		System.out.println("First filter result is:" + memberPayments);
+		System.out.println("Member filter result is:" + memberPayments);
+		
+	}
+		public void clickSystemFilters() {
+		System.out.println("Working on Member filter");
+		accountInformationLocators.paymentFilterButton.click();
+		accountInformationLocators.systemPaymentsBox.click();
+		accountInformationLocators.searchButton.click();
+		String systemPayments = accountInformationLocators.systemResultCount.getText();
+		System.out.println("System filter result is:" + systemPayments);
 	}
 	
 	public void clickAdvanceButton() {
@@ -64,17 +66,23 @@ public class AccountInformationActions {
 		accountInformationLocators.initialPayment.getText();
 	}
 	
-//	public void clickPdf() {
-//		accountInformationLocators.pdf.click();
-//	}
+	public void clickPdf() {
+		accountInformationLocators.pdf.click();
+	}
 	
-//	public String getEvenHistory() {
-//		return accountInformationLocators.evenHistory.getText();
-//	}
-//	
-//	public String getOddHistory() {
-//		return accountInformationLocators.oddHistory.getText();
-//	}
+	public String getSystemPaymentVerification() {
+		return accountInformationLocators.systemPaymentTextConfirmation.getText();
+	}
+	
+	public String getMemberPaymentVerification() {
+		return accountInformationLocators.memberPaymentTextConfirmation.getText();
+	}
+	
+	public void scrollAction() {
+		
+//		((JavascriptExecutor)HelperClass.getDriver()).executeScript("arguments[0].scrollIntoView(true);", accountInformationLocators.scrollElement);
+		act.scrollToElement(accountInformationLocators.scrollElement);
+	}
 	
 	public void AccountInfo(String userName, String password) {
 		
@@ -84,10 +92,9 @@ public class AccountInformationActions {
 		this.getNegativeBalanceText();
 		this.getTotalReceivedBalanceText();
 		this.clickDownloadFile();
-//		this.clickPdf();
+		this.clickPdf();
 		this.clickAdvanceButton();
-//		this.getEvenHistory();
-//		this.getOddHistory();
+
 	}
 
 }
