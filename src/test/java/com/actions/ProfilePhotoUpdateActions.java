@@ -44,11 +44,10 @@ public class ProfilePhotoUpdateActions {
 		profilePictureLocators.uploadNewButton.click();
 		
 		Thread.sleep(5000);
-
 		Robot rb = new Robot();
 
 		StringSelection str = new StringSelection("file:///C:/Users/lsethuraj/Downloads/pictureFolder/picture.jpg");
-//		file:///C:/arun/Newfolder/Arun_Passport_Photo.jpg
+
 		Toolkit.getDefaultToolkit().getSystemClipboard().setContents(str, null);
 		
 		

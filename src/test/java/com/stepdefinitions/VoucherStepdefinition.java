@@ -1,7 +1,5 @@
-package com.stepdefinitions;
- 
+package com.stepdefinitions; 
 import org.testng.Assert;
- 
 import com.actions.GiftVoucherActions;
 import com.utility.HelperClass;
 import com.utility.UtilityClassVoucher;
@@ -19,15 +17,17 @@ public class VoucherStepdefinition {
 		HelperClass.openPage(data1.url);
 	    System.out.println("Cyclos Url is launched");
 	    HelperClass.log.info("Cyclos URL is launched");
+
  
 	}
  
+
 	@When("User provides Name and password")
 	public void user_provide_valid_username_and_password() {
 		System.out.println("User provides username and password to signIn");
 		objgiftVoucherActions.setSignIn(data1.userName, data1.password);
 	    HelperClass.log.info("User entered username and password");
- 
+
 		
 	}
  
@@ -36,16 +36,14 @@ public class VoucherStepdefinition {
 		objgiftVoucherActions.clickMarketPlace();
 		System.out.println("Select the marketplace");
 	    HelperClass.log.info("User selected the marketplace tab");
- 
-	}
+	}	    
  
 	@When("User selects the buy voucher")
 	public void user_selects_the_buy_voucher() {
 		objgiftVoucherActions.clickBuyVoucher();
 		System.out.println("Select the Buy voucher");
 	    HelperClass.log.info("User selects the buy voucher option");
- 
-		
+	
 	}
  
 	@When("User selects the Gift voucher")
@@ -53,7 +51,7 @@ public class VoucherStepdefinition {
 		objgiftVoucherActions.clickGiftVoucher();
 		System.out.println("Select the Gift voucher");
 	    HelperClass.log.info("User selects the Gift voucher");
- 
+
 	}
  
 	@When("User enters the amount and submit")
@@ -62,6 +60,8 @@ public class VoucherStepdefinition {
 		objgiftVoucherActions.clickNext();
 		objgiftVoucherActions.clickSubmit();
 	    HelperClass.log.info("User entered the amount and submit");
+
+
  
 	}
  
@@ -74,6 +74,44 @@ public class VoucherStepdefinition {
     HelperClass.log.info("Print the gift voucher pdf and the submission verified");
  
 		
+	Assert.assertTrue(objgiftVoucherActions.successMessBuyVoucher().contains("The voucher has been bought"));
+	System.out.println("The assert is true");		
+    HelperClass.log.info("Print the gift voucher pdf and the submission verified");
+
+		
+	}
+	
+	@When("User Selects the my voucher option")
+	public void user_selects_the_my_voucher_option() {
+		objgiftVoucherActions.clickMyVoucher();
+	    HelperClass.log.info("User Selects the my voucher option");
+
+		
+	}
+
+	
+	@When("User Verfied the page is successfully opened")
+	public void user_verfied_the_page_is_successfully_opened() {
+	String resultNumber =objgiftVoucherActions.getResultNo();
+		
+	System.out.println("The number of result in send message" +resultNumber);
+	
+//	Assert.assertTrue(objgiftVoucherActions.getResultNo().contains("result"));
+    System.out.println("The assert is true");
+    HelperClass.log.info("User Verfied the page is successfully opened");
+
+		
+		
+	}
+
+	
+	
+	@Then("User download the gift voucher pdf")
+	public void user_download_the_gift_voucher_pdf() {
+		objgiftVoucherActions.printPDFclick();
+		
+	    HelperClass.log.info("User download the gift voucher pdf");
+
 	}
 	@When("User Selects the my voucher option")
 	public void user_selects_the_my_voucher_option() {
@@ -96,7 +134,8 @@ public class VoucherStepdefinition {
 	}
  
 	
-	@Then("User download the gift voucher pdf")
+
+@Then("User download the gift voucher pdf")
 	public void user_download_the_gift_voucher_pdf() {
 		objgiftVoucherActions.printPDFclick();
 	    HelperClass.log.info("User download the gift voucher pdf");
@@ -104,3 +143,4 @@ public class VoucherStepdefinition {
 	}
 
 }
+

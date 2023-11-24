@@ -12,7 +12,11 @@ public class UtilityClass {
 		data();
 	}
 	public void data() {
+<<<<<<< HEAD
+		File file = new File("C:\\Users\\alakshmanan\\eclipse-workspace\\CodeRed\\PilotProject_Cyclos_CodeRed\\src\\test\\resources\\Cyclos.properties");
+=======
 		File file = new File("src/test/resources/Cyclos.properties");
+>>>>>>> ee91d922dd66522ba8552e58e39863a384d96d5c
 		FileInputStream fileinput =null;
 		try {
 			fileinput = new FileInputStream(file);

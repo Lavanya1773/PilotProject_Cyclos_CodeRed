@@ -3,6 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
+<<<<<<< HEAD
+      <class name="com.runner.runnerTestNG">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="tearDownClass"/>
+          <include name="runScenario" invocation-numbers="0 1 2 3 4"/>
+        </methods>
+      </class> <!-- com.runner.runnerTestNG -->
+=======
       <class name="com.runner.TestCodeRed_RunnerClass">
         <methods>
           <include name="setUpClass"/>
@@ -15,6 +24,7 @@
 >>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
         </methods>
       </class> <!-- com.runner.TestCodeRed_RunnerClass -->
+>>>>>>> ee91d922dd66522ba8552e58e39863a384d96d5c
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

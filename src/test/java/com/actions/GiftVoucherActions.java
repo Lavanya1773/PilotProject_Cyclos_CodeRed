@@ -65,7 +65,6 @@ public class GiftVoucherActions {
 		return giftVoucherLocators.SuccessMessBuyVoucher.getText();
 	}
 	
-	
 	public void clickMyVoucher() {
 		giftVoucherLocators.MyVoucher.click();
 	}

@@ -25,19 +25,16 @@ public class messageStepDefanition {
 		HelperClass.openPage(data1.url);
 	    System.out.println("url open");	
 	    HelperClass.log.info("Cyclos URL is launched");
+
 	}
-	
- 
+
+
 	@When("Users provide valid username and password")
 	public void user_provide_valid_username_and_password() {
 		System.out.println("User provides username and password to signIn");
 		objMess.setSignIn(data1.userName, data1.password);
 		HelperClass.log.info("User enter valid user name and password");
-<<<<<<< HEAD
 		}
-=======
-	}
->>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
 
 	@When("User choose the Message Tab")
 	public void user_choose_the_message_tab() {

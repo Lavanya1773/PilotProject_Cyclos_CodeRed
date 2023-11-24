@@ -1,5 +1,7 @@
 Feature: User using Search Advertisements in Marketplace tab available in Cyclos Payment Software Application
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 
   Scenario: User uses Price Highest filter
     Given User launches the url of the web page
@@ -38,6 +40,7 @@ Feature: User using Search Advertisements in Marketplace tab available in Cyclos
     And User removes a product from list
     Then user prints the total number of results available in favorites after removing product
 =======
+>>>>>>> ee91d922dd66522ba8552e58e39863a384d96d5c
  
 Scenario: User uses Price Highest filter
 Given User launches the url of the web page
@@ -74,5 +77,9 @@ Given User launches the url of the web page
 When User correct valid username and password
 And User enables the checkbox (Show only favorites)
 And User removes a product from list
+<<<<<<< HEAD
+Then user prints the total number of results available in favorites after removing product
+=======
 Then user prints the total number of results available in favorites after removing product
 >>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
+>>>>>>> ee91d922dd66522ba8552e58e39863a384d96d5c
