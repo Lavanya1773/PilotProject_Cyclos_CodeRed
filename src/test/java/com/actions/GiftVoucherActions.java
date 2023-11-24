@@ -65,9 +65,7 @@ public class GiftVoucherActions {
 		return giftVoucherLocators.SuccessMessBuyVoucher.getText();
 	}
 	
-	
-	public void clickMyVoucher() throws InterruptedException {
-		Thread.sleep(3000);
+	public void clickMyVoucher() {
 		giftVoucherLocators.MyVoucher.click();
 	}
 	

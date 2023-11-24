@@ -11,7 +11,6 @@ public class HookClass {
 	@Before
 	public static void setUp() {
 		HelperClass.setUpDriver();
-		
 	}
 	@After
 	public static void tearDown(Scenario scenario) {
@@ -22,6 +21,5 @@ public class HookClass {
 		
 		HelperClass.tearDown();
 	}
- 
 }
- 
+

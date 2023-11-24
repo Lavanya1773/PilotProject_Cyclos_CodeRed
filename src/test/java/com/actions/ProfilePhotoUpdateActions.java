@@ -39,16 +39,15 @@ public class ProfilePhotoUpdateActions {
 	
 	public void clickUploadNew() throws AWTException, InterruptedException {
 		
-//		Thread.sleep(10000);
-		HelperClass.wait.until(ExpectedConditions.visibilityOf(profilePictureLocators.uploadNewButton));
+		Thread.sleep(5000);
+//		HelperClass.wait.until(ExpectedConditions.visibilityOf(profilePictureLocators.uploadNewButton));
 		profilePictureLocators.uploadNewButton.click();
 		
-		Thread.sleep(10000);
-
+		Thread.sleep(5000);
 		Robot rb = new Robot();
 
 		StringSelection str = new StringSelection("file:///C:/Users/lsethuraj/Downloads/pictureFolder/picture.jpg");
-//		file:///C:/arun/Newfolder/Arun_Passport_Photo.jpg
+
 		Toolkit.getDefaultToolkit().getSystemClipboard().setContents(str, null);
 		
 		
