@@ -213,6 +213,7 @@ public class Login_Function_Actions {
 		return LF.PasswordErrorMessage.getText();
 		
 	}
+//My Contact	
     // User Click User option
 	public void UserOption() {
 		LF.UserOption.click();
@@ -228,12 +229,13 @@ public class Login_Function_Actions {
 	
 	}
     // User enter the Name to add in My Contact list
-	public void setMyContactName(DataTable datatable) {
+	public void setMyContactName(DataTable datatable) throws InterruptedException {
 		HelperClass.wait.until(ExpectedConditions.visibilityOf(LF.MyContactName));
 		List<Map<String,String>> signUpForm = datatable.asMaps(String.class,String.class);
 	    for(Map<String,String> data : signUpForm) {
 	    	String  MyContactName= data.get("MyContactName");
 		act.moveToElement(LF.MyContactName).sendKeys(MyContactName).perform();
+		Thread.sleep(3000);
 		act.moveToElement(LF.MyContactName).sendKeys(Keys.DOWN,Keys.ENTER).perform();;
 		
 	    }
