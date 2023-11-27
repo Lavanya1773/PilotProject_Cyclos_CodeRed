@@ -99,7 +99,6 @@ public class AccountInformatioStepDefinition {
 	@Then("User get the payment details based on Member filter")
 	public void user_get_the_payment_details_based_on_member_filter() {
 		
-		objAccountActions.scrollAction();
 		Assert.assertTrue(objAccountActions.getMemberPaymentVerification().contains("Amount for buying gifts"));				
 		List<WebElement> table = HelperClass.getDriver().findElements(By.xpath("//table[@class='dataTable']"));	
 		System.out.println(table.size());
