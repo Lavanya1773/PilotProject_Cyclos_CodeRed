@@ -8,25 +8,11 @@ import java.util.Properties;
 
 public class UtilityClassInterests {
 public String url, userName, password, nameInput, nameInput2;
-	
 	public UtilityClassInterests(){
 		data();
 	}
-	
 	public void data() {
-<<<<<<< HEAD
-		File file = new File("C:\\Users\\nselvam2\\eclipse-workspace\\CodeRed\\PilotProject_Cyclos_CodeRed\\src\\test\\resources\\Cyclos.properties");
-=======
-<<<<<<< HEAD
 		File file = new File("src/test/resources/Cyclos.properties");
-=======
-<<<<<<< HEAD
-		File file = new File("src/test/resources/Cyclos.properties");
-=======
-		File file = new File("C:\\Users\\nselvam2\\eclipse-workspace\\CodeRed\\PilotProject_Cyclos_CodeRed\\src\\test\\resources\\Cyclos.properties");
->>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
->>>>>>> 3001778f8f7b7cb2f4d30d5867dec82be0987e19
->>>>>>> ee91d922dd66522ba8552e58e39863a384d96d5c
 		FileInputStream fio =null;
 		try {
 			fio = new FileInputStream(file);
