@@ -18,8 +18,8 @@ public class InterestsLocators {
 	
 	@FindBy(xpath="//span[text()='Marketplace']") //xpath for marketplace tab
 	public WebElement market1;
-//	//Advertisement interests
 	
+	//Advertisement interests	
 	@FindBy(xpath="//span[text()='Advertisement interests']") //xpath for advertisement interests
 	public WebElement advertisementInterests;
 
