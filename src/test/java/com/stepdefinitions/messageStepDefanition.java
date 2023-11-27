@@ -1,15 +1,12 @@
 package com.stepdefinitions;
 
 import java.util.List;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
-
 import com.actions.MessageActions;
 import com.utility.HelperClass;
 import com.utility.UtilityClassMessage;
-
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -52,7 +49,6 @@ public class messageStepDefanition {
 
 	}
 
-	
 	@When("User gets the number of results in send message page")
 	public void user_gets_the_number_of_results_in_send_message_page() {
 		String resultSendMessage = objMess.getNumberResultSendMess();
@@ -61,7 +57,6 @@ public class messageStepDefanition {
 
 	}
 
-	
 	@When("User choose the inbox option")
 	public void user_choose_the_inbox_option() {
 		objMess.clickInboxRadioButton();
@@ -69,7 +64,7 @@ public class messageStepDefanition {
 		HelperClass.log.info("User select the inbox option");
 
 	}
-
+	
 	//Assertion included
 	@When("User gets the number of results in inbox page.")
 	public void user_gets_the_number_of_results_in_inbox_page() {
@@ -78,7 +73,6 @@ public class messageStepDefanition {
      	 Assert.assertTrue(objMess.getNumberResultInbox().contains("results"));
 		 System.out.println("The assert is true ");
 		 HelperClass.log.info("User get the number of inbox messages");
-     	 
 	}  
 
 	@When("User choose the Trash option")
@@ -96,9 +90,6 @@ public class messageStepDefanition {
      	HelperClass.log.info("User get the number of Trash message");
 	}
 
-	
-	
-	
 	@When("User Creating new message")
 	public void user_creating_new_message() {
 		 objMess.clickNewButton();
@@ -107,9 +98,6 @@ public class messageStepDefanition {
 
 	}
 
-	
-
-	
 	@When("Enter the required details")
 	public void enter_the_required_details() throws InterruptedException {
 		    objMess.setUserName(data1.User);
@@ -145,43 +133,29 @@ public class messageStepDefanition {
 		 Assert.assertTrue(objMess.getFailMess().contains("The action couldn't be processed"));
 		 System.out.println("The assert is true");
 		 System.out.println("The message not send");
-		 HelperClass.log.info("User receive the message ");
-
-		
+		 HelperClass.log.info("User receive the message ");	
 	}
 
-	
-	
-	
-	
-	
 	@Then("User receives a verification message")
 	public void user_receives_a_verification_message() {
 		 String successMess =objMess.getSuccessMess();
 		 System.out.println("The success message is " +successMess);
-         
 		 Assert.assertTrue(objMess.getSuccessMess().contains("The message was successfully sent."));
 		 System.out.println("The assert is true");
 		 System.out.println("The message succesfully send");
 		 HelperClass.log.info("User receives a verification message");
-
-		 
+	 
 	}
 	
 	@Then("Print the send messages")
 	public void print_the_send_messages() {
 		List<WebElement> table = HelperClass.getDriver().findElements(By.xpath("//div[@class='resultsContainer']//table"));	
-		 
 		System.out.println(table.size());
 		for(WebElement datas : table)
 		{
 		System.out.println(datas.getText());
 		}
-
 		 HelperClass.log.info("Print the send message");
-
 	}
-
-	
 	
 }
