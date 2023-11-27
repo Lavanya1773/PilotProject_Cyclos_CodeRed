@@ -1,17 +1,17 @@
-package com.runner;
-import org.testng.annotations.DataProvider;
-import io.cucumber.testng.AbstractTestNGCucumberTests;
-import io.cucumber.testng.CucumberOptions;
+// package com.runner;
+// import org.testng.annotations.DataProvider;
+// import io.cucumber.testng.AbstractTestNGCucumberTests;
+// import io.cucumber.testng.CucumberOptions;
  
  
-@CucumberOptions(features = "src/test/resources/Features/message.feature", glue = "com.stepdefinitions")
+// @CucumberOptions(features = "src/test/resources/Features/message.feature", glue = "com.stepdefinitions")
 
-public class runnerTestNG extends AbstractTestNGCucumberTests{
+// public class runnerTestNG extends AbstractTestNGCucumberTests{
 	
-	@Override
-	@DataProvider(parallel = true)
-	public Object[][] scenarios(){
-		return super.scenarios();
-	}
+// 	@Override
+// 	@DataProvider(parallel = true)
+// 	public Object[][] scenarios(){
+// 		return super.scenarios();
+// 	}
  
-}
+// }
