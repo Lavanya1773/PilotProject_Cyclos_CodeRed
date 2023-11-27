@@ -1,9 +1,9 @@
 package com.stepdefinitions; 
+
 import org.testng.Assert;
 import com.actions.GiftVoucherActions;
 import com.utility.HelperClass;
 import com.utility.UtilityClassVoucher;
- 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -139,6 +139,7 @@ public class VoucherStepdefinition {
 	public void user_download_the_gift_voucher_pdf() {
 		objgiftVoucherActions.printPDFclick();
 	    HelperClass.log.info("User download the gift voucher pdf");
+		objgiftVoucherActions.clickLogout();
  
 	}
 
