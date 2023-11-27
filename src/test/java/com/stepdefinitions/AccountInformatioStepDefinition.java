@@ -63,10 +63,6 @@ public class AccountInformatioStepDefinition {
 
 	@Then("User download the payment history")
 	public void user_download_the_payment_history() {
-		objAccountActions.scrollAction();
-
-	public void user_download_thepayment_history() throws InterruptedException {
-//		objAccountActions.scrollAction();
 		objAccountActions.clickDownloadFile();
 		objAccountActions.clickPdf();			
 		System.out.println("Payment file is downloaded. Please Check your system");
@@ -78,12 +74,12 @@ public class AccountInformatioStepDefinition {
 	public void user_provide_filters_as_system_payments_and_check_the_number_of_incoming_payments() {
 		objAccountActions.clickSystemFilters();		
 		 HelperClass.log.info("User choose system Payment filter");
-
 	}
 
 	@Then("User get the payment account details based on System filter")
 	public void user_get_the_payment_account_details_based_on_system_filter() {
-		Assert.assertTrue(objAccountActions.getSystemPaymentVerification().contains("Initial credit"));		
+
+		Assert.assertTrue(objAccountActions.getSystemPaymentVerification().contains("Initial credit"));				
 		List<WebElement> table = HelperClass.getDriver().findElements(By.xpath("//div[@class='dataTableContainer']//table"));	
 		System.out.println(table.size());
 		for(WebElement datas : table)
@@ -98,27 +94,19 @@ public class AccountInformatioStepDefinition {
 	public void user_provide_filters_as_member_payments_and_check_the_number_of_incoming_payments() {
 		objAccountActions.clickMemberPaymentFilters();
 		 HelperClass.log.info("User choose Member Payment filter");
-
 	}
 
 	@Then("User get the payment details based on Member filter")
 	public void user_get_the_payment_details_based_on_member_filter() {
+		
 		objAccountActions.scrollAction();
-		Assert.assertTrue(objAccountActions.getMemberPaymentVerification().contains("Amount for buying gifts"));
-		HelperClass.javascriptExe.executeScript("window.scrollBy(0,doc.body.scrollHeight)");		
-
-	public void user_get_the_payment_details_based_on_member_filter() throws InterruptedException {
-//		objAccountActions.scrollAction();
-		Assert.assertTrue(objAccountActions.getMemberPaymentVerification().contains("Amount for buying gifts"));
-//		HelperClass.javascriptExe.executeScript("window.scrollBy(0,doc.body.scrollHeight)");		
-		List<WebElement> table = HelperClass.getDriver().findElements(By.xpath("//div[@class='dataTableContainer']//table"));	
+		Assert.assertTrue(objAccountActions.getMemberPaymentVerification().contains("Amount for buying gifts"));				
+		List<WebElement> table = HelperClass.getDriver().findElements(By.xpath("//table[@class='dataTable']"));	
 		System.out.println(table.size());
 		for(WebElement datas : table)
 		{
 		System.out.println(datas.getText());
 		}
-		 HelperClass.log.info("User get the data's from system filter");
-		
-	}
-		
+		 HelperClass.log.info("User get the data's from system filter");	
+	}		
 }
