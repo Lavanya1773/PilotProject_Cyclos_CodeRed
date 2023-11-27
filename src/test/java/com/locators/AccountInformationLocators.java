@@ -68,9 +68,7 @@ public class AccountInformationLocators {
 	public WebElement MemberPaymentsBox;
 	
 	@FindBy(xpath = "//div[contains(text(),'results')]")
-//	@FindBy(xpath = "//td[text()='angitha']")
-	public WebElement memberResultCount;
-	
+	public WebElement memberResultCount;	
 	
 	@FindBy(xpath = "//td[text()='Initial credit']")
 	public WebElement systemPaymentTextConfirmation;
@@ -83,9 +81,6 @@ public class AccountInformationLocators {
 	
 	@FindBy(xpath = "//span[text()='PDF']")
 	public WebElement pdf;
-	
-//	@FindBy(xpath = "//tr[@class='dataTableRow dataTableRow-even']//td")
-//	public List<WebElement> tableData;  //for table data purpose
 	
 	@FindBy(xpath = "//div[@class='footerContents']")
 	public WebElement scrollElement;
