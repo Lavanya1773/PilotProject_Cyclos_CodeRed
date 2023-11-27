@@ -1,34 +1,25 @@
 package com.actions;
 
 import java.time.Duration;
-
-//import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
-//import org.openqa.selenium.WebElement;
-//import org.openqa.selenium.interactions.Action;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.WebElement;
-
 import com.locators.MessageLocators;
 import com.utility.HelperClass;
 
 public class MessageActions {
 	MessageLocators messagelocators=new MessageLocators();
 	Actions action = new Actions(HelperClass.getDriver());
-	
 	//HelperClass driv = new HelperClass();
-
-	
 	String  userName, password, strUser, strSubject, Description ,User;
-	
 	//constructor
+	
 	public  MessageActions() {  
 		this.messagelocators = new MessageLocators();
 		PageFactory.initElements(HelperClass.getDriver(),messagelocators);
 	}
-	
 	
 	//Login Actions
 	public void setSignIn(String userName, String password) {
@@ -49,7 +40,6 @@ public class MessageActions {
 		messagelocators.InBoxRadioButton.click();
 	}
 	
-	
 	//Get number of result  after clicking Inbox radio button
 	public String getNumberResultInbox() {
 		HelperClass.wait.until(ExpectedConditions.visibilityOf(messagelocators.ResultInbox));
@@ -62,22 +52,18 @@ public class MessageActions {
 		
 	}
 	
-	
 	//Get number of result  after clicking SendMessage radio button
 		public String getNumberResultSendMess(){
 			HelperClass.wait.until(ExpectedConditions.visibilityOf(messagelocators.ResultSendMessage));
 			return messagelocators.ResultSendMessage.getText();
 		}
 	
-	
 	//Clicking Trash Radio Button
 	public void clickTrashRadioButton() {
 		messagelocators.TrashRadiOButton.click();
 		messagelocators.AdvanceButton.click();
 		messagelocators.SearchButton.click();
-		
 	}
-	
 	
 	//Get number of result  after clicking Trash radio button
 	public String getNumberResultTrash() {
@@ -85,12 +71,10 @@ public class MessageActions {
 		return messagelocators.ResultTrash.getText();
 	}
 	
-	
 	//Clicking NEW Button
 	public void clickNewButton() {
 		messagelocators.NewButton.click();
 	}
-	
 	
 	//Enter the user name
 	public void setUserName(String User) throws InterruptedException {		
@@ -102,7 +86,6 @@ public class MessageActions {
 			action.moveToElement(messagelocators.UserInputField).sendKeys(Keys.DOWN,Keys.ENTER).build().perform();		
 	}
 	
-
 	//Enter text data in Subject field
 	public void setSubject(String strSubject) {
 		messagelocators.SubjectInputField.sendKeys(strSubject);
@@ -117,17 +100,7 @@ public class MessageActions {
 		HelperClass.getDriver().switchTo().frame(messagelocators.iframe);
 		messagelocators.DescriptionInputField.sendKeys("Demo description");
 		HelperClass.getDriver().switchTo().parentFrame();
-		
-//		System.out.println("Frame switched");
-//		//action.moveToElement(messagelocators.DescriptionInputField).sendKeys("Demo description");
-//		action.moveToElement(messagelocators.DescriptionInputField).sendKeys(Description).build().perform();
-//		HelperClass.getDriver().switchTo().parentFrame();	
-	//	WebElement name = driv.driver.findElement(By.xpath("//body[@marginwidth='0']"));
-	//	name.sendKeys("demo description");		
-		//driv.driver.switchTo().frame(strDescription);
-		//messagelocators.DescriptionInputField.sendKeys(strDescription);
 	}
-	
 	
 	//Clicking SEND Button
 	public void clickSendButton() {
@@ -143,7 +116,6 @@ public class MessageActions {
 	public String getFailMess() {
 		return messagelocators.Failmessage.getText();
 	}
-	
 	
 	public void message(String userName,String password, String User, String strSubject, String strDescription) throws InterruptedException {
 		this.setSignIn(userName,password);
