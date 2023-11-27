@@ -18,10 +18,7 @@ public class HookClass {
 			final byte[] screenshot = ((TakesScreenshot) HelperClass.getDriver()).getScreenshotAs(OutputType.BYTES);
 			scenario.attach(screenshot, "image/png", scenario.getName());
 		}
-<<<<<<< HEAD
-=======
-		
->>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
+
 		HelperClass.tearDown();
 	}
  

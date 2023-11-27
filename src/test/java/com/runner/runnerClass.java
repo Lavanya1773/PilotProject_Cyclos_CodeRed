@@ -1,36 +1,17 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 package com.runner;
+
 import org.junit.runner.RunWith;
 
 import io.cucumber.junit.Cucumber;
-import io.cucumber.testng.CucumberOptions;
+import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-//@CucumberOptions(features = "src/test/resources/Features/AccountInformation.feature", glue = "com.stepdefinitions",plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:","pretty", "html:target/Reports/Cucuber.html", "junit:target/Reports/Cucuber.xml", "json:target/Reports/Cucuber.json"})
-@CucumberOptions(features = "src/test/resources/Features", glue = "com.stepdefinitions",plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:","json:target/Reports/Cucuber.json"})
 
+//@CucumberOptions(features = "src/test/resources/Features/MarketPlace.feature", glue = "com.stepdefinitions", plugin= {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"})
+
+//@CucumberOptions(features = "src/test/resources/Features/Interests.feature", glue = "com.stepdefinitions", plugin= {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"})
+
+@CucumberOptions(features= "src/test/resources/Features", glue= "com.stepdefinitions", plugin= {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"})
 public class runnerClass {
 
 }
-=======
->>>>>>> 3001778f8f7b7cb2f4d30d5867dec82be0987e19
-//
-//package com.runner;
-//import org.junit.runner.RunWith;
-//import io.cucumber.junit.Cucumber;
-//import io.cucumber.junit.CucumberOptions;
-//
-//@RunWith(Cucumber.class)
-////@CucumberOptions(features = "src/test/resources/Features/AccountInformation.feature", glue = "com.stepdefinitions",plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:","pretty", "html:target/Reports/Cucuber.html", "junit:target/Reports/Cucuber.xml", "json:target/Reports/Cucuber.json"})
-//@CucumberOptions(features = "src/test/resources/Features", glue = "com.stepdefinitions",plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:","pretty", "html:target/Reports/Cucuber.html", "junit:target/Reports/Cucuber.xml", "json:target/Reports/Cucuber.json"})
-//
-//public class runnerClass {
-//
-<<<<<<< HEAD
-//}
-=======
-//}
->>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
->>>>>>> 3001778f8f7b7cb2f4d30d5867dec82be0987e19

@@ -7,10 +7,7 @@ import java.util.Map;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.testng.Assert;
 import com.actions.Login_Function_Actions;
-<<<<<<< HEAD
-=======
 import com.utility.Excel_Provider;
->>>>>>> 3001778f8f7b7cb2f4d30d5867dec82be0987e19
 import com.utility.HelperClass;
 import com.utility.UtilityClass;
 import io.cucumber.java.en.Then;
@@ -20,12 +17,8 @@ public class Login_Function_Stepdefinitions {
 	
 	Login_Function_Actions LFA = new Login_Function_Actions();
 	UtilityClass UC = new UtilityClass();
-<<<<<<< HEAD
-	
-=======
 	Excel_Provider ex = new Excel_Provider(); 
->>>>>>> 3001778f8f7b7cb2f4d30d5867dec82be0987e19
-	
+
 //Login Valid Credentials	
 	
 	// When User clicks the Signin button

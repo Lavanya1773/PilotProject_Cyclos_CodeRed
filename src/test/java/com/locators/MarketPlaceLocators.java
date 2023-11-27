@@ -53,7 +53,7 @@ public class MarketPlaceLocators {
 	@FindBy(xpath="//*[name()=\"svg\" and @class=\"bi bi-heart\"]")
 	public WebElement fav2; //xpath for add to favorites
 //	//back	
-<<<<<<< HEAD
+
 
 	@FindBy(xpath="//span[text()='Relevance']")
 	public WebElement relevance; //xpath for relevance filter
@@ -79,37 +79,3 @@ public class MarketPlaceLocators {
 
 }
 	
-
-=======
->>>>>>> 3001778f8f7b7cb2f4d30d5867dec82be0987e19
-
-	@FindBy(xpath="//span[text()='Relevance']")
-	public WebElement relevance; //xpath for relevance filter
-	
-	@FindBy(xpath="//div[text()='Ndulla']")
-	public WebElement product3; //xpath for choosing product
-	
-	@FindBy(xpath="//*[name()=\"svg\" and @class=\"bi bi-heart\"]")
-	public WebElement fav3; //xpath for add to favorites
-	
-	@FindBy(xpath="(//*[name()=\"svg\" and @class=\"ci ci-checkbox-unchecked\"]//parent::div)[1]")
-	public WebElement favOnly; //xpath for enabling show only favorites checkbox
-	
-	@FindBy(xpath="//*[name()=\"svg\" and @class=\"bi bi-check2-square\"]")
-	public WebElement enableCheckBox; //xpath for enabling show only favorites checkbox
-	
-	@FindBy(xpath="(//*[name()=\"svg\" and @class=\"bi bi-heart-fill\"])[1]")
-	public WebElement rem1; //xpath for removing the product
-	
-	@FindBy(xpath="//div[contains(text(),' result')]")
-	public WebElement resultCount; //xpath for getting the total counts
-	
-<<<<<<< HEAD
-
-}
-	
-
-=======
->>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
-
-}
