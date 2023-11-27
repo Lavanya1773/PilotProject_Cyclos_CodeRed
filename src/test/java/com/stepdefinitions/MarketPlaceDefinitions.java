@@ -1,11 +1,9 @@
 package com.stepdefinitions;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
-
 import com.actions.MarketPlaceActions;
 import com.utility.HelperClass;
 import com.utility.UtilityClassMarketPlace;
-
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
