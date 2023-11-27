@@ -1,7 +1,6 @@
 package com.stepdefinitions;
 
 import org.junit.Assert;
-
 import com.actions.PaymentActions;
 import com.utility.HelperClass;
 import com.utility.UtilityClassPayments;
