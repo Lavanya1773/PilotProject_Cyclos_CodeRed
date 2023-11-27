@@ -57,7 +57,7 @@ public class GiftVoucherLocators {
 		public WebElement signInButton;
 		
 		//Gift Voucher locators
-		@FindBy(xpath = "//span[@class='iconLabelLabel' and contains(text(),'My voucher')]")
+		@FindBy(xpath = "//span[text()='My vouchers']")
 		public WebElement MyVoucher;
 	
 		@FindBy(xpath = "//div[@class='paginationLeft']")

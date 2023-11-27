@@ -79,5 +79,7 @@ public class VoucherStepdefinition {
 	public void user_download_the_gift_voucher_pdf() {
 		objgiftVoucherActions.printPDFclick();		
 	    HelperClass.log.info("User download the gift voucher pdf");
+	    objgiftVoucherActions.clickLogout();
 	}
 }
+
