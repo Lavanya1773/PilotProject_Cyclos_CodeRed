@@ -1,25 +1,14 @@
 package com.actions;
-
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-
-=======
->>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
->>>>>>> ee91d922dd66522ba8552e58e39863a384d96d5c
 import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 import io.cucumber.datatable.DataTable;
-
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-
 import com.locators.Login_Function_Locators;
 import com.utility.Excel_Provider;
 import com.utility.HelperClass;
@@ -320,15 +309,7 @@ public class Login_Function_Actions {
 	}
 	
 	public void details(String sheetname, Integer rownumber) throws InvalidFormatException, IOException {
-<<<<<<< HEAD
-		List<Map<String,String>> testdata=ex.getData("C:\\Users\\alakshmanan\\eclipse-workspace\\CodeRed\\PilotProject_Cyclos_CodeRed\\src\\test\\resources\\AddressData.xlsx", sheetname);
-=======
-<<<<<<< HEAD
-		List<Map<String,String>> testdata=ex.getData("C:\\Users\\alakshmanan\\eclipse-workspace\\CodeRed\\PilotProject_Cyclos_CodeRed\\src\\test\\resources\\AddressData.xlsx", sheetname);
-=======
 		List<Map<String,String>> testdata=ex.getData("src/test/resources/AddressData.xlsx", sheetname);
->>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
->>>>>>> ee91d922dd66522ba8552e58e39863a384d96d5c
 		String AddressName = testdata.get(rownumber).get("AddressName");
 		String Address = testdata.get(rownumber).get("Address");
 		String Zipecode = testdata.get(rownumber).get("Zipecode");
@@ -342,15 +323,7 @@ public class Login_Function_Actions {
 		
 	}
 	public void detailsAddress(String sheetname, Integer rownumber) throws InvalidFormatException, IOException {
-<<<<<<< HEAD
-		List<Map<String,String>> testdata=ex.getData("C:\\Users\\alakshmanan\\eclipse-workspace\\CodeRed\\PilotProject_Cyclos_CodeRed\\src\\test\\resources\\AddressData.xlsx", sheetname);
-=======
-<<<<<<< HEAD
-		List<Map<String,String>> testdata=ex.getData("C:\\Users\\alakshmanan\\eclipse-workspace\\CodeRed\\PilotProject_Cyclos_CodeRed\\src\\test\\resources\\AddressData.xlsx", sheetname);
-=======
 		List<Map<String,String>> testdata=ex.getData("src/test/resources/AddressData.xlsx", sheetname);
->>>>>>> e1b89dfce1145d8aaf16c43e166302f9b6bcfbe1
->>>>>>> ee91d922dd66522ba8552e58e39863a384d96d5c
 	String CountryName = testdata.get(rownumber).get("CountryName");
 	setCountryName(CountryName);
 	}
