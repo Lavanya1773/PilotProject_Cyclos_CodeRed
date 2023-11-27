@@ -76,6 +76,8 @@ public class GiftVoucherActions {
 	public void printPDFclick() {
 		giftVoucherLocators.PrintPDF.click();
 	}
-	
+	public void clickLogout() {
+		giftVoucherLocators.logout.click();
+	}
 }
 
