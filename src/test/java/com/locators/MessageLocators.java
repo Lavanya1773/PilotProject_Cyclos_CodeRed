@@ -6,12 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import com.utility.HelperClass;
 
-public class MessageLocators {
-	
-//	 public static WebDriver driver;
-	//HelperClass driv = new HelperClass();
-	
-        
+public class MessageLocators {        
 	    //MESSAGES PAGE
 	    //Message icon in home page
 		@FindBy(xpath ="//*[name()='svg' and @class='bi bi-envelope-fill']")
@@ -23,8 +18,7 @@ public class MessageLocators {
 		
 		//Number of result in After Inbox button
 		@FindBy(xpath ="//div[@class='paginationLeft']")
-		public WebElement ResultInbox;
-		
+		public WebElement ResultInbox;		
 		
 		//Radio Button SendMessage
 		@FindBy(xpath ="//span[contains(text(),'Sent messages')]")
@@ -52,8 +46,7 @@ public class MessageLocators {
 				
 		//Advance button
 		@FindBy(xpath ="//button[contains(text(),'Advanced')]")
-		public WebElement AdvanceButton;
-		
+		public WebElement AdvanceButton;		
 		
 		//NEW MESSAGE PAGE
 		//User Input Field 
@@ -62,22 +55,13 @@ public class MessageLocators {
 		
 		//Subject input field
 		@FindBy(xpath ="//input[@class='inputField full']")
-		public WebElement SubjectInputField;
-		
+		public WebElement SubjectInputField;		
 	
 		//Description Input Field IFRAME !!!
 //     	public WebElement DescriptionInputField = driv.driver.findElement(By.xpath("//iframe[@class= 'richTextField']"));
 				
 		@FindBy(xpath ="//body[@marginwidth='0']")
-      //  @FindBy(xpath ="//body[@marginwidth='0']")
-        public WebElement DescriptionInputField;
-		
-		
-    //  driver.switchTo().frame(DescriptionInputField);
-	//	public WebElement DescriptionInputField = driv.driver.findElement(By.xpath("//iframe[@class= 'richTextField']"));
-	//	driver.switchTo().frame(Element);
-        
-		
+       		public WebElement DescriptionInputField;     
 		
 		//Send Button 
 		@FindBy(xpath ="//button[contains(text(),'Send')]")
@@ -88,7 +72,7 @@ public class MessageLocators {
 		public WebElement Successmessage;
 		
 		//Failed message
-		@FindBy(xpath ="/html/body/div[6]/div/div/div[2]/div[1]/div/div[2]/b")
+		@FindBy(xpath ="//div[@class='notificationText notificationText-singleLine']//parent::b")
 		public WebElement Failmessage;
 		
 		//Login Locators
