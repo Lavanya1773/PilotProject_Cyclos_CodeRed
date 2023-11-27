@@ -69,8 +69,8 @@ public class GiftVoucherLocators {
 		@FindBy(xpath = "//span[contains(text(),'Print')]")
 		public WebElement PrintPDF;
 
-		@FindBy(xpath = "")
-		public WebElement Logout;
+		@FindBy(xpath = "//span[text()='Logout']")
+		public WebElement logout;
 		
 		
 }
