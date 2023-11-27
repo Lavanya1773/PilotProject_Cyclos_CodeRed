@@ -13,7 +13,7 @@ WebDriver driver;
 	public WebElement Signin;
 	
 	//Enter the LoginName
-	@FindBy(xpath = "//input[@class='inputField full']")
+	@FindBy(xpath = "//input[@class='inputField full']") 
 	public WebElement SigninName;
 	
 	//Enter the  Password
