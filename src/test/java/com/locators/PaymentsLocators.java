@@ -3,8 +3,7 @@ package com.locators;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class PaymentsLocators {
-	
+public class PaymentsLocators {	
 	//Locator for signIn button
 	@FindBy(xpath = "//span[text()='Sign in']")
 	public WebElement signIn;
