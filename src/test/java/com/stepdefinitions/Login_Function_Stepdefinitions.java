@@ -233,7 +233,7 @@ public class Login_Function_Stepdefinitions {
 
 	// When User enters the Name to add in My Contact list
 	@Then("User enter the Name to add in My Contact list")
-	public void user_enter_the_name_to_add_in_my_contact_list(io.cucumber.datatable.DataTable dataTable){
+	public void user_enter_the_name_to_add_in_my_contact_list(io.cucumber.datatable.DataTable dataTable) throws InterruptedException{
 		LFA.setMyContactName(dataTable);
 		HelperClass.log.info("User enter the name to add in my contact list");
 	}
