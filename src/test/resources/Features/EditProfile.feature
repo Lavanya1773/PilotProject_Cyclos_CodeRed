@@ -7,7 +7,7 @@ Feature: To Edit User profile in Demo Cyclos classic payment software Applicatio
     And User click Personal field
     And User click edit option
     And User enter Website
-      | Website    |
+      | Website        |
       | leafground.com |
     And User choose Gender
     And User choose Business type
