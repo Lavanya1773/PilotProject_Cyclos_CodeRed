@@ -66,6 +66,7 @@ public class GiftVoucherActions {
 	}
 	
 	public void clickMyVoucher() {
+		HelperClass.wait.until(ExpectedConditions.visibilityOf(giftVoucherLocators.MyVoucher));
 		giftVoucherLocators.MyVoucher.click();
 	}
 	
