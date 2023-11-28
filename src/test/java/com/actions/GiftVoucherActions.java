@@ -3,6 +3,7 @@ package com.actions;
 import org.openqa.selenium.support.PageFactory;
 import com.locators.GiftVoucherLocators;
 import com.utility.HelperClass;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 
 public class GiftVoucherActions {
 
