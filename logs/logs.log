@@ -8755,3 +8755,57 @@
 [INFO ] 2023-11-27 16:44:55.459 [main] HelperClass - User click the save 
 [INFO ] 2023-11-27 16:44:55.937 [main] HelperClass - User get landline number added success message
 [INFO ] 2023-11-27 16:44:57.020 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-28 10:54:41.397 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-28 10:54:41.400 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-28 10:54:43.877 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-28 10:54:45.273 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-28 10:54:46.919 [main] HelperClass - User gets the current balance
+[INFO ] 2023-11-28 10:54:46.976 [main] HelperClass - User gets the negative balance
+[INFO ] 2023-11-28 10:54:47.005 [main] HelperClass - User gets the Total received payments
+[INFO ] 2023-11-28 10:54:47.113 [main] HelperClass - User prints the pdf
+[INFO ] 2023-11-28 10:54:47.717 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-28 10:54:54.725 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-28 10:54:54.726 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-28 10:54:57.040 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-28 10:54:58.087 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-28 10:54:59.978 [main] HelperClass - User choose system Payment filter
+[INFO ] 2023-11-28 10:55:00.038 [main] HelperClass - User get the data's from system filter
+[INFO ] 2023-11-28 10:55:00.377 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-28 10:55:07.229 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-28 10:55:07.229 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-28 10:55:10.316 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-28 10:55:12.089 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-28 10:55:15.265 [main] HelperClass - User choose Member Payment filter
+[INFO ] 2023-11-28 10:55:15.357 [main] HelperClass - User get the data's from system filter
+[INFO ] 2023-11-28 10:55:15.849 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-28 10:55:21.803 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-28 10:55:23.544 [main] HelperClass - User click the Signin
+[INFO ] 2023-11-28 10:55:23.604 [main] HelperClass - User proides valid LoginName
+[INFO ] 2023-11-28 10:55:23.677 [main] HelperClass - User proides valid Password
+[INFO ] 2023-11-28 10:55:23.729 [main] HelperClass - User Click Submit
+[INFO ] 2023-11-28 10:55:24.936 [main] HelperClass - User click personal field
+[INFO ] 2023-11-28 10:55:24.992 [main] HelperClass - User click the address to edit address
+[INFO ] 2023-11-28 10:55:48.926 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-28 10:56:25.267 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-28 10:56:25.271 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-28 10:56:27.232 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-28 10:56:28.325 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-28 10:56:30.047 [main] HelperClass - User gets the current balance
+[INFO ] 2023-11-28 10:56:30.099 [main] HelperClass - User gets the negative balance
+[INFO ] 2023-11-28 10:56:30.131 [main] HelperClass - User gets the Total received payments
+[INFO ] 2023-11-28 10:56:30.244 [main] HelperClass - User prints the pdf
+[INFO ] 2023-11-28 10:56:30.951 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-28 10:56:35.511 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-28 10:56:35.511 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-28 10:56:37.806 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-28 10:56:39.246 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-28 10:56:41.245 [main] HelperClass - User choose system Payment filter
+[INFO ] 2023-11-28 10:56:41.305 [main] HelperClass - User get the data's from system filter
+[INFO ] 2023-11-28 10:56:42.111 [main] HelperClass - Quitting the driver
+[INFO ] 2023-11-28 10:56:46.918 [main] HelperClass - Logged into Cyclos website
+[INFO ] 2023-11-28 10:56:46.919 [main] HelperClass - Cyclos URL is launched
+[INFO ] 2023-11-28 10:56:48.757 [main] HelperClass - User Logined and currently in the Home Page
+[INFO ] 2023-11-28 10:56:49.800 [main] HelperClass - User selected Banking Tab
+[INFO ] 2023-11-28 10:56:52.187 [main] HelperClass - User choose Member Payment filter
+[INFO ] 2023-11-28 10:56:52.270 [main] HelperClass - User get the data's from system filter
+[INFO ] 2023-11-28 10:56:53.004 [main] HelperClass - Quitting the driver

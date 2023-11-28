@@ -7,7 +7,6 @@ C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\tes
 C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\stepdefinitions\HookClass.java
 C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\locators\ProfilePhotoUpdateLocators.java
 C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\actions\ProfilePhotoUpdateActions.java
-C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\runner\runnerClass.java
 C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\actions\InterestsAction.java
 C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\locators\RegisterPage_Locators.java
 C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\utility\UtilityClassAccountInformation.java
@@ -28,7 +27,6 @@ C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\tes
 C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\actions\GiftVoucherActions.java
 C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\runner\TestCodeRed_RunnerClass.java
 C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\stepdefinitions\Login_Function_Stepdefinitions.java
-C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\runner\Testrunner_DemoCyclos.java
 C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\actions\PaymentActions.java
 C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\utility\UtilityClassMarketPlace.java
 C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\actions\AccountInformationActions.java
@@ -38,4 +36,3 @@ C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\tes
 C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\utility\HelperClass.java
 C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\actions\Login_Function_Actions.java
 C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\locators\Login_Function_Locators.java
-C:\Users\lsethuraj\eclipse-workspace\CodeRed\PilotProject_Cyclos_CodeRed\src\test\java\com\runner\runnerTestNG.java
